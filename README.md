@@ -1,2 +1,3 @@
-# genial-fau.github.io
-web site
+# The Generative Intelligence Lab @ FAU
+
+under construction
