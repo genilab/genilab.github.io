@@ -5,13 +5,14 @@
 under construction
 
 <!--
-# About 
+## Research Interests
+## Research Tools
 
-# Projects 
 
-# Research Interests
+* Use Cases
+* Project Ideas
+* About us
+* Join Us
 
-# Join Us
-
-# Collaborators
+<!-- PARTNERS
 -->
