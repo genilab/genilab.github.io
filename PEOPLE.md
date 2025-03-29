@@ -4,17 +4,30 @@
 
 ### People
 
-|120px   |1fr    |1fr    |
-|:-----|:-------|:------|:------|
-|100px |header  |header |header |
-|1fr   |sidebar |plot_a |plot_c |
-|1fr   |sidebar |plot_b |plot_b |
+
+<img src="http://generativeintelligencelab.ai/images/people/fkoch-head.png" width=200>
+
+#### Leadership
+
+[Dr. Fernando Koch](http://www.fernandokoch.me)
+* Research Professor at the Department of Electrical Engineering and Computer Sciences, FAU
+* Head of The Generative Intelligence Lab
+* [Publications](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&sortby=pubdate)
+
+<!---
+#### Ph.D. Students
+
+#### Master Students
+
+#### Undergrad Students
+
+#### External Collaborators
+--->
 
 ### Check Also
-
-* [Publications](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&sortby=pubdate)
+* [Join Us](COLLABORATING.md)
+* [Project Ideas](COLLABORATING.md#project-ideas)
 * [Research Interests](RESEARCH.md#research-interests)
 * [Research Tools](RESEARCH.md#research-tools)
 * [Use Cases](RESEARCH.md#use-cases)
-* [Project Ideas](COLLABORATING.md#project-ideas)
-* [Collaborating](COLLABORATING.md)
+
