@@ -2,7 +2,7 @@
 
 ![GeniLab-banner](./images/genilab-banner.png)
 
-# Research | Teaching | People | Join Us
+## [Research](RESEARCH.md) | [Teaching](TEACHING.md) | [People](PEOPLE.md) | [Join Us](COLLABORATING.md)
 
 The Generative Intelligence Lab aims to advance the research, development, and education of Generative Intelligent Systems that empower individuals and organizations to address real-world challenges and improve quality of life.
 
@@ -13,7 +13,7 @@ The Generative Intelligence Lab aims to advance the research, development, and e
 * **Social Impac**t: partner with academia, industry, and the educational community to ensure our work delivers meaningful and positive outcomes for society.
 
 ## Our tools:
-* Owlmind: Framework for Experimentation and Education with Hybrid Artificial intelligence.
-* Prompt Engineering Lab: Education and Research with Prompt Engineering Techniques and use cases.
+* [Owlmind](https://github.com/genilab-fau/owlmind): Framework for Experimentation and Education with Hybrid Artificial intelligence.
+* [Prompt Engineering Lab](https://github.com/genilab-fau/prompt-eng): Education and Research with Prompt Engineering Techniques and use cases.
 
 
