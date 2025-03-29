@@ -8,12 +8,13 @@ Thank you for your interest in joining the Generative Intelligence Lab at FAU!
 Our goal is to foster a  community of curious minds exploring meaningful research and novel ideas aligned with our [Research Interests](README.md#research-interests) and/or applying our [Research Tools](README.md#research-tools).
 
 
----
 ## Postdoctoral Researchers
 
-We DO NOT have financial support available for PhD students at the moment.
+We DO NOT have financial support available at the moment.
 
-However, we are happy to provide guidance and support for fellowship or grant applications.
+However, we are continously looking into Grant Opportunities and applying for support. 
+
+Moreover, we are happy to provide guidance and support for fellowship or grant applications.
 If you would like to put together a proposal to apply for a grant or fellowship, please reach out to discuss potential collaboration and support.
 
 Explore our [Project Ideas](COLLABORATING.md#project-ideas) to get inspired.
@@ -24,13 +25,13 @@ Explore our [Project Ideas](COLLABORATING.md#project-ideas) to get inspired.
 
 We are always interested in working with passionate and self-driven PhD candidates!
 
-> Note: We currently DO NOT have any opportunity for financial support for PhD students. Funding must be arranged independently, typically through external fellowships or grants.
+> Note: We currently DO NOT have any opportunity for financial support. Funding must be arranged independently, typically through external fellowships or grants.
 
 We are open to:
 
 * Supervising or co-supervising PhD research aligned with our Research Interests.
 * Providing mentorship and advisory support for students developing independent research projects.
-* Collaborating with researchers who integrate or extend our Research Tools.
+* Collaborating with researchers who integrate or extend our [Research Tools](README.md#research-tools).
 
 Explore our [Project Ideas](COLLABORATING.md#project-ideas) to get inspired.
 
