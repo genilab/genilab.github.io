@@ -1,6 +1,6 @@
 ![GeniLab-banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Research](RESEARCH.md) | [Teaching](TEACHING.md) | [People](PEOPLE.md) | [Join Us](COLLABORATING.md)
+### [Home](README.md) | [Research](RESEARCH.md) | [Teaching](TEACHING.md) | [People](PEOPLE.md) | [Join Us](JOINUS.md)
 
 ### People
 
@@ -25,7 +25,7 @@
 --->
 
 ### Check Also
-* [Join Us](COLLABORATING.md)
+* [Join Us](JOINUS.md)
 * [Project Ideas](COLLABORATING.md#project-ideas)
 * [Research Interests](RESEARCH.md#research-interests)
 * [Research Tools](RESEARCH.md#research-tools)
