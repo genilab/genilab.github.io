@@ -54,7 +54,7 @@ Explore our [Project Ideas](COLLABORATING.md#project-ideas) to get inspired.
 
 ## Undergraduate Research Opportunities
 
-If you are an undergraduate student at FAU and curious about Generative Artificial Intelligence, Intelligent Chat Bots, Synthetic Content Creation, and other related topics, we would love to hear from you!  We support ``Final Year Projects`` and ``independent research`` that aligns with our [Research Interests](README.md#research-interests) and/or make use of our [Research Tools](README.md#research-tools).
+If you are an undergraduate student at FAU and curious about Generative Artificial Intelligence, Intelligent Chat Bots, Synthetic Content Creation, and other related topics, we would love to hear from you!  We support ``Final Year Projects`` and independent research that aligns with our [Research Interests](README.md#research-interests) and/or make use of our [Research Tools](README.md#research-tools).
 
 Take a look at our [Project Ideas](COLLABORATING.md#project-ideas) for potential topics and directions.
 
