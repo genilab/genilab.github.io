@@ -2,10 +2,10 @@
 
 ### [Home](README.md) | [Research](RESEARCH.md) | [Teaching](TEACHING.md) | [People](PEOPLE.md) | [Join Us](JOINUS.md)
 
-### People
+# People
 
 
-#### Leadership
+## Leadership
 
 <img src="http://generativeintelligencelab.ai/images/people/fkoch-headshot.png" width=200>
 
@@ -15,16 +15,16 @@
 * [Publications](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&sortby=pubdate)
 
 <!---
-#### Ph.D. Students
+## Ph.D. Students
 
-#### Master Students
+## Master Students
 
-#### Undergrad Students
+## Undergrad Students
 
-#### External Collaborators
+## External Collaborators
 --->
 
-### Check Also
+# Check Also
 * [Join Us](JOINUS.md)
 * [Project Ideas](COLLABORATING.md#project-ideas)
 * [Research Interests](RESEARCH.md#research-interests)
