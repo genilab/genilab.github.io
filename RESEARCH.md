@@ -3,7 +3,7 @@
 ### [Home](README.md) | [Research](RESEARCH.md) | [Teaching](TEACHING.md) | [People](PEOPLE.md) | [Join Us](JOINUS.md)
 
 The Generative Intelligence Lab is dedicated to advancing research, development, and education in Generative Intelligent Systems. 
-Our work centers on Computational Intelligence, Generative Systems, and Collective Intelligence. 
+Our work centers on Computational Intelligence, Generative Systems, and Collective Intelligence. Check our [Community Papers](RESEARCH.md#community-papers) for explanation about these topics.
 
 * [Research Interests](README.md#research-interests)
 * [Research Tools](README.md#research-tools)
