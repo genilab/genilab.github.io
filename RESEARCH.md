@@ -9,21 +9,21 @@ Our work centers on Computational Intelligence, Generative Systems, and Collecti
 * [Research Tools](README.md#research-tools)
 
   
-# Use Cases
+## Use Cases
 
 (tbc)
 
-# Publications
+## Publications
 
-## Scientific Papers
+### Scientific Papers
 (tbc)
 
-## Community Papers
+### Community Papers
 * Computational Intelligence (Medium)
 * Generative Systems (Medium)
 * Collective Intelligence (Medium)
   
-# Check also
+## Check also
 * [Research Interests](README.md#research-interests)
 * [Research Tools](README.md#research-tools)
 * [Project Ideas](COLLABORATING.md#project-ideas)
