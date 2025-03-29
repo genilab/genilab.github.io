@@ -17,7 +17,7 @@ We host a range of educational and research projects focused on exploring, desig
 under construction
 -->
 
-## Check also
+### Check also
 * Publications
 * Project Ideas
 * Collaborating
