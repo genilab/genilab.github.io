@@ -44,21 +44,19 @@ If you are interested, please contact Dr. Koch with:
 
 ## Masters Research Opportunities
 
-We welcome Master's students who wish to conduct their thesis research within the lab.
-
-* Projects should be aligned with our Research Interests](README.md#research-interests) and/or make use of our [Research Tools](README.md#research-tools).
-* Check out our [Project Ideas](COLLABORATING.md#project-ideas). to get inspired.
+We welcome Master's students who wish to conduct their thesis research within the lab. Projects should be aligned with our [Research Interests](README.md#research-interests) and/or make use of our [Research Tools](README.md#research-tools).
 
 To discuss supervision or collaboration, please email Dr. Koch with your research interest.
+
+Explore our [Project Ideas](COLLABORATING.md#project-ideas) to get inspired.
 
 ---
 
 ## Undergraduate Research Opportunities
 
-If you're an undergraduate student at FAU and are curious about our [Research Interests](README.md#research-interests), we’d love to hear from you!
+If you are an undergraduate student at FAU and curious about Generative Artificial Intelligence and Collective Intelligence, we would love to hear from you!  We support ``Final Year Projects`` and ``independent research`` that aligns with our [Research Interests](README.md#research-interests) and/or make use of our [Research Tools](README.md#research-tools).
 
-* We support Final Year Projects and independent research that aligns with our lab's focus.
-* Take a look at our [Project Ideas](COLLABORATING.md#project-ideas) for potential topics and directions.
+Take a look at our [Project Ideas](COLLABORATING.md#project-ideas) for potential topics and directions.
 
 
 # Check Also
