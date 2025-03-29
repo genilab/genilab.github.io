@@ -12,7 +12,7 @@ Our goal is to foster a  community of curious minds exploring meaningful researc
 
 > Note: We currently do not have financial support available.
 
-We are continously looking into Grant Opportunities and applying for support. We are happy to provide guidance and support to look into these applications. If you would like to put together a proposal to apply for a grant or fellowship, please reach out to discuss potential collaboration and support.
+We are continously looking into Grant opportunities and applying for support. We are happy to provide guidance and support to look into these applications. If you would like to put together a proposal to apply for a grant or fellowship, please reach out to discuss potential collaboration and support.
 
 Explore our [Project Ideas](COLLABORATING.md#project-ideas) to get inspired.
 
