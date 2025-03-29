@@ -11,7 +11,7 @@ Our work lies at the intersection of **Computational Intelligence**, **Generativ
 We aim to develop systems that generate innovative, practical solutions while staying aligned with human values, intentions, and cultural contexts. 
 These systems go beyond content generation: they engage in co-creative, interactive workflows, collaborating with humans and other agents to produce meaningful outcomes.
 
-# Research Interests
+## Research Interests
 
 * **Theoretical foundations and solution design** for evolving Generative Intelligent Systems
 * **Frameworks and infrastructures** that support Generative Intelligence
@@ -19,13 +19,13 @@ These systems go beyond content generation: they engage in co-creative, interact
 * **Trustworthiness, safety, and regulatory compliance** of Generative Intelligent Systems
 * **Practical applications** of Generative Intelligence in real-world scenarios and Social Systems
 
-# Research Tools
+## Research Tools
 
 * [Owlmind](https://github.com/genilab-fau/owlmind): Framework for Experimentation and Education with Hybrid Artificial intelligence.
 * [Prompt Engineering Lab](https://github.com/genilab-fau/prompt-eng): Education and Research with Prompt Engineering Techniques and use cases.
 
 
-# Check also
+## Check also
 * [Use Cases](RESEARCH.md#use-cases)
 * [Publications](RESEARCH.md#publications)
 * [Project Ideas](COLLABORATING.md#project-ideas)
