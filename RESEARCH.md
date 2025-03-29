@@ -5,7 +5,7 @@
 The Generative Intelligence Lab aims to advance the research, development, and education of Generative Intelligent Systems. 
 We host a range of educational and research projects focused on exploring, designing, and applying Generative Intelligence across domains.
 
-### Research Interests
+# Research Interests
 
 * **Theoretical foundations and solution design** for evolving Generative Intelligent Systems
 * **Frameworks and infrastructures** that support Generative Intelligence
@@ -13,20 +13,20 @@ We host a range of educational and research projects focused on exploring, desig
 * **Trustworthiness, safety, and regulatory compliance** of Generative Intelligent Systems
 * **Practical applications** of Generative Intelligence in real-world scenarios and Social Systems
 
-### Research Tools
+# Research Tools
 
 * [Owlmind](https://github.com/genilab-fau/owlmind): Framework for Experimentation and Education with Hybrid Artificial intelligence.
 * [Prompt Engineering Lab](https://github.com/genilab-fau/prompt-eng): Education and Research with Prompt Engineering Techniques and use cases.
 
-### Use Cases
+# Use Cases
 
 (tbc)
 
-### Publications
+# Publications
 
 (tbc)
 
-### Check also
+# Check also
 * [Project Ideas](COLLABORATING.md#project-ideas)
 * [Collaborating](COLLABORATING.md)
 * [Join Us](JOINUS.md)
