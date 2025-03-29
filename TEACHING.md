@@ -1,6 +1,7 @@
 ![GeniLab-banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Research](RESEARCH.md) | [Teaching](TEACHING.md) | [People](PEOPLE.md) | [Join Us](COLLABORATING.md)
+### [Home](README.md) | [Research](RESEARCH.md) | [Teaching](TEACHING.md) | [People](PEOPLE.md) | [Join Us](JOINUS.md)
+
 
 ### Our Courses
 * [COT6930 Generative Artificial Intelligence and Software Development Lifecycles](https://fau.simplesyllabus.com/en-US/doc/nre6c4z6g/Spring-2025-1-Full-Term-COT-6930-001-Topics-in-Computer-Science?mode=view)
@@ -12,3 +13,5 @@
 * [Research Tools](RESEARCH.md#research-tools)
 * [Project Ideas](COLLABORATING.md#project-ideas)
 * [Collaborating](COLLABORATING.md)
+* [Join Us](JOINUS.md)
+
