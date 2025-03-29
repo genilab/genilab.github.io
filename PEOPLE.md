@@ -5,9 +5,9 @@
 ### People
 
 
-<img src="http://generativeintelligencelab.ai/images/people/fkoch-head.png" width=200>
-
 #### Leadership
+
+<img src="http://generativeintelligencelab.ai/images/people/fkoch-head.png" width=200>
 
 [Dr. Fernando Koch](http://www.fernandokoch.me)
 * Research Professor at the Department of Electrical Engineering and Computer Sciences, FAU
