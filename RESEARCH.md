@@ -19,9 +19,9 @@ Our work centers on Computational Intelligence, Generative Systems, and Collecti
 (tbc)
 
 ## Community Papers
-* Computational Intelligence: Overview, Challenges, and Opportunities (Medium)
-* Generative Systems: Overview, Challenges, and Opportunities (Medium)
-* Collective Intelligence: Overview, Challenges, and Opportunities (Medium)
+* Computational Intelligence (Medium)
+* Generative Systems (Medium)
+* Collective Intelligence (Medium)
   
 # Check also
 * [Research Interests](README.md#research-interests)
