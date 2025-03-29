@@ -10,12 +10,9 @@ Our goal is to foster a  community of curious minds exploring meaningful researc
 
 ## Postdoctoral Researchers
 
-We DO NOT have financial support available at the moment.
+> Note: We currently do not have financial support available.
 
-However, we are continously looking into Grant Opportunities and applying for support. 
-
-Moreover, we are happy to provide guidance and support for fellowship or grant applications.
-If you would like to put together a proposal to apply for a grant or fellowship, please reach out to discuss potential collaboration and support.
+We are continously looking into Grant Opportunities and applying for support. We are happy to provide guidance and support to look into these applications. If you would like to put together a proposal to apply for a grant or fellowship, please reach out to discuss potential collaboration and support.
 
 Explore our [Project Ideas](COLLABORATING.md#project-ideas) to get inspired.
 
@@ -25,7 +22,7 @@ Explore our [Project Ideas](COLLABORATING.md#project-ideas) to get inspired.
 
 We are always interested in working with passionate and self-driven PhD candidates!
 
-> Note: We currently DO NOT have any opportunity for financial support. Funding must be arranged independently, typically through external fellowships or grants.
+> Note: We currently do not have any opportunity for financial support. Funding must be arranged independently, typically through external fellowships or grants.
 
 We are open to:
 
