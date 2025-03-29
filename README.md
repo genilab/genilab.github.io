@@ -2,7 +2,7 @@
 
 ![GeniLab-banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Research](RESEARCH.md) | [Teaching](TEACHING.md) | [People](PEOPLE.md) | [Join Us](COLLABORATING.md)
+### [Home](README.md) | [Research](RESEARCH.md) | [Teaching](TEACHING.md) | [People](PEOPLE.md) | [Join Us](JOINUS.md)
 
 The Generative Intelligence Lab aims to advance the research, development, and education of Generative Intelligent Systems that empower individuals and organizations to address real-world challenges and improve quality of life.
 
@@ -13,12 +13,13 @@ The Generative Intelligence Lab aims to advance the research, development, and e
 * **Social Impac**t: partner with academia, industry, and the educational community to ensure our work delivers meaningful and positive outcomes for society.
 
 ### Check also
-* [Publications](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&sortby=pubdate)
 * [Research Interests](RESEARCH.md#research-interests)
 * [Research Tools](RESEARCH.md#research-tools)
+* [Publications](RESEARCH.md#publications)
 * [Use Cases](RESEARCH.md#use-cases)
 * [Project Ideas](COLLABORATING.md#project-ideas)
 * [Collaborating](COLLABORATING.md)
+* [Join Us](JOINUS.md)
 
   
 
