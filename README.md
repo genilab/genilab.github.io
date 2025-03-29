@@ -8,7 +8,7 @@ The Generative Intelligence Lab is dedicated to advancing research, development,
 
 Our work centers on Computational Intelligence, Generative Systems, and Collective Intelligence. 
 We aim to develop systems that generate innovative, practical solutions while staying aligned with human values, intentions, and cultural contexts. 
-These systems go beyond content generation: they engage in co-creative, interactive workflows, collaborating with humans and other agents to shape meaningful outcomes.
+These systems go beyond content generation: they engage in co-creative, interactive workflows, collaborating with humans and other agents to produce meaningful outcomes.
 
 Our mission is to empower individuals and organizations to apply these technologies to address real-world challenges and enhance quality of life.
 
