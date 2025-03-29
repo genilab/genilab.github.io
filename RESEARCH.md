@@ -10,15 +10,16 @@ Our work centers on Computational Intelligence, Generative Systems, and Collecti
 
 
 
-## Publications
-
-### Scientific Papers
-(tbc)
-
 ### Community Papers
-* Computational Intelligence (Medium)
-* Generative Systems (Medium)
-* Collective Intelligence (Medium)
+
+Our community papers aim to explain core topics related to our research focus in a simple and digestible way.
+We publish these papers on our [Medium channel](https://medium.com/generative-intelligence-lab) and make them openly available to the research community.
+
+Find below a list of selected topics related to our resource focus:
+
+* Computational Intelligence.
+* Generative Systems.
+* Collective Intelligence.
 
   
 ## Use Cases
