@@ -18,10 +18,9 @@ under construction
 -->
 
 ### Check also
-* Publications
-* Project Ideas
-* Collaborating
-
+* [Publications](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&sortby=pubdate)
+* [Project Ideas](COLLABORATING.md#project-ideas)
+* [Collaborating](COLLABORATING.md)
 
 
 
