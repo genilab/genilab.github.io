@@ -13,11 +13,13 @@ The Generative Intelligence Lab aims to advance the research, development, and e
 * **Social Impac**t: partner with academia, industry, and the educational community to ensure our work delivers meaningful and positive outcomes for society.
 
 ### Check also
+* [Publications](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&sortby=pubdate)
 * [Research Interests](RESEARCH.md#research-interests)
 * [Research Tools](RESEARCH.md#research-tools)
 * [Use Cases](RESEARCH.md#use-cases)
 * [Project Ideas](COLLABORATING.md#project-ideas)
 * [Collaborating](COLLABORATING.md)
+
   
 
 
