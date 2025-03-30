@@ -12,5 +12,5 @@
 * [Research Interests](README.md#research-interests)
 * [Research Tools](README.md#research-tools)
 * [Project Ideas](CONTRIBUTING.md#project-ideas)
-* [Collaborating](CONTRIBUTING.md)
+* [Contributing](CONTRIBUTING.md)
 * [Join Us](JOINUS.md)
