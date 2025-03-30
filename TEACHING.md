@@ -13,6 +13,6 @@
 * [Research Tools](README.md#research-tools)
 * [Use Cases](RESEARCH.md#use-cases)
 * [Publications](RESEARCH.md#publications)
-* [Project Ideas](COLLABORATING.md#project-ideas)
-* [Collaborating](COLLABORATING.md)
+* [Project Ideas](CONTRIBUTTING.md#project-ideas)
+* [Collaborating](CONTRIBUTTING.md)
 * [Join Us](JOINUS.md)
