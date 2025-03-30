@@ -29,8 +29,8 @@ Selected topics explaining our resource focus:
 ## Check also
 * [Research Interests](README.md#research-interests)
 * [Research Tools](README.md#research-tools)
-* [Project Ideas](CONTRIBUTTING.md#project-ideas)
-* [Collaborating](CONTRIBUTTING.md)
+* [Project Ideas](CONTRIBUTING.md#project-ideas)
+* [Contributing](CONTRIBUTING.md)
 * [Join Us](JOINUS.md)
 
 
