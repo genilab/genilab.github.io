@@ -23,8 +23,9 @@ Our [Research Tools](README.md#research-tools) are community projects that aims 
 
 ### Ownmind
 
-For OwlMind, browse our [issue tracker](https://github.com/genilab-fau/owlmind/issues)!
-In particular, look for entries in these categories, depending on your interests and skills:
+[Owlmind](https://github.com/genilab-fau/owlmind) is our framework for education and experimentation with Hybrid Artificial Intelligence.
+
+To help our with this project, start with the [issue tracker](https://github.com/genilab-fau/owlmind/issues). In particular, look for entries in these categories, depending on your interests and skills:
 
 - [good first issues](https://github.com/genilab-fau/owlmind/labels/good-first-issue)
 - [enhancements](https://github.com/genilab-fau/owlmind/labels/enhancement)
