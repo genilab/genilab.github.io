@@ -21,9 +21,10 @@ Selected topics explaining our resource focus:
 * [Collective Intelligence](https://medium.com/generative-intelligence-lab/collective-intelligence-concepts-and-research-opportunities-6130ef044114).
   
 
-  
-## Use Cases
+## Scientific Publications
+(tbc)
 
+## Use Cases
 (tbc)
 
 ## Check also
