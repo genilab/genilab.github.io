@@ -26,10 +26,10 @@ These systems go beyond content generation: they engage in co-creative, interact
 
 
 ## Check also
-* [Use Cases](RESEARCH.md#use-cases)
-* [Publications](RESEARCH.md#publications)
 * [Project Ideas](CONTRIBUTTING.md#project-ideas)
 * [Collaborating](CONTRIBUTTING.md)
+* [Publications](RESEARCH.md#publications)
+* [Use Cases](RESEARCH.md#use-cases)
 * [Join Us](JOINUS.md)
 
 
