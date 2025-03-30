@@ -21,8 +21,6 @@ We'd love to have your contributions to our code!
 
 Our [Research Tools](README.md#research-tools) are community projects that aims to provide frameworks for  Education and Experimentation with Generative Intelligence System. If you are trying our tools on your projects and think there are missing features, potential enhancements, or bugs that need to be fixed, then we need your help!
 
-Check out [Guidelines](#guidelines) with instructions on how to contribute to the codebase.
-
 ### Ownmind
 
 For OwlMind, browse our [issue tracker](https://github.com/genilab-fau/owlmind/issues)!
