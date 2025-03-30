@@ -23,7 +23,7 @@ These systems go beyond content generation: they engage in co-creative, interact
 
 * [Owlmind](https://github.com/genilab-fau/owlmind): Framework for Experimentation and Education with Hybrid Artificial intelligence.
 * [Prompt Engineering Lab](https://github.com/genilab-fau/prompt-eng): Experimentation with Prompt Engineering techniques.
-* [ChatFAU](http://chat.hpc.fau.edu): our intelligent chat on top of [Ollama](http://ollama.com) and [Open-WebUI](https://openwebui.com); in collaboration with FAU Research Solutions team. 
+* [ChatFAU](https://chat.hpc.fau.edu): our intelligent chat on top of [Ollama](http://ollama.com) and [Open-WebUI](https://openwebui.com); in collaboration with FAU Research Solutions team. 
 
 
 ## Check also
