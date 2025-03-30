@@ -12,7 +12,7 @@ Our work centers on Computational Intelligence, Generative Systems, and Collecti
 
 ## Community Papers
 
-Our [Community Papers Series](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea) aims to explain topics related to our research focus in a simple and digestible way. We publish these papers through our channel [Publications of The Generative Intelligent Lab@FAU](https://medium.com/generative-intelligence-lab) and make them openly available to the research community.
+Our ```Community Papers Series``` aims to explain topics related to our research focus in a simple and digestible way. We publish these papers through our channel [Publications of The Generative Intelligent Lab@FAU](https://medium.com/generative-intelligence-lab) and make them openly available to the research community.
 
 Selected topics explaining our resource focus:
 
