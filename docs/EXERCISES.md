@@ -4,9 +4,20 @@
 
 
 
-# Course Exercises
+## Course Exercises
 
-(tbc)
+These are framework-based exercises that reflect common placed business solutions and utilization of Generative Intelligence Systems by the industry.
+
+### Intelligent Chat Projects
+
+
+### AskDocument Projects
+
+
+### AskData Projects
+
+
+
 
 ## Check also
 * [Project Ideas](CONTRIBUTING.md#project-ideas)
