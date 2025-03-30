@@ -26,7 +26,7 @@
 
 # Check Also
 * [Join Us](JOINUS.md)
-* [Project Ideas](COLLABORATING.md#project-ideas)
+* [Project Ideas](CONTRIBUTING.md#project-ideas)
 * [Research Interests](RESEARCH.md#research-interests)
 * [Research Tools](RESEARCH.md#research-tools)
 * [Use Cases](RESEARCH.md#use-cases)
