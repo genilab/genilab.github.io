@@ -26,8 +26,8 @@ These systems go beyond content generation: they engage in co-creative, interact
 
 
 ## Check also
-* [Project Ideas](CONTRIBUTTING.md#project-ideas)
-* [Collaborating](CONTRIBUTTING.md)
+* [Project Ideas](CONTRIBUTING.md#project-ideas)
+* [Collaborating](CONTRIBUTING.md)
 * [Publications](RESEARCH.md#publications)
 * [Use Cases](RESEARCH.md#use-cases)
 * [Join Us](JOINUS.md)
