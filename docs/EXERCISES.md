@@ -4,7 +4,7 @@
 
 ## Course Exercises
 
-These exercises are designed to mirror real-world business scenarios and challenges, showcasing how Generative Intelligence Systems are being applied across various industries. Each task will help you build practical skills by engaging with solutions rooted in industry frameworks and best practices.
+These exercises are designed to mirror real-world business scenarios and challenges, showcasing how Generative Intelligence Systems are being applied across various industries. The tasks will help you build practical skills by engaging with solutions rooted in industry frameworks and best practices.
 
 What to Expect:
 * Hands-on problem-solving using Generative Intelligence Systems.
@@ -17,19 +17,19 @@ What to Expect:
 
 ![sdlc infographics](http://generativeintelligencelab.ai/images/docs/sdlc-info+genai.png)
 
-We recommend to apply the Software Development Life Cycle approach (see Diagram 1) to structure your problem-solving process through your exercise. Generative AI an be applied throughout the process and thinking about the right Prompt Engineering process for each phase could be an exercise by itself.
+We recommend to apply the Software Development Life Cycle approach to structure your problem-solving process. Generative AI can be applied throughout the process with diffrent degrees of effectiveness. In fact, the very process of applying GenAI techniques for SDLC is a good experiment by itself!
 
-* **Problem Identification:** Understand the core issue for your use case. Begin by clearly defining the problem you’re trying to solve or the business opportunity you're addressing. This includes identifying pain points, inefficiencies, or unmet needs within a specific process or industry context. Ask:
-  *  What is the business challenge or user need?
-  * Who are the stakeholders involved?
-  * Why does this problem matter?
-* **Solution Design:** Conceptualize a framework or approach
+* **Problem Identification:** Understand the core issue for your use case. Clearly define the ``problem statement``! This includes identifying pain points, inefficiencies, or unmet needs within a specific process or industry context. Questions:
+   * What is the business challenge or user need?
+   * Who are the stakeholders involved?
+   * Why does this problem matter?
+* **Solution Ideation:** Explore potential ways to solve the problem. he goal here isn’t to settle on a perfect solution immediately, but to generate possibilities and consider which directions are most promising. Questions:
+   * What are possible solutions?
+   * Can Generative AI offer an innovative approach?
+   * Are there existing frameworks or models to build from?
+ ** 
 
-Once the problem is understood, design a high-level approach to solve it. This includes drafting how Generative AI can be utilized within an existing framework or creating a new one. Think creatively but practically. Ask:
 
-What kind of solution would address this challenge?
-How can AI augment or automate part of the process?
-What ethical or compliance considerations apply?
 
 
 
