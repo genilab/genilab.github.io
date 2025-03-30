@@ -14,7 +14,7 @@ Our goal is to foster a  community of curious minds exploring meaningful researc
 
 We are continously looking into Grant opportunities and applying for support. We are happy to provide guidance and support to look into these applications. If you would like to put together a proposal to apply for a grant or fellowship, please reach out to discuss potential collaboration and support.
 
-Explore our [Project Ideas](COLLABORATING.md#project-ideas) to get inspired.
+Explore our [Project Ideas](CONTRIBUTING.MD#project-ideas) to get inspired.
 
 ---
 
@@ -30,7 +30,7 @@ We are open to:
 * Providing mentorship and advisory support for students developing independent research projects.
 * Collaborating with researchers who integrate or extend our [Research Tools](README.md#research-tools).
 
-Explore our [Project Ideas](COLLABORATING.md#project-ideas) to get inspired.
+Explore our [Project Ideas](CONTRIBUTING.MD#project-ideas) to get inspired.
 
 If you are interested, please contact Dr. Koch with:
 * A brief description of your research interest
@@ -48,7 +48,7 @@ We welcome Master's students who wish to conduct their thesis research within th
 
 To discuss supervision or collaboration, please email Dr. Koch with your research interest.
 
-Explore our [Project Ideas](COLLABORATING.md#project-ideas) to get inspired.
+Explore our [Project Ideas](CONTRIBUTING.MD#project-ideas) to get inspired.
 
 ---
 
@@ -56,7 +56,7 @@ Explore our [Project Ideas](COLLABORATING.md#project-ideas) to get inspired.
 
 If you are an undergraduate student at FAU and curious about Generative Artificial Intelligence, Intelligent Chat Bots, Synthetic Content Creation, and other related topics, we would love to hear from you!  We support ``Final Year Projects`` and independent research that aligns with our [Research Interests](README.md#research-interests) and/or make use of our [Research Tools](README.md#research-tools).
 
-Take a look at our [Project Ideas](COLLABORATING.md#project-ideas) for potential topics and directions.
+Take a look at our [Project Ideas](CONTRIBUTING.MD#project-ideas) for potential topics and directions.
 
 
 # Check Also
@@ -64,7 +64,7 @@ Take a look at our [Project Ideas](COLLABORATING.md#project-ideas) for potential
 * [Research Tools](README.md#research-tools)
 * [Use Cases](RESEARCH.md#use-cases)
 * [Publications](RESEARCH.md#publications)
-* [Project Ideas](COLLABORATING.md#project-ideas)
-* [Collaborating](COLLABORATING.md)
+* [Project Ideas](CONTRIBUTING.MD#project-ideas)
+* [Collaborating](CONTRIBUTING.MD)
 
 
