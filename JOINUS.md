@@ -62,9 +62,8 @@ Take a look at our [Project Ideas](CONTRIBUTING.MD#project-ideas) for potential 
 # Check Also
 * [Research Interests](README.md#research-interests)
 * [Research Tools](README.md#research-tools)
+* [Project Ideas](CONTRIBUTING.md#project-ideas)
+* [Contributing](CONTRIBUTING.md)
 * [Use Cases](RESEARCH.md#use-cases)
 * [Publications](RESEARCH.md#publications)
-* [Project Ideas](CONTRIBUTING.MD#project-ideas)
-* [Contributing](CONTRIBUTING.MD)
-
 
