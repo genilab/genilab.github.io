@@ -15,7 +15,7 @@ What to Expect:
 
 ### How to Approach Each Exercise
 
-![sdlc infographics](http://generativeintelligencelab.ai/images/docs/sdlc-info.png)
+![sdlc infographics](http://generativeintelligencelab.ai/images/docs/sdlc-info+genai.png)
 
 We recommend to apply the Software Development Life Cycle approach (see Diagram 1) to structure your problem-solving process through your exercise. Generative AI an be applied throughout the process and thinking about the right Prompt Engineering process for each phase could be an exercise by itself.
 
