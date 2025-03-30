@@ -65,6 +65,6 @@ Take a look at our [Project Ideas](CONTRIBUTING.MD#project-ideas) for potential 
 * [Use Cases](RESEARCH.md#use-cases)
 * [Publications](RESEARCH.md#publications)
 * [Project Ideas](CONTRIBUTING.MD#project-ideas)
-* [Collaborating](CONTRIBUTING.MD)
+* [Contributing](CONTRIBUTING.MD)
 
 
