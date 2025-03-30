@@ -10,10 +10,8 @@ We outline ideas for projects aligned with our [Research Interests](README.md#re
 
 * [Community Papers Series](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea) (on Medium) presents research concepts that can lead to interesting explorations. Each paper provides sections ``Research Opportunities`` and ``Ideas for Research Projects`` listing Ph.D.-level and Master Research-level projects.
 * [Course Exercises](./docs/EXERCISES.md) provides ideas for projects that can be executed as course exercises or as hobby. These exercises are rooted in Generative Intelligent System concepts, like Prompt Engineering, RAG, Agents, Hybrid AI, and others.
-* [Improving our Research Tools](#improving-our-research-tools)
- 
-> Code of Conduct: everyone participating in our community, and in particular in our codebase contributions pull requests, and chat, is expected to treat other people with respect and more generally to follow the guidelines articulated in the  [Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
 
+--- 
 
 ## Improving our Research Tools
 
@@ -61,7 +59,7 @@ or open questions.
 Also, do not squash your commits after you have submitted a pull request, as this
 erases context during review. We will squash commits when the pull request is merged.
 
-
+> Code of Conduct: everyone participating in our community, and in particular in our codebase contributions pull requests, and chat, is expected to treat other people with respect and more generally to follow the guidelines articulated in the  [Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
 
 ## Check also
 * [Research Interests](README.md#research-interests)
