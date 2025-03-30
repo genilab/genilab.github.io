@@ -1,6 +1,7 @@
-![GeniLab-banner](./images/genilab-banner.png)
+![GeniLab-banner](http://generativeintelligencelab.ai/images/genilab-banner.png)
 
 ### [Home](README.md) | [Research](RESEARCH.md) | [Teaching](README.md#teaching) | [People](PEOPLE.md) | [Join Us](JOINUS.md)
+
 
 
 # Course Exercises
