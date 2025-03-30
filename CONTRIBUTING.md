@@ -30,7 +30,7 @@ To help our with this project, start with the [issue tracker](https://github.com
 - [challenges](https://github.com/genilab-fau/owlmind/labels/challenges)
 
 
-## Guidelines
+### Guidelines
 
 We use the usual GitHub pull-request flow, which may be familiar to you if you've contributed to other projects on GitHub.  For the mechanics,
 see [GitHub's documentation on Pull Requests](https://help.github.com/articles/using-pull-requests/).
@@ -59,7 +59,9 @@ or open questions.
 Also, do not squash your commits after you have submitted a pull request, as this
 erases context during review. We will squash commits when the pull request is merged.
 
-> Code of Conduct: everyone participating in our community, and in particular in our codebase contributions pull requests, and chat, is expected to treat other people with respect and more generally to follow the guidelines articulated in the  [Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
+### Code of Conduct
+
+Everyone participating in our community projects is expected to treat other people with respect and more generally to follow the guidelines articulated in the  [Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
 
 ## Check also
 * [Research Interests](README.md#research-interests)
