@@ -15,7 +15,7 @@ What to Expect:
 
 ### How to Approach Each Exercise
 
-![sdlc infographics](http://generativeintelligencelab.ai/images/docs/sdlc-info+genai.png)
+![sdlc infographics](.images/docs/sdlc-info+genai.png)
 
 We recommend to apply the Software Development Life Cycle approach to structure your problem-solving process. Generative AI can be applied throughout the process with diffrent degrees of effectiveness. In fact, the very process of applying GenAI techniques for SDLC is a good experiment by itself!
 

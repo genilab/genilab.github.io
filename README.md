@@ -1,42 +1,48 @@
 
 
-![GeniLab-banner](./images/genilab-banner.png)
+![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Research](RESEARCH.md) | [Teaching](README.md#teaching) | [People](PEOPLE.md) | [Join Us](JOINUS.md)
+### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md#publications) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOINING.md)
 
-The Generative Intelligence Lab is dedicated to advancing research, development, and education in Generative Intelligent Systems. 
-Our mission is to empower individuals and organizations to apply these technologies to address real-world challenges and enhance quality of life.
 
-Our work lies at the intersection of **Computational Intelligence**, **Generative Systems**, and **Collective Intelligence**. 
-We aim to develop systems that generate innovative, practical solutions while staying aligned with human values, intentions, and cultural contexts. 
-These systems go beyond content generation: they engage in co-creative, interactive workflows, collaborating with humans and other agents to produce meaningful outcomes.
+The Generative Intelligence Lab is dedicated to the research-driven development of Generative Intelligence Systems that delivers [research contribution, business innovation, and social impact](./PROJECTS.md).
 
-## Research Interests
+We are builders of Generative Intelligence Systems, translating research into real-world impact. We host a [hub of resources](./PROJECTS#resources) to support rapid experimentation and knowledge sharing, along with R&D frameworks tailored to emerging use cases. Our goal is to combine cutting-edge methods with proven engineering practices to promote fast-prototypes while building practical application.
 
-* **Theoretical foundations and solution design** for evolving Generative Intelligent Systems
-* **Frameworks and infrastructures** that support Generative Intelligence
-* **Distributed and Networked Environments** augmented with Generative Intelligence
-* **Trustworthiness, safety, and regulatory compliance** of Generative Intelligent Systems
-* **Practical applications** of Generative Intelligence in real-world scenarios and Social Systems
+The Lab promotes [knowledge transfer](./KNOWLEDGE.md) through technical reports, scientific publications, and educational initiatives. 
 
-## Research Tools
+We actively promote [projects and use cases](./PROJECTS#use-cases) aligned with real-world needs,  with a strong focus on technology transfer, spinning out startups, and supporting the broader innovation ecosystem.
 
-* [Owlmind](https://github.com/genilab-fau/owlmind): Framework for Experimentation and Education with Hybrid Artificial intelligence.
-* [Prompt Engineering Lab](https://github.com/genilab-fau/prompt-eng): Experimentation with Prompt Engineering techniques.
-* [ChatFAU](https://chat.hpc.fau.edu): our intelligent chat on top of [Ollama](http://ollama.com) and [Open-WebUI](https://openwebui.com); in collaboration with FAU Research Solutions team. 
+<!-- invitation to collaborators -->
 
-## Teaching
-* [COT6930 Generative Artificial Intelligence and Software Development Lifecycles](https://fau.simplesyllabus.com/en-US/doc/nre6c4z6g/Spring-2025-1-Full-Term-COT-6930-001-Topics-in-Computer-Science?mode=view)
-* [CEN 4010 Principles of Software Engineering with Generative Intelligence](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view)
-* [CAP4623 Trustworthy Artificial Intelligence](https://fau.simplesyllabus.com/en-US/doc/h6c9776hw/Fall-2024-1-Full-Term-CAP-4623-001-?mode=view)
+## Scope 
 
-  
-## Check also
-* [Project Ideas](CONTRIBUTING.md#project-ideas)
-* [Publications](RESEARCH.md#publications)
+![GenI-Lab Expertise](./images/genilab-scope.png)
+
+Our expertise and research interests lie in the intersection between:
+
+* **Computational Intelligence:** building adaptive systems that learn and self-organize to handle complex, real-world challenges. This is the core of Artificial Intelligent Systems and towards Artificial Broad Intelligence (or Domain-General Intelligence).
+* **Generative Intelligence Systems:** designing systems that generate meaningful actions using Prompts, Pipelines, and  Generative Models, integrated with Agents and Artifacts.
+* **[Collective Intelligence](https://medium.com/generative-intelligence-lab/collective-intelligence-concepts-and-research-opportunities-6130ef044114)**: creating distributed systems that collaborate across agents to solve problems and evolve as a unified whole. These include Multi-Agent Systems and solutions for Human-Agent interaction.
+
+
+
+<!-- # Impact -->
+
+
+
+## Check Also
+
+* [Publications](KNOWLEDGE.md#publications)
+* [Education](KNOWLEDGE.md#education)
+* [Resources](PROJECTS.md#resources)
+* [Projects](PROJECTS.md)
+* [Use Cases](PROJECTS.md#use-cases)
+* [Project Ideas](JOINING.md#project-ideas)
+* [Exercises](EXERCISES.md)
 * [Contributing](CONTRIBUTING.md)
-* [Join Us](JOINUS.md)
-
+* [Team](PEOPLE.md)
+* [Join Us](JOINING.md)
 
   
 

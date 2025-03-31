@@ -1,18 +1,16 @@
 ![GeniLab-banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Research](RESEARCH.md) | [Teaching](TEACHING.md) | [People](PEOPLE.md) | [Join Us](JOINUS.md)
-
-# People
+### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md#publications) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOINING.md)
 
 
-## Leadership
 
-<img src="http://generativeintelligencelab.ai/images/people/fkoch-headshot.png" width=200>
+## Team
 
-[Dr. Fernando Koch](http://www.fernandokoch.me)
-* Research Professor at the Department of Electrical Engineering and Computer Sciences, FAU
-* Head of The Generative Intelligence Lab
-* [Publications](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&sortby=pubdate)
+| | |
+| :- | :- |  
+| ![](./images/people/fkoch-headshot.png) | [Dr. Fernando Koch](http://www.fernandokoch.me), Department of Electrical Engineering and Computer Sciences, FAU <br/> * Research Professor <br/> * Head of The Generative Intelligence Lab | 
+| | | 
+
 
 <!---
 ## Ph.D. Students
@@ -25,9 +23,14 @@
 --->
 
 # Check Also
-* [Join Us](JOINUS.md)
-* [Project Ideas](CONTRIBUTING.md#project-ideas)
-* [Research Interests](RESEARCH.md#research-interests)
-* [Research Tools](RESEARCH.md#research-tools)
-* [Use Cases](RESEARCH.md#use-cases)
+
+* [Publications](KNOWLEDGE.md#publications)
+* [Education](KNOWLEDGE.md#education)
+* [Resources](PROJECTS.md#resources)
+* [Projects](PROJECTS.md)
+* [Use Cases](PROJECTS.md#use-cases)
+* [Project Ideas](JOINING.md#project-ideas)
+* [Exercises](EXERCISES.md)
+* [Contributing](CONTRIBUTING.md)
+* [Join Us](JOINING.md)
 
