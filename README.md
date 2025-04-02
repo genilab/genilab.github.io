@@ -18,9 +18,9 @@ The Lab promotes [knowledge transfer](./KNOWLEDGE.md) through technical reports,
 
 <!-- invitation to collaborators -->
 
-## Expertise
-
 ![GenI-Lab Expertise](./images/genilab-scope.png)
+
+## Expertise
 
 [Our expertise](KNOWLEDGE.md) and research interests lie in the intersection between:
 
