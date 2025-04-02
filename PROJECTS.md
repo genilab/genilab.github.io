@@ -2,13 +2,12 @@
 
 ### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md#publications) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOINING.md)
 
-
 ## Projects
 
-The Generative Intelligence Lab is a group of builders  dedicated to the research-driven development of Generative Intelligence Systems that delivers research contribution, business innovation, and social impact.  
+The Generative Intelligence Lab is a group of builders dedicated to the research-driven development of Generative Intelligence Systems. We support rapid experimentation with GenAI-powered, multidisciplinary research applications.
 
-Our goal is to combine cutting-edge methods with proven engineering practices to promote fast-prototypes while building practical application.
-
+We are actively looking for new [Project Ideas](JOINING.md#project-ideas) from Research Collaborators and Industry Partners! 
+Please, reach out to Dr. Koch if you are willing to collaborate in any project.
 
 ![GenI-Lab Activities](./images/genilab-activities.png)
 
@@ -22,16 +21,16 @@ Our research toolkits are designed to support rapid experimentation and knowledg
 | ![](./images/docs/owlmind-icon-small.png) | [Owlmind](https://github.com/genilab-fau/owlmind) <br/> Framework for Experimentation and Education with Hybrid AI. <br/> :: Bots, Prompts, Pipelines, Models. Fast prototyping ::|
 | ![](./images/docs/prompt-icon-small.png)  | [Prompt Engineering Lab](https://github.com/genilab-fau/prompt-eng) <br/> Experimentation with Prompt Engineering techniques. <br/> :: Prompts and Models :: | 
 | ![](./images/docs/chatfau-icon-small.png) | [ChatFAU](https://chat.hpc.fau.edu) <br/> Intelligent chat Interface based on [Ollama](http://ollama.com). <br/> :: Our solution for zero-cost Model Provider :: | 
-| | | | 
+| | |
 
 
 ## Use Cases
 
-We actively promote use cases aligned with real-world needs, applying our [Research Resources](./PROJECTS.md#resources) with a focus on spinning out startups and supporting the broader innovation ecosystem.
+We actively promote use cases aligned with real-world needs by applying our [Research Resources](./PROJECTS.md#resources) to fast-track prototyping and innovation. Our aspiration is to contribute to the community with simple tools, new ideas, advance the innovation ecosystem,  and spinoff startups.
 
 | | | |
 | :-: | :-: | :-: | 
-| ![](./images/docs/use-right-to-know.png) <br/> **Right To Know** <br/> Learn if your private data is stored in commercial LLMs. <br/> ([Synergist Technology](https://synergist.technology)) | ![](./images/docs/use-virtual-seller.png) <br/> **Virtual Seller** <br/> A bot that let your customers talk to your products. <br/> (tbd) | 
+| ![](./images/docs/use-collective-experiences.png) <br/> [**Collective Experience Systems**](./pages/UPCOMING.md)<br/>Multi-agent environments where human users interact with AI-based agents <br/> (submitted) |  ![](./images/docs/use-right-to-know.png) <br/> [**Right To Know**](./pages/UPCOMING.md) <br/> Learn if your private data is stored in commercial LLMs. <br/> ([Synergist Technology](https://synergist.technology)) | ![](./images/docs/use-virtual-seller.png) <br/> [**Virtual Seller**](./pages/UPCOMING.md) <br/> A bot that let your customers talk to your products. <br/> (tbd) |  
 | | | | 
 
 
@@ -42,6 +41,6 @@ We actively promote use cases aligned with real-world needs, applying our [Resea
 * [Education](KNOWLEDGE.md#education)
 * [Project Ideas](JOINING.md#project-ideas)
 * [Exercises](EXERCISES.md)
-* [Contributing](CONTRIBUTING.md)
+* [Contributing](CONTRIBUTE.md)
 * [Team](PEOPLE.md)
 * [Join Us](JOINING.md)

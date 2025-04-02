@@ -9,7 +9,7 @@ We are builders of Generative Intelligence Systems! Our goal is to foster a  com
 
 You can join us in one of the following capacities:
 
-* **[Individual Contributor](CONTRIBUTING.md)**  to our Research Resources.
+* **[Individual Contributor](CONTRIBUTE.md)**  to our Research Resources.
 * **[Postdoc Researchers](#postdoctoral-researchers)**.
 * **[Ph.D. Students](#phd-students)**.
 * **[Master Researcher](#master-researcher)**.
@@ -20,7 +20,7 @@ You can join us in one of the following capacities:
 Find out ideas for research projects within the scope of our [Research Interests](README.md#scope) through:
 
 * [Research Community Papers](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea) explain the topics around our key research focus, providing an overview around the concepts, research challenges, and ideas for research projects **suitable for Ph.D. and Master programs**. 
-* [Industry Use Cases](./EXERCISES.md#industry-use-cases) provides ideas for projects related to industry use cases. The exercises are rooted in practical concepts of Generative Intelligent System, like Prompt Engineering, RAG, Agents, Hybrid AI, and others.These projects can be executed as a hobby, course exercise,and some work as **reference for Master programs**. 
+* [Industry Use Cases](./EXERCISES.md#industry-use-cases) provides a list of compiled ideas related to industry use cases. These prospective projects are rooter in practical concepts of Generative Intelligent System, like Prompt Engineering, RAG, Agents, Hybrid AI, and others.They can be executed as a hobby, course exercise, or as a [reference for Master programs](#masters-researcher). 
 
 
 ---
@@ -78,7 +78,7 @@ We support **Final Year Projects** and independent research that aligns with our
 * [Project Ideas](PROJECTS.md#project-ideas)
 * [Use Cases](PROJECTS.md#use-cases)
 * [Exercises](EXERCISES.md)
-* [Contributing](CONTRIBUTING.md)
+* [Contributing](CONTRIBUTE.md)
 * [Team](PEOPLE.md)
   
 

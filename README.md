@@ -40,7 +40,7 @@ The Lab promotes [knowledge transfer](./KNOWLEDGE.md) through technical reports,
 * [Use Cases](PROJECTS.md#use-cases)
 * [Project Ideas](JOINING.md#project-ideas)
 * [Exercises](EXERCISES.md)
-* [Contributing](CONTRIBUTING.md)
+* [Contributing](CONTRIBUTE.md)
 * [Team](PEOPLE.md)
 * [Join Us](JOINING.md)
 
