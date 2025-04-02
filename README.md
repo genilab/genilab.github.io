@@ -7,18 +7,17 @@
 
 The Generative Intelligence Lab is dedicated to the research-driven development of Generative Intelligence Systems that delivers [research contribution, business innovation, and social impact](./PROJECTS.md).
 
-We operate as **a software factory for Generative Intelligence Systems** aiming to fast track innovation by translating research into real-world impact! We bring together expertise and specialized [toolkits](./PROJECTS#resources) to connect solution requirements, prompts, pipelines, and models.
+### We are builders of Generative Intelligence Systems!
 
-
-### We are builders of Generative Intelligence Systems
+We operate as **a software factory for Generative Intelligence Systems** aiming to fast track innovation by translating research into real-world impact! We bring together expertise and specialized toolkits to connect solution requirements, prompts, pipelines, and models.
 
 We support rapid experimentation with GenAI-powered, multidisciplinary research applications. Our Lab provides [Research Resources](./PROJECTS#resources)  tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems and specialized models, our systems are built to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
 
-The Lab promotes [knowledge transfer](./KNOWLEDGE.md) through technical reports, scientific publications, and educational initiatives.  We actively develop and share [projects](./PROJECTS#use-cases) and [exercises](./EXERCISES.md#industry-use-cases) aligned industry use cases. Our focus is on **technology transfer, supporting the innovation ecosystem, and spinning out startups.**
+### Advancing open science and the creative economy!
+
+We champion [open science and knowledge transfer](./KNOWLEDGE.md) through technical reports, academic publications, and educational programs. Our Lab continuously develops and shares [projects](./PROJECTS#use-cases) and [practical exercises](./EXERCISES.md#industry-use-cases) tied to real-world challenges. We're driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
 
 <!-- invitation to collaborators -->
-
-![GenI-Lab Expertise](./images/genilab-scope.png)
 
 ## Expertise
 
@@ -28,8 +27,13 @@ The Lab promotes [knowledge transfer](./KNOWLEDGE.md) through technical reports,
 * **Computational Intelligence:** build adaptive systems that learn and self-organize to handle complex, real-world challenges. This is the core of Artificial Intelligent Systems and a step toward Artificial Broad Intelligence.
 * **[Collective Intelligence](https://medium.com/generative-intelligence-lab/collective-intelligence-concepts-and-research-opportunities-6130ef044114)**: creating distributed systems that collaborate across agents to solve problems and evolve as a unified whole. This includes Multi-Agent Systems and Human-Agent interaction solutions.
 
-
 <!-- # Impact -->
+
+## Scope
+
+![Scope of work of the GenI-Lab](./images/genilab-scope.png)
+
+
 
 ## Check Also
 
@@ -39,7 +43,6 @@ The Lab promotes [knowledge transfer](./KNOWLEDGE.md) through technical reports,
 * [Projects](PROJECTS.md)
 * [Use Cases](PROJECTS.md#use-cases)
 * [Project Ideas](JOIN.md#project-ideas)
-* [Exercises](EXERCISES.md)
 * [Contributing](CONTRIBUTE.md)
 * [Team](PEOPLE.md)
 * [Join Us](JOIN.md)
