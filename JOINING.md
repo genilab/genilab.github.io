@@ -17,26 +17,23 @@ You can join us in one of the following capacities:
 
 ### Project Ideas
 
-We share ideas for interesting research projects within the scope of our [Research Interests](README.md#scope) through these resources:
+Find out ideas for research projects within the scope of our [Research Interests](README.md#scope) through:
 
-* [Research Community Papers](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea) explain the topics around our key research focus, providing an overview around the concepts, research challenges, and ideas for research projects. 
-* [Course Exercises](./EXERCISES.md) provides ideas for projects that can be executed as course exercises or as hobby. These exercises are rooted in practical concepts of Generative Intelligent System, like Prompt Engineering, RAG, Agents, Hybrid AI, and others.
+* [Research Community Papers](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea) explain the topics around our key research focus, providing an overview around the concepts, research challenges, and ideas for research projects **suitable for Ph.D. and Master programs**. 
+* [Industry Use Cases](./EXERCISES.md#industry-use-cases) provides ideas for projects related to industry use cases. The exercises are rooted in practical concepts of Generative Intelligent System, like Prompt Engineering, RAG, Agents, Hybrid AI, and others.These projects can be executed as a hobby, course exercise,and some work as **reference for Master programs**. 
 
 
 ---
 
 ## Postdoctoral Researchers
 
-> Note: We currently do not have financial support available.
+> Note: We DO NOT have financial support available at the moment.
 
-We are continuously looking into financial support opportunities and applying for grants.  If you would like to put together a proposal, please reach out to discuss potential support.
+We are continuously looking into financial support and applying for grants.  If you would like to put together a proposal, please contact Dr. Koch to discuss potential support.
 
 ---
 
 ## PhD Students
-
-> Note: We currently do not have any opportunity for financial support. Funding must be arranged from your end, typically through external fellowships or grants.
-
 
 We are always interested in working with passionate and self-driven PhD candidates!
 
@@ -44,6 +41,7 @@ We are open to:
 * **Supervising PhD research** aligned with our Research Interests.
 * **Providing mentorship and advisory** for students developing independent research projects.
 
+> Note: We DO NOT have opportunities with financial support at the moment. Funding can be arranged typically through external fellowships or grants.
 
 If you are interested, please contact Dr. Koch proving an outline of your proposal, including:
 * Proposed title
@@ -56,9 +54,11 @@ If you are interested, please contact Dr. Koch proving an outline of your propos
 
 ## Masters Researcher
 
-We welcome Master's students who wish to conduct their thesis research within the lab. Projects must be aligned with our Research Interests and/or make use of our [Research Resources](./PROJECTS.md#resources).
+We welcome Master's students who wish to conduct their thesis research within the lab. 
 
-To discuss supervision or collaboration, please email Dr. Koch with your research interest.
+Projects must be aligned with our Research Interests and/or make use of our [Research Resources](./PROJECTS.md#resources). Check the [ideas for research projects](#project-ideas) listed above.
+
+Please email Dr. Koch with your research interest to discuss supervision or collaboration, 
 
 ---
 
