@@ -18,10 +18,9 @@ Our research toolkits are designed to support rapid experimentation and knowledg
 
 | | | 
 | :-: | :- |  
-| ![](./images/docs/owlmind-icon.png) | [Owlmind](https://github.com/genilab-fau/owlmind) <br/> Framework for Experimentation and Education with Hybrid AI. <br/> :: Bots, Prompts, Pipelines, Models. Fast prototyping ::|
-| ![](./images/docs/prompt-icon.png)  | [Prompt Engineering Lab](https://github.com/genilab-fau/prompt-eng) <br/> Experimentation with Prompt Engineering techniques. <br/> :: Prompts and Models :: | 
+| ![](./images/docs/owlmind-icon.png) | [**Owlmind**](https://github.com/genilab-fau/owlmind) <br/> Framework for Experimentation and Education with Hybrid AI. <br/> :: Bots, Prompts, Pipelines, Models. Fast prototyping ::|
+| ![](./images/docs/prompt-icon.png)  | [**Prompt Engineering Lab**](https://github.com/genilab-fau/prompt-eng) <br/> Experimentation with Prompt Engineering techniques. <br/> :: Prompts and Models :: | 
 | ![](./images/docs/chatfau-icon.png) | [ChatFAU](https://chat.hpc.fau.edu) <br/> Intelligent chat Interface based on [Ollama](http://ollama.com). <br/> :: Our solution for zero-cost Model Provider :: | 
-| | |
 
 
 ## Use Cases
@@ -31,7 +30,6 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 | | | |
 | :-: | :-: | :-: | 
 | ![](./images/docs/use-right-to-know.png) <br/> [**Right To Know**]() <br/> Learn if your private data is stored in commercial LLMs. <br/> ([Synergist Technology](https://synergist.technology)) | ![](./images/docs/use-virtual-seller.png) <br/> [**Virtual Seller**]() <br/> A bot that let your customers talk to your products. <br/> (tbd) |  ![](./images/docs/use-collective-experiences.png) <br/> [**Collective Experience Systems**]()<br/>Multi-agent environments where human users interact with AI-based agents <br/> (submitted) | 
-| | | | 
 
 
 
