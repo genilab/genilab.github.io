@@ -1,6 +1,6 @@
 ![GeniLab-banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md#publications) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOINING.md)
+### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md#publications) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
 
 
 ## Contributing to our Research Resources
@@ -59,8 +59,8 @@ Everyone participating in our community projects is expected to treat other peop
 * [Resources](PROJECTS.md#resources)
 * [Projects](PROJECTS.md)
 * [Use Cases](PROJECTS.md#use-cases)
-* [Project Ideas](JOINING.md#project-ideas)
+* [Project Ideas](JOIN.md#project-ideas)
 * [Exercises](EXERCISES.md)
 * [Team](PEOPLE.md)
-* [Join Us](JOINING.md)
+* [Join Us](JOIN.md)
   

@@ -2,7 +2,7 @@
 
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md#publications) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOINING.md)
+### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md#publications) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
 
 
 The Generative Intelligence Lab is dedicated to the research-driven development of Generative Intelligence Systems that delivers [research contribution, business innovation, and social impact](./PROJECTS.md).
@@ -38,11 +38,11 @@ The Lab promotes [knowledge transfer](./KNOWLEDGE.md) through technical reports,
 * [Resources](PROJECTS.md#resources)
 * [Projects](PROJECTS.md)
 * [Use Cases](PROJECTS.md#use-cases)
-* [Project Ideas](JOINING.md#project-ideas)
+* [Project Ideas](JOIN.md#project-ideas)
 * [Exercises](EXERCISES.md)
 * [Contributing](CONTRIBUTE.md)
 * [Team](PEOPLE.md)
-* [Join Us](JOINING.md)
+* [Join Us](JOIN.md)
 
   
 

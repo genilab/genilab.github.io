@@ -1,12 +1,12 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md#publications) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOINING.md)
+### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md#publications) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
 
 ## Projects
 
 The Generative Intelligence Lab is a group of builders dedicated to the research-driven development of Generative Intelligence Systems. We support rapid experimentation with GenAI-powered, multidisciplinary research applications.
 
-We are actively looking for new [Project Ideas](JOINING.md#project-ideas) from Research Collaborators and Industry Partners! 
+We are actively looking for new [Project Ideas](JOIN.md#project-ideas) from Research Collaborators and Industry Partners! 
 Please, reach out to Dr. Koch if you are willing to collaborate in any project.
 
 ![GenI-Lab Activities](./images/genilab-activities.png)
@@ -39,8 +39,8 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 
 * [Publications](KNOWLEDGE.md#publications)
 * [Education](KNOWLEDGE.md#education)
-* [Project Ideas](JOINING.md#project-ideas)
+* [Project Ideas](JOIN.md#project-ideas)
 * [Exercises](EXERCISES.md)
 * [Contributing](CONTRIBUTE.md)
 * [Team](PEOPLE.md)
-* [Join Us](JOINING.md)
+* [Join Us](JOIN.md)
