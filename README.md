@@ -6,17 +6,18 @@
 
 The Generative Intelligence Lab is dedicated to the research-driven development of Generative Intelligence Systems that delivers [research contribution, business innovation, and social impact](./PROJECTS.md).
 
-We support rapid experimentation with GenAI-powered, multidisciplinary research applications. Our Lab provides [Research Resources](./PROJECTS#resources)  tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems and specialized models, our systems are built to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
-
-Our Lab continuously develops and shares [projects](./PROJECTS#use-cases) and [practical exercises](./EXERCISES.md#industry-use-cases) tied to real-world challenges. We're driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
-
 
 | | |
 | - | - |
 | **We are builders of Generative Intelligence Systems!**<br/><br/> We operate as **a software factory for Generative Intelligence Systems**. <br/>Our ambition is to fast track innovation by translating research into real-world impact! |  **Advancing open science and the creative economy!** <br/><br/> We champion [open science and knowledge transfer](./KNOWLEDGE.md) <br/> We publish technical reports, academic papers, and promote educational programs. |
 
+We support rapid experimentation with GenAI-powered, multidisciplinary research applications. Our Lab provides [Research Resources](./PROJECTS#resources)  tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems and specialized models, our systems are built to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
+
+Our Lab continuously develops and shares [projects](./PROJECTS#use-cases) and [practical exercises](./EXERCISES.md#industry-use-cases) tied to real-world challenges. We're driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
 
 <!-- invitation to collaborators -->
+
+<!-- ## Impact
 
 ## Expertise
 
