@@ -1,3 +1,15 @@
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
 
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
