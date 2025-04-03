@@ -37,7 +37,6 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 
 * [Publications](KNOWLEDGE.md#publications)
 * [Education](KNOWLEDGE.md#education)
-* [Project Ideas](JOIN.md#project-ideas)
 * [Exercises](EXERCISES.md)
 * [Contributing](CONTRIBUTE.md)
 * [Team](PEOPLE.md)

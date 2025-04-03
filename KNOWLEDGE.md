@@ -36,7 +36,7 @@ These are courses taught by Dr. Koch applying [Research Resources](./PROJECTS.md
 * [Resources](PROJECTS.md#resources)
 * [Projects](PROJECTS.md)
 * [Use Cases](PROJECTS.md#use-cases)
-* [Project Ideas](JOIN.md#project-ideas)
+* [Projects](PROJECTS.md)
 * [Exercises](EXERCISES.md)
 * [Contributing](CONTRIBUTE.md)
 * [Team](PEOPLE.md)

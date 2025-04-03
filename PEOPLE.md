@@ -28,8 +28,6 @@
 * [Education](KNOWLEDGE.md#education)
 * [Resources](PROJECTS.md#resources)
 * [Projects](PROJECTS.md)
-* [Use Cases](PROJECTS.md#use-cases)
-* [Project Ideas](JOIN.md#project-ideas)
 * [Exercises](EXERCISES.md)
 * [Contributing](CONTRIBUTE.md)
 * [Join Us](JOIN.md)

@@ -75,8 +75,6 @@ We support **Final Year Projects** and independent research that aligns with our
 * [Education](KNOWLEDGE.md#education)
 * [Resources](PROJECTS.md#resources)
 * [Projects](PROJECTS.md)
-* [Project Ideas](PROJECTS.md#project-ideas)
-* [Use Cases](PROJECTS.md#use-cases)
 * [Exercises](EXERCISES.md)
 * [Contributing](CONTRIBUTE.md)
 * [Team](PEOPLE.md)
