@@ -28,11 +28,6 @@ Our Lab continuously develops and shares [projects](./PROJECTS#use-cases) and [p
 
 <!-- # Impact -->
 
-## Scope
-
-
-
-
 
 ## Check Also
 
