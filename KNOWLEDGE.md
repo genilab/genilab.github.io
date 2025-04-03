@@ -7,8 +7,8 @@
 
 The Generative Intelligence Lab promotes knowledge transfer through technical reports, scientific publications, and educational initiatives spanning the intersecting domains of:
 
-* Computational Intelligence.
 * [Generative Intelligence Systems](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb)
+* [Computational Intelligence](https://medium.com/generative-intelligence-lab/computational-intelligence-concepts-and-research-opportunities-c32d4a65eddb)
 * [Collective Intelligence](https://medium.com/generative-intelligence-lab/collective-intelligence-concepts-and-research-opportunities-6130ef044114). 
 
 Our open publications include:
