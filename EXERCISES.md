@@ -10,14 +10,14 @@ These exercises are designed to reflect real-world business scenarios and challe
 Resources:
 
 * [Use Case Compendium](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): open-science list of industry use cases compiled from exchanges with experts, publications, and experiences.
-* [Generative Intelligence Systems](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb).
-* [Owlmind](https://github.com/genilab-fau/owlmind)
+* [Generative Intelligence Systems](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb): community article explaining these systems, research questions, and opportunities for research.
+* [Owlmind](https://github.com/genilab-fau/owlmind): framework for fast-prototyping of Generative Intelligence Systems.
 
 ## How to implement the exercises?
 
-![GenI System Architecrure](./images/docs/genai-arch.png)
+![GenI System Architecture](./images/docs/genai-arch.png)
 
-These exercises are built for fast prototyping, using configurations based on our [Research Resources](./PROJECTS.md#resources). You will make use of our [Owlmind](https://github.com/genilab-fau/owlmind) framework for experimentation and education, local model providers (e.g., [Ollama](http://www.ollama.com)), and [Discord Bots](http://www.discord.com) - so you can focus on system logic without spending time designing user interfaces.
+These exercises are built for fast prototyping, using configurations based on our toolkits. You will make use of our [Owlmind](https://github.com/genilab-fau/owlmind) framework for experimentation and education, local model providers (e.g., [Ollama](http://www.ollama.com)), and [Discord Bots](http://www.discord.com) - so you can focus on system logic without spending time designing user interfaces.
 
 
 To begin working on the exercises, follow these steps:
