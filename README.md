@@ -13,7 +13,7 @@ Our Lab continuously develops and shares [projects](./PROJECTS#use-cases) and [p
 
 | | |
 | - | - |
-| **We are builders of Generative Intelligence Systems!**<br/> We operate as **a software factory for Generative Intelligence Systems** <br/><br/> Our ambition is to fast track innovation by translating research into real-world impact! |  **Advancing open science and the creative economy!** <br/><br/> We champion [open science and knowledge transfer](./KNOWLEDGE.md) <br/> We publish technical reports, academic papers, and promote educational programs. |
+| **We are builders of Generative Intelligence Systems!**<br/><br/> We operate as **a software factory for Generative Intelligence Systems**. <br/>Our ambition is to fast track innovation by translating research into real-world impact! |  **Advancing open science and the creative economy!** <br/><br/> We champion [open science and knowledge transfer](./KNOWLEDGE.md) <br/> We publish technical reports, academic papers, and promote educational programs. |
 
 
 <!-- invitation to collaborators -->
