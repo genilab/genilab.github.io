@@ -18,7 +18,7 @@ Our research toolkits are designed to support rapid experimentation and knowledg
 
 | | | 
 | :-: | :- |  
-| ![](./images/docs/owlmind-icon.png) | [**Owlmind**](https://github.com/genilab-fau/owlmind) <br/> Framework for Experimentation and Education with Hybrid AI. <br/> :: Bots, Prompts, Pipelines, Models. Fast prototyping ::|
+| ![](./images/docs/owlmind-icon.png) | [**Owlmind**](https://github.com/genilab-fau/owlmind) <br/> Framework for Experimentation and Education with Generative Intelligent Systems. <br/> :: Bots, Prompts, Pipelines, Models. Fast prototyping ::|
 | ![](./images/docs/prompt-icon.png)  | [**Prompt Engineering Lab**](https://github.com/genilab-fau/prompt-eng) <br/> Experimentation with Prompt Engineering techniques. <br/> :: Prompts and Models :: | 
 | ![](./images/docs/chatfau-icon.png) | [ChatFAU](https://chat.hpc.fau.edu) <br/> Intelligent chat Interface based on [Ollama](http://ollama.com). <br/> :: Our solution for zero-cost Model Provider :: | 
 

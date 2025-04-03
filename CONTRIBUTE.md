@@ -12,7 +12,7 @@ Our [Research Resources](./PROJECTS.md#resources) are community projects that ai
 
 | | | 
 | :-: | :- |  
-| ![](./images/docs/owlmind-icon.png) | [**Owlmind**](https://github.com/genilab-fau/owlmind) <br/> Framework for Experimentation and Education with Hybrid AI. <br/> [issue tracker](https://github.com/genilab-fau/owlmind/issues) |
+| ![](./images/docs/owlmind-icon.png) | [**Owlmind**](https://github.com/genilab-fau/owlmind) <br/> Framework for Experimentation and Education with Generative Intelligent Systems. <br/> [issue tracker](https://github.com/genilab-fau/owlmind/issues) |
 | ![](./images/docs/prompt-icon.png)  | [**Prompt Engineering Lab**](https://github.com/genilab-fau/prompt-eng) <br/> Experimentation with Prompt Engineering techniques. | 
  
 
