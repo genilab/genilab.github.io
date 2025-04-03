@@ -19,7 +19,7 @@ You can join us in one of the following capacities:
 
 Find out ideas for research projects within the scope of our [Research Interests](README.md#scope) through:
 
-* [Use Case Compendium](./EXERCISES.md): open-science list of industry use cases compiled from exchanges with experts, publications, and experiences. These prospective projects are quick-wins that can be executed as a hobby, course exercise, or work as  [reference for Master programs](#masters-researcher). 
+* [Exercises](./EXERCISES.md): open-science list of use cases compiled from exchanges with experts, publications, and experiences. These prospective projects are quick-wins that can be executed as a hobby, course exercise, or work as  [reference for Master programs](#masters-researcher). 
 
 * [Research Community Papers](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges, and ideas for research projects **suitable for Ph.D. and Master programs**. 
 
