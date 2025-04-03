@@ -8,9 +8,9 @@ The Generative Intelligence Lab is a group of builders dedicated to the research
 
 We host a list of use cases that we are promoting as exercises:
 
-* [Industry Use Cases](./EXERCISES.md): provides a list of compiled ideas related to industry use cases. These prospective projects are rooter in practical concepts of Generative Intelligent System, like Prompt 
+* [Industry Use Cases](./EXERCISES.md): provides a list of compiled ideas related to industry use cases. 
 
-Moreover, We are actively looking for new [Project Ideas](JOIN.md#project-ideas) from Research Collaborators and Industry Partners!  Reach out to Dr. Koch if you are willing to collaborate with us.
+Moreover, we are actively looking for new [Project Ideas](JOIN.md#project-ideas) from Research Collaborators and Industry Partners!  Reach out to Dr. Koch if you are willing to collaborate with us.
 
 
 ![GenI-Lab Activities](./images/genilab-activities.png)
