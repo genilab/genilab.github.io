@@ -4,10 +4,14 @@
 
 ## Projects
 
-The Generative Intelligence Lab is a group of builders dedicated to the research-driven development of Generative Intelligence Systems. We support rapid experimentation with GenAI-powered, multidisciplinary research applications.
+The Generative Intelligence Lab is a group of builders dedicated to the research-driven development of Generative Intelligence Systems. We support rapid experimentation with GenAI-powered, multidisciplinary research applications. 
 
-We are actively looking for new [Project Ideas](JOIN.md#project-ideas) from Research Collaborators and Industry Partners! 
-Please, reach out to Dr. Koch if you are willing to collaborate with us.
+We host a list of use cases that we are promoting as exercises:
+
+* [Industry Use Cases](./EXERCISES.md): provides a list of compiled ideas related to industry use cases. These prospective projects are rooter in practical concepts of Generative Intelligent System, like Prompt 
+
+Moreover, We are actively looking for new [Project Ideas](JOIN.md#project-ideas) from Research Collaborators and Industry Partners!  Reach out to Dr. Koch if you are willing to collaborate with us.
+
 
 ![GenI-Lab Activities](./images/genilab-activities.png)
 
