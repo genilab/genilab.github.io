@@ -8,7 +8,7 @@ The Generative Intelligence Lab is a group of builders dedicated to the research
 
 We host a list of use cases that we are promoting as exercises:
 
-* [Industry Use Cases](./EXERCISES.md): provides a list of compiled ideas related to industry use cases. 
+* [Use Case Compendium](./EXERCISES.md): open-science list of industry use cases compiled from exchanges with experts, publications, and experiences.
 
 Moreover, we are actively looking for new [Project Ideas](JOIN.md#project-ideas) from Research Collaborators and Industry Partners!  Reach out to Dr. Koch if you are willing to collaborate with us.
 

@@ -9,7 +9,7 @@ These exercises are designed to reflect real-world business scenarios and challe
 
 Resources:
 
-* [Use Case Compendium](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): open-science list of industry use cases compiled from exchanges with experts, publications, and experiences.
+* [Use Case Compendium](./EXERCISES.md): open-science list of industry use cases compiled from exchanges with experts, publications, and experiences.
 * [Generative Intelligence Systems](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb): community article explaining these systems, research questions, and opportunities for research.
 * [Owlmind](https://github.com/genilab-fau/owlmind): framework for fast-prototyping of Generative Intelligence Systems.
 
