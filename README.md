@@ -7,7 +7,7 @@
 
 The Generative Intelligence Lab is dedicated to the research-driven development of Generative Intelligence Systems that delivers [research contribution, business innovation, and social impact](./PROJECTS.md).
 
-### We are builders of Generative Intelligence Systems!
+<span style="color:blue">We are builders of Generative Intelligence Systems!</span>
 
 We operate as **a software factory for Generative Intelligence Systems** aiming to fast track innovation by translating research into real-world impact! We bring together expertise and specialized toolkits to connect solution requirements, prompts, pipelines, and models.
 
