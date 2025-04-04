@@ -4,7 +4,6 @@
 
 
 
-
 ## Team
 
 | | |
@@ -25,11 +24,12 @@
 
 # Check Also
 
+* [Join Us](JOIN.md)
 * [Publications](KNOWLEDGE.md#publications)
 * [Education](KNOWLEDGE.md#education)
 * [Resources](PROJECTS.md#resources)
 * [Projects](PROJECTS.md)
 * [Exercises](EXERCISES.md)
 * [Contributing](CONTRIBUTE.md)
-* [Join Us](JOIN.md)
+
 

@@ -10,13 +10,13 @@ Our goal is to foster a  community of curious minds exploring meaningful researc
 
 You can join us in one of the following capacities:
 
-* **[Individual Contributor](CONTRIBUTE.md)**  to our Research Resources.
-* **[Postdoc Researchers](#postdoctoral-researchers)**.
-* **[Ph.D. Students](#phd-students)**.
-* **[Master Researcher](#master-researcher)**.
-* **[Undergraduate Researcher](#undergradute-researcher)**.
+* [**Individual Contributor**](CONTRIBUTE.md) to our Research Resources.
+* [**Postdoc Researchers**](#postdoctoral-researchers).
+* [**Ph.D. Students**](#phd-students).
+* [**Master Researcher**](#master-researcher).
+* [**Undergraduate Researcher**](#undergradute-researcher).
 
-Find out our **ideas for projects and collaboration** at [Projects](PROJECTS.md).
+Find out our [**ideas for projects and collaboration**](PROJECTS.md).
 
 ---
 
@@ -43,7 +43,6 @@ If you are interested, please contact Dr. Koch proving an outline of your propos
 * Abstract
 * Key research question
 * Initial argument or hypothesis
-
 
 ---
 
