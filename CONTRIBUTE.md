@@ -1,6 +1,6 @@
 ![GeniLab-banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md#publications) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
+### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
 
 
 ## Contributing to our Research Resources

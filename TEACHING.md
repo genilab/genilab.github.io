@@ -1,6 +1,7 @@
 ![GeniLab-banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Research](RESEARCH.md) | [Teaching](TEACHING.md) | [People](PEOPLE.md) | [Join Us](JOINUS.md)
+### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
+
 
 
 ## Courses

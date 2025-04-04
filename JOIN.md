@@ -1,11 +1,12 @@
 ![GeniLab-banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md#publications) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
+### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
 
 
-Thank you for your interest in joining the Generative Intelligence Lab at FAU!
 
-We are builders of Generative Intelligence Systems! Our goal is to foster a  community of curious minds exploring meaningful research and novel ideas aligned with our research interests. 
+Thank you for your interest in joining the Generative Intelligence Lab! 
+
+Our goal is to foster a  community of curious minds exploring meaningful research and novel ideas aligned with our research interests. 
 
 You can join us in one of the following capacities:
 
@@ -15,14 +16,7 @@ You can join us in one of the following capacities:
 * **[Master Researcher](#master-researcher)**.
 * **[Undergraduate Researcher](#undergradute-researcher)**.
 
-### Project Ideas
-
-Find out ideas for research projects within the scope of our [Research Interests](README.md#scope) through:
-
-* [Exercises](./EXERCISES.md): open-science list of use cases compiled from exchanges with experts, publications, and experiences. These prospective projects are quick-wins that can be executed as a hobby, course exercise, or work as  [reference for Master programs](#masters-researcher). 
-
-* [Research Community Papers](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges, and ideas for research projects **suitable for Ph.D. and Master programs**. 
-
+Find out our ideas for projects and collaboration at [Projects](PROJECTS.md).
 
 ---
 
@@ -57,7 +51,8 @@ If you are interested, please contact Dr. Koch proving an outline of your propos
 
 We welcome Master's students who wish to conduct their thesis research within the lab. 
 
-Projects must be aligned with our Research Interests and/or make use of our [Research Resources](./PROJECTS.md#resources). Check the [ideas for research projects](#project-ideas) listed above.
+Projects must be aligned with our Research Interests and/or make use of our [Research Resources](./PROJECTS.md#resources).  Find out our ideas for projects and collaboration at [Projects](PROJECTS.md).
+
 
 Please email Dr. Koch with your research interest to discuss supervision or collaboration, 
 

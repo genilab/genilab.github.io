@@ -1,19 +1,19 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md#publications) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
+### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
 
 ## Projects
 
 The Generative Intelligence Lab is a group of builders dedicated to the research-driven development of Generative Intelligence Systems. We support rapid experimentation with GenAI-powered, multidisciplinary research applications. 
 
-We host a list of use cases that we are promoting as exercises:
+We publish our ideas for projects through:
 
-* [Exercises](./EXERCISES.md): open-science list of use cases compiled from exchanges with experts, publications, and experiences.
+* [Research Community Papers](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges.
 
-Moreover, we are actively looking for new [Project Ideas](JOIN.md#project-ideas) from Research Collaborators and Industry Partners!  Reach out to Dr. Koch if you are willing to collaborate with us.
+* [Use Case Compendium](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): open-science list of industry use cases compiled from exchanges with experts, publications, and experiences.
 
+* [Exercises](./EXERCISES.md): open-science exercises for hobbyists and coursework.
 
-![GenI-Lab Activities](./images/genilab-activities.png)
 
 ## Resources
 
@@ -29,13 +29,15 @@ Our research toolkits are designed to support rapid experimentation and knowledg
 
 ## Use Cases
 
-We actively promote use cases aligned with real-world needs by applying our [Research Resources](./PROJECTS.md#resources) to fast-track prototyping and innovation. Our aspiration is to contribute to the community with simple tools, new ideas, advance the innovation ecosystem,  and spinoff startups.
+We actively promote use cases aligned with real-world needs by applying our [Research Resources](./PROJECTS.md#resources) to fast-track prototyping and innovation. 
 
 | | | |
 | :-: | :-: | :-: | 
-| ![](./images/docs/use-right-to-know.png) <br/> [**Right To Know**]() <br/> Learn if your private data is stored in commercial LLMs. <br/> ([Synergist Technology](https://synergist.technology)) | ![](./images/docs/use-virtual-seller.png) <br/> [**Virtual Seller**]() <br/> A bot that let your customers talk to your products. <br/> (tbd) |  ![](./images/docs/use-collective-experiences.png) <br/> [**Collective Experience Systems**]()<br/>Multi-agent environments where human users interact with AI-based agents <br/> (submitted) | 
+| ![](./images/docs/use-right-to-know.png) <br/> [**Right To Know**]() <br/> Learn if your private data is stored in commercial LLMs. <br/> ([Synergist Technology](https://synergist.technology)) | ![](./images/docs/use-virtual-seller.png) <br/> [**Virtual Seller**]() <br/> A bot that let your customers talk to your products. <br/> (tbd) |  ![](./images/docs/use-collective-experiences.png) <br/> [**Collective Experience Systems**]()<br/>Multi-agent environments for AI-human collaboration.<br/> (submitted) | 
 
+# Operation
 
+![GenI-Lab Activities](./images/genilab-activities.png)
 
 ## Check Also
 

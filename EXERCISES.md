@@ -1,6 +1,6 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md#publications) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
+### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
 
 
 ## Exercises
@@ -9,15 +9,16 @@ These exercises are designed to reflect real-world business scenarios and challe
 
 Resources:
 
+* [Owlmind](https://github.com/genilab-fau/owlmind): framework for fast-prototyping of Generative Intelligence Systems.
 * [Use Case Compendium](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): open-science list of industry use cases compiled from exchanges with experts, publications, and experiences.
 * [Generative Intelligence Systems](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb): community article explaining these systems, research questions, and opportunities for research.
-* [Owlmind](https://github.com/genilab-fau/owlmind): framework for fast-prototyping of Generative Intelligence Systems.
+
 
 ## How to implement the exercises?
 
 ![GenI System Architecture](./images/docs/genai-arch.png)
 
-These exercises are built for fast prototyping, using configurations based on our toolkits. You will make use of our [Owlmind](https://github.com/genilab-fau/owlmind) framework for experimentation and education, local model providers (e.g., [Ollama](http://www.ollama.com)), and [Discord Bots](http://www.discord.com) - so you can focus on system logic without spending time designing user interfaces.
+These exercises are designed for fast prototyping, using configurations based on our toolkits. You will make use of our [Owlmind](https://github.com/genilab-fau/owlmind) framework for experimentation and education, local model providers (e.g., [Ollama](http://www.ollama.com)), and [Discord Bots](http://www.discord.com) - so you can focus on system logic without spending time designing user interfaces.
 
 
 To begin working on the exercises, follow these steps:
