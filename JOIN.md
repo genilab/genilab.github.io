@@ -16,7 +16,7 @@ You can join us in one of the following capacities:
 * **[Master Researcher](#master-researcher)**.
 * **[Undergraduate Researcher](#undergradute-researcher)**.
 
-Find out our ideas for projects and collaboration at [Projects](PROJECTS.md).
+Find out our **ideas for projects and collaboration** at [Projects](PROJECTS.md).
 
 ---
 

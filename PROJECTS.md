@@ -6,11 +6,11 @@
 
 The Generative Intelligence Lab is a group of builders dedicated to the research-driven development of Generative Intelligence Systems. We support rapid experimentation with GenAI-powered, multidisciplinary research applications. 
 
-We publish our ideas for projects through:
+We publish our **Ideas for Projects** through:
+
+* [Use Case Compendium](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): a curate, open-science list of industry use cases compiled from exchanges with experts, industry demands, and diverse publications.
 
 * [Research Community Papers](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges.
-
-* [Use Case Compendium](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): open-science list of industry use cases compiled from exchanges with experts, publications, and experiences.
 
 * [Exercises](./EXERCISES.md): open-science exercises for hobbyists and coursework.
 
