@@ -33,7 +33,7 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 
 | | | |
 | :-: | :-: | :-: | 
-| ![](./images/docs/use-right-to-know.png) <br/> [**Right To Know**]() <br/> Learn if your private data is stored in commercial LLMs. <br/> ([Synergist Technology](https://synergist.technology)) | ![](./images/docs/use-virtual-seller.png) <br/> [**Virtual Seller**]() <br/> A bot that let your customers talk to your products. <br/> (tbd) |  ![](./images/docs/use-collective-experiences.png) <br/> [**Collective Experience Systems**]()<br/>Multi-agent environments for AI-human collaboration.<br/> (submitted) | 
+| ![](./images/docs/use-collective-experiences.png) <br/> [**Collective Experience Systems**]()<br/>Multi-agent environments for <br/>AI-human collaboration.<br/> (submitted) | ![](./images/docs/use-virtual-seller.png) <br/> [**Virtual Seller**]() <br/> Let your customers <br/> talk to your products. <br/> (tbd) | ![](./images/docs/use-right-to-know.png) <br/> [**Right To Know**]() <br/> Learn if your private data is<br/> stored in commercial LLMs. <br/> (tbd) |
 
 # Operation
 
