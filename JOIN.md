@@ -10,7 +10,7 @@ Our goal is to foster a  community of curious minds exploring meaningful researc
 
 You can join us in one of the following capacities:
 
-* [**Individual Contributor**](CONTRIBUTE.md) to our Research Resources.
+* [**Individual Contributor**](CONTRIBUTE.md).
 * [**Postdoc Researchers**](#postdoctoral-researchers).
 * [**Ph.D. Students**](#phd-students).
 * [**Master Researcher**](#master-researcher).
