@@ -8,11 +8,11 @@ The Generative Intelligence Lab is a group of builders dedicated to the research
 
 We publish our **Ideas for Projects** through:
 
-* [Use Case Compendium](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): a curate, open-science list of industry use cases compiled from exchanges with experts, industry demands, and diverse publications.
+* [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): a curate, open-science list of industry use cases compiled from exchanges with experts, industry demands, and diverse publications.
 
-* [Research Community Papers](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges.
+* [**Research Community Papers**](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges.
 
-* [Exercises](./EXERCISES.md): open-science exercises for hobbyists and coursework.
+* [**Exercises**](./EXERCISES.md): open-science exercises for hobbyists and coursework.
 
 
 ## Resources
