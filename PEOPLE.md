@@ -4,23 +4,17 @@
 
 
 
-## Team
 
-| | |
-| :- | :- |  
-| ![](./images/people/fkoch-headshot.png) | [Dr. Fernando Koch](http://www.fernandokoch.me), Department of Electrical Engineering and Computer Sciences, FAU <br/> * Research Professor <br/> * Head of The Generative Intelligence Lab | 
-| | | 
+| | 
+| :-: |
+| ![](./images/people/fkoch-headshot.png) <br/>[Dr. Fernando Koch](http://www.fernandokoch.me) <br/> Research Professor <br/> EECS,  FAU |
+| | 
 
-
-<!---
 ## Ph.D. Students
+(to be completed)
 
-## Master Students
-
-## Undergrad Students
-
-## External Collaborators
---->
+## Collaborators
+(to be completed)
 
 # Check Also
 
