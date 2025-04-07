@@ -8,7 +8,6 @@
 | Head | 
 | :-: |
 | ![](./images/people/fkoch-headshot.png) <br/>[Dr. Fernando Koch](http://www.fernandokoch.me) <br/> Research Professor <br/> EECS,  FAU |
-| | 
 
 ## Ph.D. Students
 (to be completed)
