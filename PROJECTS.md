@@ -2,6 +2,11 @@
 
 ### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
 
+## Operation
+
+![GenI-Lab Activities](./images/genilab-activities.png)
+
+
 ## Projects
 
 The Generative Intelligence Lab is a group of builders working as a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications and Industry Collaboration.
@@ -16,9 +21,6 @@ If you want to collaborate and looking for a project, we publish our **Ideas for
 
 * [**Exercises**](./EXERCISES.md): open-science exercises for hobbyists and coursework.
 
-# Operation
-
-![GenI-Lab Activities](./images/genilab-activities.png)
 
 ## Resources
 
