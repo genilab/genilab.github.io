@@ -5,15 +5,16 @@
 ### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
 
 
-The Generative Intelligence Lab is dedicated to the research-driven development of Generative Intelligence Systems that delivers research contribution, business innovation, and social impact.
+The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU  supports the design, development, delivery of research-oriented Generative Intelligence Systems to a wide range of research communities in our university.
 
-<span style="color:#2962CE; font-size:20px; font-weight:bold;">We are builders of Generative Intelligence Systems!</span>
+<h3 style="color:#4DAAFD">We are builders of Generative Intelligence Systems!</h2>
 
-We operate as **a software factory for Generative Intelligence Systems** aiming to fast track innovation by translating research into real-world impact! We bring together expertise and specialized toolkits to connect solution requirements, prompts, pipelines, and models.
+We operate as **a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using a combination of specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the adoption of rapid prototyping processes and solutions that ultimately lead to highly robust systems that meet the needs of the customers we serve. Indeed, we pride ourselves on being able to develop systems faster and more robustly than other folks.  
 
-We support rapid experimentation with GenAI-powered, multidisciplinary research applications. Our Lab provides [Research Resources](./PROJECTS#resources)  tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems and specialized models, our systems are built to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
+<h3 style="color:#4DAAFD">Advancing open science and the creative economy!</h2>
 
-<span style="color:#2962CE; font-size:20px; font-weight:bold;">Advancing open science and the creative economy!</span>
+We  Our Lab provides [Research Resources](./PROJECTS#resources)  tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems and specialized models, our systems are built to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
+
 
 We champion [open science and knowledge transfer](./KNOWLEDGE.md) through technical reports, academic publications, and educational programs. Our Lab continuously develops and shares [projects](./PROJECTS#use-cases) and [practical exercises](./EXERCISES.md#industry-use-cases) tied to real-world challenges. We're driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
 

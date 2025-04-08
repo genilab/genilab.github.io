@@ -3,6 +3,10 @@
 ### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
 
 
+## Areas of Interest
+
+![GenI-Lab Research Topics](./images/genilab-research.png)
+
 
 ## Publications
 
@@ -16,8 +20,6 @@ Our open publications include:
 
 * [Publications by the Generative Intelligence Lab](https://medium.com/generative-intelligence-lab) is a venue to promote publications that communicate our research insights, practical use cases, and experimental findings. 
 * [Research Community Papers](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea) explain the topics around our key research focus, providing an overview around the concepts, research challenges, and ideas for advanced research projects.
-
-![GenI-Lab Research Topics](./images/genilab-research.png)
 
 
 <!-- ## Scientific Publications -->
