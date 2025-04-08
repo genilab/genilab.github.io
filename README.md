@@ -9,12 +9,11 @@ The Generative Intelligence Lab in the Department of Electrical Engineering and 
 
 <h3 style="color:#2B65CF">We are builders of Generative Intelligence Systems!</h3>
 
-We operate as **a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using a combination of specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the adoption of rapid prototyping processes and solutions that ultimately lead to highly robust systems that meet the needs of the customers we serve. Indeed, we pride ourselves on being able to develop systems faster and more robustly than other folks.  
+We operate as **a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using a combination of specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the **adoption of rapid prototyping processes and solutions**. We pride ourselves on being able to develop GenAI-powered systems faster and more robustly than other folks.  
 
 <h3 style="color:#2B65CF">Advancing open science and the creative economy!</h3>
 
-We  Our Lab provides [Research Resources](./PROJECTS#resources)  tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems and specialized models, our systems are built to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
-
+Our Lab provides [Research Resources](./PROJECTS#resources)  tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems and specialized models, our systems are built to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
 
 We champion [open science and knowledge transfer](./KNOWLEDGE.md) through technical reports, academic publications, and educational programs. Our Lab continuously develops and shares [projects](./PROJECTS#use-cases) and [practical exercises](./EXERCISES.md#industry-use-cases) tied to real-world challenges. We're driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
 
