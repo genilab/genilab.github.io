@@ -14,7 +14,7 @@ def main():
         {"pattern": "use-*.png", "size": (150, 150)},
         {"pattern": "*-icon.png", "size": (200, 200)},
         {"pattern": "*-headshot.png", "size": (None, 200)}, 
-        {"pattern": "*-info.png", "size": (None, 400)}, 
+        {"pattern": "*-info.png", "size": (None, 800)}, 
     ]
 
     # Process each task
