@@ -4,9 +4,9 @@
 
 ## Projects
 
-The Generative Intelligence Lab is a group of builders working as a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications.
+The Generative Intelligence Lab is a group of builders working as a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications and Industry Collaboration.
 
-We favor the development of projects around multi-department collaboration Please, reach out Dr. Koch if you have an idea for a project or [want to join as a collaborator](JOIN.md).
+We favor the development of projects around **Multi-Department Collaboration** and **Industry partners**. If you have an idea for a project or [want to join as a collaborator](JOIN.md), please, reach out Dr. Koch. 
 
 If you want to collaborate and looking for a project, we publish our **Ideas for Projects** through:
 
