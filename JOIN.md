@@ -18,6 +18,8 @@ You can join us in one of the following capacities:
 
 Find out our [**ideas for projects and collaboration**](PROJECTS.md).
 
+Check out Dr. Koch's [Philosophy on Academic Advisory](http://www.fernandokoch.me/pages/advisory.html) for guidelines and to setup expectations. 
+
 ---
 
 ## Postdoctoral Researchers
