@@ -1,11 +1,12 @@
 
 
+
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
 ### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
 
 
-The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU  supports the design, development, delivery of research-oriented Generative Intelligence Systems to a wide range of Research Communities and Industry Partners.
+The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the design, development, and deployment of research-driven Generative Intelligence Systems for a wide range of research communities and industry partners.
 
 <h3 style="color:#2B65CF">We are builders of Generative Intelligence Systems!</h3>
 
@@ -13,13 +14,10 @@ We operate as **a software factory for Generative Intelligence Systems in Multi-
 
 <h3 style="color:#2B65CF">Advancing open science and the creative economy!</h3>
 
-Our Lab provides [Research Resources](./PROJECTS#resources)  tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems and specialized models, our systems are built to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
+Our lab provides [Research Resources](./PROJECTS#resources)  tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems, and domain-specific models. These systems are designed to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
 
 We champion [open science and knowledge transfer](./KNOWLEDGE.md) through technical reports, academic publications, and educational programs. Our Lab continuously develops and shares [projects](./PROJECTS#use-cases) and [practical exercises](./EXERCISES.md#industry-use-cases) tied to real-world challenges. We're driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
 
-<!-- invitation to collaborators -->
-
-<!-- # Impact -->
 
 ## Expertise
 
@@ -45,6 +43,7 @@ Our expertise and research interests lie in the intersection between:
 * [Contributing](CONTRIBUTE.md)
 * [Team](PEOPLE.md)
 * [Join Us](JOIN.md)
+
 
   
 
