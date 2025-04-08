@@ -5,7 +5,7 @@
 
 ## Areas of Interest
 
-![GenI-Lab Research Topics](./images/genilab-research.png)
+![GenI-Lab Research Topics](./images/genilab-research-info.png)
 
 
 ## Publications
