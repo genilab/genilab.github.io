@@ -5,7 +5,7 @@
 ### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
 
 
-The Generative Intelligence Lab is dedicated to the research-driven development of Generative Intelligence Systems that delivers [research contribution, business innovation, and social impact](./PROJECTS.md).
+The Generative Intelligence Lab is dedicated to the research-driven development of Generative Intelligence Systems that delivers research contribution, business innovation, and social impact.
 
 <span style="color:#2962CE; font-size:20px; font-weight:bold;">We are builders of Generative Intelligence Systems!</span>
 
@@ -23,7 +23,7 @@ We champion [open science and knowledge transfer](./KNOWLEDGE.md) through techni
 
 ## Expertise
 
-[Our expertise](KNOWLEDGE.md) and research interests lie in the intersection between:
+Our expertise and research interests lie in the intersection between:
 
 * [**Generative Intelligence Systems:**](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb) design systems that generate meaningful actions using Prompts, Pipelines, and  Generative Models, eventually integrated in Multi-Agent Systems.
 
