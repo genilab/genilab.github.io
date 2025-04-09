@@ -16,9 +16,9 @@ You can join us in one of the following capacities:
 * [**Master Researcher**](#master-researcher).
 * [**Undergraduate Researcher**](#undergradute-researcher).
 
-Find out our [**ideas for projects and collaboration**](PROJECTS.md).
-
-Check out Dr. Koch's [Philosophy on Academic Advisory](http://www.fernandokoch.me/pages/advisory.html) for guidelines and to setup expectations. 
+Pointers and guidelines:
+* [**Ideas for projects and collaboration**](PROJECTS.md).
+* Dr. Koch's [**Philosophy on Academic Advisory**](http://www.fernandokoch.me/pages/advisory.html) provides guidelines and to set up expectations. 
 
 ---
 
