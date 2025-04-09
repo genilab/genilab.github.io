@@ -6,17 +6,17 @@
 ### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
 
 
-The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the design, development, and deployment of research-driven Generative Intelligence Systems for a wide range of research communities and industry partners.
+The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the design, development, and deployment of research-driven [Generative Intelligence Systems](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb) for our research communities and industry partners.
 
 <h3 style="color:#2B65CF">We are builders of Generative Intelligence Systems!</h3>
 
-We operate as **a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using a combination of specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the **adoption of rapid prototyping processes and solutions**. We pride ourselves on being able to develop GenAI-powered systems faster and more robustly than other folks.  
+We operate as **a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the **adoption of rapid prototyping processes and solutions**. We pride ourselves on being able to develop GenAI-powered systems fast and robustly.
 
 <h3 style="color:#2B65CF">Advancing open science and the creative economy!</h3>
 
-Our lab provides [Research Resources](./PROJECTS#resources)  tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems, and domain-specific models. These systems are designed to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
+Our lab provides [Research Resources](./PROJECTS#resources) tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems, and domain-specific models, these solutions are designed to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
 
-We champion [open science and knowledge transfer](./KNOWLEDGE.md) through technical reports, academic publications, and educational programs. Our Lab continuously develops and shares [projects](./PROJECTS#use-cases) and [practical exercises](./EXERCISES.md#industry-use-cases) tied to real-world challenges. We're driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
+We champion [open science and knowledge transfer](./KNOWLEDGE.md) through technical reports, academic publications, and educational programs. We continuously develop and share [projects](./PROJECTS) and [practical exercises](./EXERCISES.md) tied to real-world challenges. We are driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
 
 
 ## Expertise
