@@ -1,6 +1,10 @@
 
 
-<table border="0">
+<style>
+table {border: none;}
+</style>
+
+<table style="border: none;>
 <tr>
 <th>Company</th>
 <th>Contact</th>
