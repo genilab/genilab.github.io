@@ -7,11 +7,12 @@
 
 ||
 | :-: |
-| ![](./images/people/fkoch-headshot.png) <br/> [Dr. Fernando Koch](https://www.fau.edu/engineering/directory/faculty/koch/) <br/> Research Professor, Dept. EECS, FAU |
+| ![](./images/people/fkoch-headshot.png) <br/> [Dr. Fernando Koch](https://www.linkedin.com/in/fkoch/) <br/> [Research Professor](https://www.fau.edu/engineering/directory/faculty/koch/), Dept. EECS, FAU |
 
 
 
 ## Ph.D. Students
+
 ||
 | :-: |
 | ![](./images/people/natasha-headshot.png) <br/> [Natasha Astudillo](https://www.linkedin.com/in/natashaastudillo/) <br/> Ph.D. Candidate CS, Dept. EECS, FAU |
