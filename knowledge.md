@@ -1,6 +1,6 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
+### [Home](README.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) |  [Join Us](join.md)
 
 
 ## Areas of Interest
@@ -26,7 +26,7 @@ Our open publications include:
 
 ## Education
 
-These are courses taught by Dr. Koch applying [Research Resources](./PROJECTS.md#resources) and expertise from the lab:
+These are courses taught by Dr. Koch applying [Research Resources](./projects.md#resources) and expertise from the lab:
 
 * [COT6930](https://fau.simplesyllabus.com/en-US/doc/nre6c4z6g/Spring-2025-1-Full-Term-COT-6930-001-Topics-in-Computer-Science?mode=view): Generative Artificial Intelligence and Software Development Lifecycles
 * [CEN 4010](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view): Principles of Software Engineering with Generative Intelligence
@@ -36,12 +36,12 @@ These are courses taught by Dr. Koch applying [Research Resources](./PROJECTS.md
 
 ## Check Also
 
-* [Resources](PROJECTS.md#resources)
-* [Projects](PROJECTS.md)
-* [Use Cases](PROJECTS.md#use-cases)
-* [Projects](PROJECTS.md)
-* [Exercises](EXERCISES.md)
-* [Contributing](CONTRIBUTE.md)
-* [Team](PEOPLE.md)
-* [Join Us](JOIN.md)
+* [Resources](projects.md#resources)
+* [Projects](projects.md)
+* [Use Cases](projects.md#use-cases)
+* [Projects](projects.md)
+* [Exercises](exercises.md)
+* [Contributing](contribute.md)
+* [Team](people.md)
+* [Join Us](join.md)
   

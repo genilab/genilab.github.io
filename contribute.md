@@ -1,13 +1,13 @@
 ![GeniLab-banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
+### [Home](README.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) |  [Join Us](join.md)
 
 
 ## Contributing to our Research Resources
 
 We'd love to have your contributions to our code!
 
-Our [Research Resources](./PROJECTS.md#resources) are community projects that aims to provide frameworks for  Education and Experimentation with Generative Intelligence System. If you are trying our tools on your projects and think there are missing features, potential enhancements, or bugs that need to be fixed, then we need your help!
+Our [Research Resources](./projects.md#resources) are community projects that aims to provide frameworks for  Education and Experimentation with Generative Intelligence System. If you are trying our tools on your projects and think there are missing features, potential enhancements, or bugs that need to be fixed, then we need your help!
 
 
 | | | 
@@ -54,11 +54,11 @@ erases context during review. We will squash commits when the pull request is me
 Everyone participating in our community projects is expected to treat other people with respect and more generally to follow the guidelines articulated in the  [Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
 
 ## Check also
-* [Publications](KNOWLEDGE.md#publications)
-* [Education](KNOWLEDGE.md#education)
-* [Resources](PROJECTS.md#resources)
-* [Projects](PROJECTS.md)
-* [Exercises](EXERCISES.md)
-* [Team](PEOPLE.md)
-* [Join Us](JOIN.md)
+* [Publications](knowledge.md#publications)
+* [Education](knowledge.md#education)
+* [Resources](projects.md#resources)
+* [Projects](projects.md)
+* [Exercises](exercises.md)
+* [Team](people.md)
+* [Join Us](join.md)
   

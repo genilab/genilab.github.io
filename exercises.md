@@ -1,6 +1,6 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
+### [Home](README.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) |  [Join Us](join.md)
 
 
 ## Exercises
@@ -69,12 +69,12 @@ Once you have your environment setup:
 
 ## Check Also
 
-* [Publications](KNOWLEDGE.md#publications)
-* [Education](KNOWLEDGE.md#education)
-* [Resources](PROJECTS.md#resources)
-* [Projects](PROJECTS.md)
-* [Contributing](CONTRIBUTE.md)
-* [Team](PEOPLE.md)
-* [Join Us](JOIN.md)
+* [Publications](knowledge.md#publications)
+* [Education](knowledge.md#education)
+* [Resources](projects.md#resources)
+* [Projects](projects.md)
+* [Contributing](contribute.md)
+* [Team](people.md)
+* [Join Us](join.md)
   
   

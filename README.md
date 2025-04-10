@@ -3,7 +3,7 @@
 
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
+### [Home](README.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) |  [Join Us](join.md)
 
 
 The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the design, development, and deployment of research-driven [Generative Intelligence Systems](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb) for our research communities and industry partners.
@@ -16,7 +16,7 @@ We operate as **a software factory for Generative Intelligence Systems in Multi-
 
 Our lab provides [Research Resources](./PROJECTS#resources) tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems, and domain-specific models, these solutions are designed to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
 
-We champion [open science and knowledge transfer](./KNOWLEDGE.md) through technical reports, academic publications, and educational programs. We continuously develop and share [projects](./PROJECTS) and [practical exercises](./EXERCISES.md) tied to real-world challenges. We are driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
+We champion [open science and knowledge transfer](./knowledge.md) through technical reports, academic publications, and educational programs. We continuously develop and share [projects](./PROJECTS) and [practical exercises](./exercises.md) tied to real-world challenges. We are driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
 
 
 ## Expertise
@@ -35,14 +35,14 @@ Our expertise and research interests lie in the intersection between:
 
 ## Check Also
 
-* [Publications](KNOWLEDGE.md#publications)
-* [Education](KNOWLEDGE.md#education)
-* [Resources](PROJECTS.md#resources)
-* [Projects](PROJECTS.md)
-* [Exercises](EXERCISES.md)
-* [Contributing](CONTRIBUTE.md)
-* [Team](PEOPLE.md)
-* [Join Us](JOIN.md)
+* [Publications](knowledge.md#publications)
+* [Education](knowledge.md#education)
+* [Resources](projects.md#resources)
+* [Projects](projects.md)
+* [Exercises](exercises.md)
+* [Contributing](contribute.md)
+* [Team](people.md)
+* [Join Us](join.md)
 
 
   

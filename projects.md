@@ -1,6 +1,6 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
+### [Home](README.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) |  [Join Us](join.md)
 
 ## Operation
 
@@ -11,7 +11,7 @@
 
 The Generative Intelligence Lab is a group of builders working as a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications and Industry Collaboration.
 
-We favor the development of projects around **Multi-Disciplinary Collaboration** and with **Industry Partners**. If you have an idea for a project or [want to join as a collaborator](JOIN.md), reach out to Dr. Koch. 
+We favor the development of projects around **Multi-Disciplinary Collaboration** and with **Industry Partners**. If you have an idea for a project or [want to join as a collaborator](join.md), reach out to Dr. Koch. 
 
 If you want to collaborate and looking for a project, we publish our **Ideas for Projects** through:
 
@@ -19,7 +19,7 @@ If you want to collaborate and looking for a project, we publish our **Ideas for
 
 * [**Research Community Papers**](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges.
 
-* [**Exercises**](./EXERCISES.md): open-science exercises for hobbyists and coursework.
+* [**Exercises**](./exercises.md): open-science exercises for hobbyists and coursework.
 
 
 ## Resources
@@ -36,7 +36,7 @@ Our research toolkits are designed to support rapid experimentation and knowledg
 <!--
 ## Use Cases
 
-We actively promote use cases aligned with real-world needs by applying our [Research Resources](./PROJECTS.md#resources) to fast-track prototyping and innovation. 
+We actively promote use cases aligned with real-world needs by applying our [Research Resources](./projects.md#resources) to fast-track prototyping and innovation. 
 
 | | | |
 | :-: | :-: | :-: | 
@@ -46,9 +46,9 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 
 ## Check Also
 
-* [Publications](KNOWLEDGE.md#publications)
-* [Education](KNOWLEDGE.md#education)
-* [Exercises](EXERCISES.md)
-* [Contributing](CONTRIBUTE.md)
-* [Team](PEOPLE.md)
-* [Join Us](JOIN.md)
+* [Publications](knowledge.md#publications)
+* [Education](knowledge.md#education)
+* [Exercises](exercises.md)
+* [Contributing](contribute.md)
+* [Team](people.md)
+* [Join Us](join.md)

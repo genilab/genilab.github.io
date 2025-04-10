@@ -1,6 +1,6 @@
 ![GeniLab-banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](PROJECTS.md) | [Publications](KNOWLEDGE.md) | [Education](KNOWLEDGE.md#education) | [Team](PEOPLE.md) |  [Join Us](JOIN.md)
+### [Home](README.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) |  [Join Us](join.md)
 
 
 
@@ -10,14 +10,14 @@ Our goal is to foster a  community of curious minds exploring meaningful researc
 
 You can join us in one of the following capacities:
 
-* [**Individual Contributor**](CONTRIBUTE.md).
+* [**Individual Contributor**](contribute.md).
 * [**Postdoc Researchers**](#postdoctoral-researchers).
 * [**Ph.D. Students**](#phd-students).
 * [**Master Researcher**](#master-researcher).
 * [**Undergraduate Researcher**](#undergradute-researcher).
 
 Pointers and guidelines:
-* [**Ideas for projects and collaboration**](PROJECTS.md).
+* [**Ideas for projects and collaboration**](projects.md).
 * Dr. Koch's [**Philosophy on Academic Advisory**](http://www.fernandokoch.me/pages/advisory.html) provides guidelines and to set up expectations. 
 
 ---
@@ -52,7 +52,7 @@ If you are interested, please contact Dr. Koch proving an outline of your propos
 
 We welcome Master's students who wish to conduct their thesis research within the lab. 
 
-Projects must be aligned with our Research Interests and/or make use of our [Research Resources](./PROJECTS.md#resources).  Find out our ideas for projects and collaboration at [Projects](PROJECTS.md).
+Projects must be aligned with our Research Interests and/or make use of our [Research Resources](./projects.md#resources).  Find out our ideas for projects and collaboration at [Projects](projects.md).
 
 
 Please email Dr. Koch with your research interest to discuss supervision or collaboration, 
@@ -68,12 +68,12 @@ We support **Final Year Projects** and independent research that aligns with our
 
 # Check Also
 
-* [Publications](KNOWLEDGE.md#publications)
-* [Education](KNOWLEDGE.md#education)
-* [Resources](PROJECTS.md#resources)
-* [Projects](PROJECTS.md)
-* [Exercises](EXERCISES.md)
-* [Contributing](CONTRIBUTE.md)
-* [Team](PEOPLE.md)
+* [Publications](knowledge.md#publications)
+* [Education](knowledge.md#education)
+* [Resources](projects.md#resources)
+* [Projects](projects.md)
+* [Exercises](exercises.md)
+* [Contributing](contribute.md)
+* [Team](people.md)
   
 
