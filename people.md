@@ -4,10 +4,16 @@
 
 
 
+<table>
+<tr>
+<td>
+![](./images/people/fkoch-headshot.png) <br/>
+[Dr. Fernando Koch](https://www.fau.edu/engineering/directory/faculty/koch/) <br/> 
+Research Professor, Dept. EECS, FAU
+</td>
+</tr>
+</table>
 
-| Head | 
-| :-: |
-| ![](./images/people/fkoch-headshot.png) <br/>[Dr. Fernando Koch](http://www.fernandokoch.me) <br/> Research Professor <br/> EECS,  FAU |
 
 ## Ph.D. Students
 (to be completed)
