@@ -15,7 +15,7 @@
 ## Collaborators
 (to be completed)
 
-# Check Also
+## Check Also
 
 * [Join Us](join.md)
 * [Publications](knowledge.md#publications)

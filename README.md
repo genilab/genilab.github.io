@@ -19,7 +19,7 @@ Our lab provides [Research Resources](./PROJECTS#resources) tailored to emerging
 We champion [open science and knowledge transfer](./knowledge.md) through technical reports, academic publications, and educational programs. We continuously develop and share [projects](./PROJECTS) and [practical exercises](./exercises.md) tied to real-world challenges. We are driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
 
 
-## Expertise
+### Expertise
 
 Our expertise and research interests lie in the intersection between:
 
@@ -33,7 +33,7 @@ Our expertise and research interests lie in the intersection between:
 
 
 
-## Check Also
+### Check Also
 
 * [Publications](knowledge.md#publications)
 * [Education](knowledge.md#education)
