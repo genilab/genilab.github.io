@@ -3,14 +3,7 @@
 
 @import "{{ site.theme }}";
 
-table { 
-    border: none;
-}
-
 .markdown-body table {
-    display: block;
-    width: 100%;
-    overflow:auto;
     border: none;
 }
 
