@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body{
+    background: #C3DEF2;
+    font-family: Noto Sans, Roboto, Helvetica, Arial, sans-serif;
+}
+
+table{
+    background: white;
+    table-layout: fixed;
+}
+tr:nth-child(even){
+    background: blue;
+}
+td{
+    padding: 20px;
+}
+td.corner{ /* cell in upper-left corner */
+    background: #C3DEF2;
+}
+
+.head1{ /* top row */
+    text-align: center;
+}
+.head2{ /* leftmost column */
+    text-align: right;
+}
+.head1, .head2{
+    background: lightblue;
+    text-transform: uppercase;
+    font-weight: 600;
+}
