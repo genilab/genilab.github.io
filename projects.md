@@ -1,6 +1,7 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](README.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) |  [Join Us](join.md)
+### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) |  [Join Us](join.md)
+
 
 ## Operation
 
