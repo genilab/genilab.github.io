@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<th>Company</th>
+<th>CompanyXXX</th>
 <th>Contact</th>
 <th>Country</th>
 </tr>
