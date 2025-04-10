@@ -7,13 +7,14 @@
 ![GenI-Lab Activities](./images/genilab-activities.png)
 
 
-## Projects
-
 The Generative Intelligence Lab is a group of builders working as a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications and Industry Collaboration.
 
-We favor the development of projects around **Multi-Disciplinary Collaboration** and with **Industry Partners**. If you have an idea for a project or [want to join as a collaborator](join.md), reach out to Dr. Koch. 
+**We favor the development of projects around Multi-Disciplinary Collaboration** and with **Industry Partners**. If you have an idea for a project or [want to join as a collaborator](join.md), reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/.) 
 
-If you want to collaborate and looking for a project, we publish our **Ideas for Projects** through:
+
+## Project Ideas
+
+We publish our **Ideas for Projects** through:
 
 * [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): a curate, open-science list of industry use cases compiled from exchanges with experts, industry demands, and diverse publications.
 
