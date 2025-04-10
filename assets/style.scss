@@ -4,6 +4,13 @@
 @import "{{ site.theme }}";
 
 
-table{
+.markdown-body table {
+    display: block;
+    width: 100%;
+    overflow:auto;
     border: none;
+}
+
+.markdown-body table tr:nth-child(2n) {
+    background-color:#ffffff
 }
