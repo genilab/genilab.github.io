@@ -1,10 +1,6 @@
 
 
-<style>
-table {border: none;}
-</style>
-
-<table style="border: none;">
+<table>
 <tr>
 <th>Company</th>
 <th>Contact</th>
