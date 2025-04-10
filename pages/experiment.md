@@ -4,7 +4,7 @@
 table {border: none;}
 </style>
 
-<table style="border: none;>
+<table style="border: none;">
 <tr>
 <th>Company</th>
 <th>Contact</th>
