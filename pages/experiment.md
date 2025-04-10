@@ -1,6 +1,6 @@
 
 
-<table>
+<table border="0">
 <tr>
 <th>Company</th>
 <th>Contact</th>
