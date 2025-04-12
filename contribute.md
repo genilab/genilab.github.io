@@ -1,38 +1,38 @@
 ![GeniLab-banner](./images/genilab-banner.png)
 
-### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) |  [Join Us](join.md)
+### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) | [Collaborate](collaborate.md)
 
 
 ## Contributing to our Research Resources
 
 We'd love to have your contributions to our code!
 
-Our [Research Resources](./projects.md#resources) are community projects that aims to provide frameworks for  Education and Experimentation with Generative Intelligence System. If you are trying our tools on your projects and think there are missing features, potential enhancements, or bugs that need to be fixed, then we need your help!
+Our [Research Resources](./projects.md#resources) are community projects that aims to provide frameworks for Education and Experimentation with Generative Intelligence System. If you are trying our tools on your projects and think there are missing features, potential enhancements, or bugs that need to be fixed, then we need your help!
 
 
 | | | 
-| :-: | :- |  
+| :-: | :- | 
 | ![](./images/docs/owlmind-icon.png) | [**Owlmind**](https://github.com/genilab-fau/owlmind) <br/> Framework for Experimentation and Education with Generative Intelligent Systems. <br/> [issue tracker](https://github.com/genilab-fau/owlmind/issues) |
-| ![](./images/docs/prompt-icon.png)  | [**Prompt Engineering Lab**](https://github.com/genilab-fau/prompt-eng) <br/> Experimentation with Prompt Engineering techniques. | 
+| ![](./images/docs/prompt-icon.png) | [**Prompt Engineering Lab**](https://github.com/genilab-fau/prompt-eng) <br/> Experimentation with Prompt Engineering techniques. | 
  
 
 
 
 ## Guidelines
 
-We use the usual GitHub pull-request flow, which may be familiar to you if you've contributed to other projects on GitHub.  For the mechanics,
+We use the usual GitHub pull-request flow, which may be familiar to you if you've contributed to other projects on GitHub. For the mechanics,
 see [GitHub's documentation on Pull Requests](https://help.github.com/articles/using-pull-requests/).
 
 You do not need to ask for permission to work on any of these issues. Just fix the issue yourself, using your installation, and open a pull request.
 
-### Permissions  
+### Permissions 
 
 To get help **fixing a specific issue**, it is often best to add a comment to the issue itself. You're much more likely to get help if you provide details about what you've tried and where you've looked (maintainers tend to help those who help themselves). 
 
 ### Good Pull Requests
 
 The best pull requests are focused, clearly describe their purpose, and make sure
-anyone fells comfortable they have been  tested and will work well. 
+anyone fells comfortable they have been tested and will work well. 
 Some good advices compiled from different sources:
 
 * PR contains a single logical change. Grouping multiple not directly related changes 
@@ -51,7 +51,7 @@ erases context during review. We will squash commits when the pull request is me
 
 ## Code of Conduct
 
-Everyone participating in our community projects is expected to treat other people with respect and more generally to follow the guidelines articulated in the  [Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
+Everyone participating in our community projects is expected to treat other people with respect and more generally to follow the guidelines articulated in the [Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
 
 ## Check also
 * [Publications](knowledge.md#publications)
@@ -60,5 +60,5 @@ Everyone participating in our community projects is expected to treat other peop
 * [Projects](projects.md)
 * [Exercises](exercises.md)
 * [Team](people.md)
-* [Join Us](join.md)
-  
+* [Collaborate](collaborate.md)
+ 

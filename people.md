@@ -1,6 +1,6 @@
 ![GeniLab-banner](./images/genilab-banner.png)
 
-### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) |  [Join Us](join.md)
+### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) | [Collaborate](collaborate.md)
 
 
 ## Head
@@ -25,7 +25,7 @@
 
 ## Check Also
 
-* [Join Us](join.md)
+* [Collaborate](collaborate.md)
 * [Publications](knowledge.md#publications)
 * [Education](knowledge.md#education)
 * [Resources](projects.md#resources)

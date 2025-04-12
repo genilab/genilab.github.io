@@ -1,13 +1,13 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) |  [Join Us](join.md)
+### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) | [Collaborate](collaborate.md)
 
 
 ## Operation
 
 The Generative Intelligence Lab is a group of builders working as a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications and Industry Collaboration.
 
-**We favor the development of projects around Multi-Disciplinary Collaboration** and with **Industry Partners**. If you have an idea for a project or [want to join as a collaborator](join.md), reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
+**We favor the development of projects around Multi-Disciplinary Collaboration** and with **Industry Partners**. If you have an idea for a project or [want to join as a collaborator](collaborate.md), reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
 
 
 ![GenI-Lab Activities](./images/genilab-activities.png)
@@ -31,9 +31,9 @@ Our research toolkits are designed to support rapid experimentation and knowledg
 
 
 | | | 
-| :-: | :- |  
-| ![](./images/docs/owlmind-icon.png) | [**Owlmind**](https://github.com/genilab-fau/owlmind) <br/> Framework for Generative Intelligent Systems. <br/> :: Bots + Prompts + Pipelines + Models =  Fast Prototypes |
-| ![](./images/docs/prompt-icon.png)  | [**Prompt Engineering Lab**](https://github.com/genilab-fau/prompt-eng) <br/> Fast prototype with Prompt Engineering techniques. <br/> :: Prompts + Models = Quick Experiments  | 
+| :-: | :- | 
+| ![](./images/docs/owlmind-icon.png) | [**Owlmind**](https://github.com/genilab-fau/owlmind) <br/> Framework for Generative Intelligent Systems. <br/> :: Bots + Prompts + Pipelines + Models = Fast Prototypes |
+| ![](./images/docs/prompt-icon.png) | [**Prompt Engineering Lab**](https://github.com/genilab-fau/prompt-eng) <br/> Fast prototype with Prompt Engineering techniques. <br/> :: Prompts + Models = Quick Experiments | 
 | ![](./images/docs/chatfau-icon.png) | [ChatFAU](https://chat.hpc.fau.edu) <br/> Intelligent chat Interface based on [Ollama](http://ollama.com). <br/> :: Our solution for zero-cost Model Provider :: | 
 
 <!--
@@ -54,4 +54,4 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 * [Exercises](exercises.md)
 * [Contributing](contribute.md)
 * [Team](people.md)
-* [Join Us](join.md)
+* [Collaborate](collaborate.md)

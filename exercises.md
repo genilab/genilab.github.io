@@ -1,6 +1,6 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) |  [Join Us](join.md)
+### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) | [Collaborate](collaborate.md)
 
 
 ## Exercises
@@ -25,7 +25,7 @@ To begin working on the exercises:
 
 1. **Understand the core components of Generative Intelligence Systems**. Explore our check our publications at [Publications by the Generative Intelligence Lab](https://medium.com/generative-intelligence-lab), especially the article on [Generative Intelligence Systems](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb).
 
-1.  **Install [Owlmind](https://github.com/genilab-fau/owlmind)**; this framework accelerates your prototyping process and supports a wide range of GenAI workflows.
+1. **Install [Owlmind](https://github.com/genilab-fau/owlmind)**; this framework accelerates your prototyping process and supports a wide range of GenAI workflows.
 
 1. **Set up your Discord Bot and connect it to the [Owlmind](https://github.com/genilab-fau/owlmind)** framework running on your target Discord server. Step-by-step setup instructions are included in the repository.
 
@@ -35,36 +35,36 @@ To begin working on the exercises:
 Once you have your environment setup:
 
 1. Define your Use Case Prototype
-    * Check for ideas in the [Use Case Compendium](#exercises) above.
-    * What should the bot / application do?
-    * What interactions should it support?
-    * How will it deliver those interactions?
-    * What GenAI techniques will be used?
-    * Prompt Augmentation.
-    * Retrieval-Augmented Generation (RAG).
-    * Prompt + Action (artifacts).
-    * Multi-Agent Systems.
-    * Or a combination?
+ * Check for ideas in the [Use Case Compendium](#exercises) above.
+ * What should the bot / application do?
+ * What interactions should it support?
+ * How will it deliver those interactions?
+ * What GenAI techniques will be used?
+ * Prompt Augmentation.
+ * Retrieval-Augmented Generation (RAG).
+ * Prompt + Action (artifacts).
+ * Multi-Agent Systems.
+ * Or a combination?
 
 2. Decide which parts of the framework must be configured:
-    * Agent orchestration rules.
-    * Prompt augmentation workflows.
-    * RAG modules.
-    * Model provider and specific model (e.g., Llama 3.2).
-    * Model parameters (e.g., temperature, context window size, etc.).
+ * Agent orchestration rules.
+ * Prompt augmentation workflows.
+ * RAG modules.
+ * Model provider and specific model (e.g., Llama 3.2).
+ * Model parameters (e.g., temperature, context window size, etc.).
 
 1. If required, gather (or create) Datasets for your tests.
-    * Examples of QA-datasets:
-        * [Natural Questions](https://ai.google.com/research/NaturalQuestions), Google.
-        * [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/), The Stanford NLP Group.
-        * [HotpotQA](https://hotpotqa.github.io/), HotpotQA Team.
-        * [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), UW NLP Group.
+ * Examples of QA-datasets:
+ * [Natural Questions](https://ai.google.com/research/NaturalQuestions), Google.
+ * [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/), The Stanford NLP Group.
+ * [HotpotQA](https://hotpotqa.github.io/), HotpotQA Team.
+ * [TriviaQA](http://nlp.cs.washington.edu/triviaqa/), UW NLP Group.
 
 1. Deploy your setup: 
-    * Configure Owlmind.
-    * Deploy your Discord Bot.
-    * Load your datasets.
-    * Start testing your use case!
+ * Configure Owlmind.
+ * Deploy your Discord Bot.
+ * Load your datasets.
+ * Start testing your use case!
 
 
 ## Check Also
@@ -75,6 +75,6 @@ Once you have your environment setup:
 * [Projects](projects.md)
 * [Contributing](contribute.md)
 * [Team](people.md)
-* [Join Us](join.md)
-  
-  
+* [Collaborate](collaborate.md)
+ 
+ 
