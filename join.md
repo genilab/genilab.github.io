@@ -7,7 +7,7 @@ Thank you for your interest in collaborating with our lab!
 
 You can join us in one of the following capacities:
 
-* [**Research Collaborators**](#research-collaborators)
+* [**Research Collaborators**](#research-collaborators).
 * [**Postdoc Researchers**](#postdoctoral-researchers).
 * [**Ph.D. Students**](#phd-students).
 * [**Master Researcher**](#master-researcher).
@@ -32,7 +32,7 @@ Our goal is to bring together (and support) a group curious minds exploring mean
 * Promote high-quality **publications that showcase our research** focus and capabilities.
 * Pursue **funding opportunities**, including grants and other forms of financial support, to sustain and grow our research initiatives.
 
-If you are interested in research collaboration and/or have an idea for a multidisciplinary project,please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
+If you are interested in research collaboration and/or have an idea for a multidisciplinary project, please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
 
 
 ---
