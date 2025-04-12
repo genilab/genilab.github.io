@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Our Team</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      background-color: #f9f9f9;
+    }
+    .team-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 30px;
+    }
+    .person-card {
+      background-color: #fff;
+      border-radius: 10px;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .person-card img {
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+      border-radius: 50%;
+      margin-bottom: 15px;
+    }
+    .person-name {
+      font-size: 1.1rem;
+      font-weight: bold;
+    }
+    .person-title {
+      color: #666;
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Meet the Team</h1>
+  <div class="team-container">
+    <div class="person-card">
+      <img src="https://via.placeholder.com/100" alt="Jane Doe">
+      <div class="person-name">Jane Doe</div>
+      <div class="person-title">CEO</div>
+    </div>
+    <div class="person-card">
+      <img src="https://via.placeholder.com/100" alt="John Smith">
+      <div class="person-name">John Smith</div>
+      <div class="person-title">CTO</div>
+    </div>
+    <div class="person-card">
+      <img src="https://via.placeholder.com/100" alt="Alex Johnson">
+      <div class="person-name">Alex Johnson</div>
+      <div class="person-title">Lead Designer</div>
+    </div>
+    <!-- Add more people as needed -->
+  </div>
+
+</body>
+</html>
