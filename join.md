@@ -3,21 +3,37 @@
 ### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) |  [Join Us](join.md)
 
 
-Thank you for your interest in joining the Generative Intelligence Lab! 
-
-Our goal is to foster a  community of curious minds exploring meaningful research and novel ideas aligned with our research interests. 
+Thank you for your interest in collaborating with our lab!
 
 You can join us in one of the following capacities:
 
-* [**Individual Contributor**](contribute.md).
+* [**Research Collaborators**](#research-collaborators)
 * [**Postdoc Researchers**](#postdoctoral-researchers).
 * [**Ph.D. Students**](#phd-students).
 * [**Master Researcher**](#master-researcher).
 * [**Undergraduate Researcher**](#undergradute-researcher).
+* [**Contributor**](contribute.md).
 
 Pointers and guidelines:
 * [**Ideas for projects and collaboration**](projects.md).
-* Dr. Koch's [**Philosophy on Academic Advisory**](http://www.fernandokoch.me/pages/advisory.html) provides guidelines and to set up expectations. 
+* Dr. Koch's [**Philosophy on Academic Advisory**](http://www.fernandokoch.me/pages/advisory.html) provides guidelines to prospective students.
+  
+---
+
+## Research Collaborators
+
+Our goal is to bring together (and support) a group curious minds exploring meaningful research and novel ideas. 
+
+**Our strategy** is to:
+
+* Actively foster **collaboration with research partners**, with a strong emphasis on multidisciplinary approaches.
+* * Design and organize **multidisciplinary research projects** that bring together diverse perspectives and expertise.
+* Align our efforts with **research-supporting organizations**, building mutually beneficial relationships that reflect shared priorities.
+* Promote high-quality **publications that showcase our research** focus and capabilities.
+* Pursue **funding opportunities**, including grants and other forms of financial support, to sustain and grow our research initiatives.
+
+If you are interested in research collaboration and/or have an idea for a multidisciplinary project,please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
+
 
 ---
 
