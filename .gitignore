@@ -2,7 +2,8 @@
 
 .DS*
 .DS_store
-_fix.py
+_fix_pages.py
+_fix_images.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
