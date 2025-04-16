@@ -1,6 +1,7 @@
 ![GeniLab-banner](./images/genilab-banner.png)
 
-### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) | [Collaborate](collaborate.md)
+### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](./people.html) | [Collaborate](collaborate.md)
+
 
 
 Thank you for your interest in collaborating with our lab!
@@ -132,6 +133,6 @@ Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch
 * [Topics of Interest](projects.md#topics-of-interest)
 * [Exercises](exercises.md)
 * [Contributing](contribute.md)
-* [Team](people.md)
+* [Team](./people.html)
  
 

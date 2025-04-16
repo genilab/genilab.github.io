@@ -1,6 +1,6 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) | [Collaborate](collaborate.md)
+### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](./people.html) | [Collaborate](collaborate.md)
 
 
 ## Operation
@@ -88,5 +88,5 @@ If you are interested in develop Use Cases around any of these topics,  please r
 * [Education](knowledge.md#education)
 * [Exercises](exercises.md)
 * [Contributing](contribute.md)
-* [Team](people.md)
+* [Team](./people.html)
 * [Collaborate](collaborate.md)

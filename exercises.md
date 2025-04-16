@@ -1,6 +1,6 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](people.md) | [Collaborate](collaborate.md)
+### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](./people.html) | [Collaborate](collaborate.md)
 
 
 ## Exercises
@@ -75,7 +75,7 @@ Once you have your environment setup:
 * [Projects](projects.md)
 * [Topics of Interest](projects.md#topics-of-interest)
 * [Contributing](contribute.md)
-* [Team](people.md)
+* [Team](./people.html)
 * [Collaborate](collaborate.md)
  
  
