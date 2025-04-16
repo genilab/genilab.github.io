@@ -38,11 +38,11 @@ Our expertise and research interests lie in the intersection between:
 
 ### Check Also
 
-* [Publications](knowledge.md#publications)
 * [Topics of Interest](projects.md#topics-of-interest)
+* [Projects](projects.md)
+* [Publications](knowledge.md#publications)
 * [Education](knowledge.md#education)
 * [Resources](projects.md#resources)
-* [Projects](projects.md)
 * [Exercises](exercises.md)
 * [Contributing](contribute.md)
 * [Team](./people.html)
