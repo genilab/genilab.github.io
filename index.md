@@ -9,7 +9,7 @@ The Generative Intelligence Lab in the Department of Electrical Engineering and 
 
 We operate as **a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the **adoption of rapid prototyping processes and solutions**. We pride ourselves on being able to develop GenAI-powered systems fast and robustly. 
 
-We are building capacity in specific [Topics of Interest](projects.md#topics-of-interest) and offer a [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing) as an open-science list of industry use cases.
+We are building capacity in specific [**Topics of Interest**](projects.md#topics-of-interest) and offer a [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing) as an open-science list of industry use cases.
 
 <h3 style="color:#2B65CF">Advancing open science and the creative economy!</h3>
 
