@@ -88,7 +88,6 @@ If you are interested, please reach out proving:
 
 ## Masters Researcher
 
-> Note: We DO NOT have opportunities for RA's and this is not a budget we can control.
 
 We welcome Master's students who wish to conduct their dissertation research within the lab. 
 
@@ -96,9 +95,10 @@ We are open to:
 1. **Supervise Master Research**.
 1. **Provide Mentorship and Advisory**.
 1. **Guidance for Structuring Projects** around Multi-disciplinary Research agendas.
+1. **Help to find a Multi-disciplinary Research Collaborator**
 
 
-If you are already a registered Master Student at FAU, one way to participate is to engaged in a Multi-disciplinary Research Project that could lead to a, for example, Grant Application. Financial support opportunities will come with projects from Research Collaborators and Industry Partners (see above). 
+If you are already a registered Master Student at FAU, one way to (voluntarily) participating is by engaging in a Multi-disciplinary Research Project. We DO NOT have opportunities for RAs, unfortunately. However, financial opportunities will come with projects from Research Collaborators and Industry Partners (see above). 
 
 If you are interested, please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). Check the lists of use cases and research ideas in 'Pointers and Guidelines' (see above).
 
