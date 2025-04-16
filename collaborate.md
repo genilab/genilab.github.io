@@ -98,7 +98,10 @@ We are open to:
 1. **Help to find a Multi-disciplinary Research Collaborator**
 
 
-If you are already a registered Master Student at FAU, one way to (voluntarily) participating is by engaging in a Multi-disciplinary Research Project. We DO NOT have opportunities for RAs, unfortunately. However, financial opportunities will come with projects from Research Collaborators and Industry Partners (see above). 
+If you are already a registered Master Student at FAU, one way to (voluntarily) participating is by engaging in a Multi-disciplinary Research Project. We DO NOT have opportunities for RAs, unfortunately. However, financial opportunities will come through Research Collaborations and Industry Partners (and Use Cases they want to build).
+
+**We are builders!**
+One way to facilitate the process is to help finding Research Collaboration projects through access with Collaborators in other Departments, for instance. We are open to fully support this process!
 
 If you are interested, please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). Check the lists of use cases and research ideas in 'Pointers and Guidelines' (see above).
 
