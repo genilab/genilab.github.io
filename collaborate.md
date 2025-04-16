@@ -8,32 +8,46 @@ Thank you for your interest in collaborating with our lab!
 You can join us in one of the following capacities:
 
 * [**Research Collaborators**](#research-collaborators).
+* [**Industry Partner**](#industry-partner).
 * [**Postdoc Researchers**](#postdoctoral-researchers).
 * [**Ph.D. Students**](#phd-students).
 * [**Master Researcher**](#master-researcher).
 * [**Undergraduate Researcher**](#undergradute-researcher).
 * [**Contributor**](contribute.md).
 
+
 Pointers and guidelines:
+* [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): a curate, open-science list of industry use cases compiled from exchanges with experts, industry demands, and diverse publications.
+* [**Research Community Papers**](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges.
 * [**Ideas for projects and collaboration**](projects.md).
-* Dr. Koch's [**Philosophy on Academic Advisory**](http://www.fernandokoch.me/pages/advisory.html) provides guidelines to prospective students.
- 
+
+If you are interested, please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) and we will find a way to engage!
+
+
 ---
 
 ## Research Collaborators
 
-Our goal is to bring together (and support) a group curious minds exploring meaningful research and novel ideas. 
+We need to bring together like-minded innovators to make our research meaningful for the society!
 
-**Our strategy** is to:
+For that, we seek to engage with Research Collaborators that can contribute with one or more of the following:
 
-* Actively foster **collaboration with research partners**, with a strong emphasis on multidisciplinary approaches.
-* Design and organize **multidisciplinary research projects**.
-* Promote high-quality **publications that showcase our capabilities**.
-* Align our efforts with **research priorities by research-supporting organizations** (NSF, NIH, etc).
-* Pursue **funding opportunities**, including grants and other forms of financial support.
+1. **Create Use Cases**, specially around multi-disciplinary research.
+1. **Develop Prototypes** applying our Research resources for fast prototyping.
+1. **Promote Publications**, always important to showcase our interests and capabilities.
+1. **Joint Grant Applications**.
   
-If you are interested in research collaboration and/or have an idea for a multidisciplinary project, please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
+---
 
+## Industry Partners
+
+We need to make our research and development relevant to the industry, so it will have true impact!
+
+In practical terms, we seek to collaborate with Industry Partners that can help with:
+
+1. **Create Industry-relevant Use Cases**.
+1. **Develop Prototypes** applying our Research resources for fast prototyping.
+1. **Joint Grant Applications**.
 
 ---
 
@@ -41,36 +55,52 @@ If you are interested in research collaboration and/or have an idea for a multid
 
 > Note: We DO NOT have financial support available at the moment.
 
-We are continuously looking into financial support and applying for grants. If you would like to put together a proposal, please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) to discuss potential support.
+We are continuously looking into financial support to be able to create PostDoc opportunities.
+If you would like to put together a proposal, we are more than happy to support.
+
+Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/).
 
 ---
 
 ## PhD Students
 
+> Note: We DO NOT have opportunities with financial support. 
+
 We are always interested in working with passionate and self-driven PhD candidates!
 
 We are open to:
-* **Supervising PhD research** aligned with our Research Interests.
-* **Providing mentorship and advisory** for students developing independent research projects.
+* **Supervising PhD research** .
+* **Providing mentorship and advisory**.
 
-> Note: We DO NOT have opportunities with financial support at the moment. Funding must be arrange from your side, typically through external fellowships or grants.
+Check [Dr. Koch’s Philosophy on Academic Advisory](http://www.fernandokoch.me/pages/advisory.html) with guidelines and to set the expectations.
 
-If you are interested, please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) proving an outline of your proposal:
-* Proposed title
+If you are interested, please reach out proving:
+* Title 
 * Abstract
-* Key research question
-* Initial argument or hypothesis
+* Key Research Question (important!)
+* Arguments: 
+    * Why is this research relevant?
+    * What is there in the field?
+    * What is missing? What is 'the gap'?
+    * How are you planning to do it?
 
 ---
 
 ## Masters Researcher
 
-We welcome Master's students who wish to conduct their thesis research within the lab. 
+> Note: We DO NOT have opportunities for RA's and this is not a budget we can control.
 
-Projects must be aligned with our Research Interests and/or make use of our [Research Resources](./projects.md#resources). 
-Find out our ideas for projects and collaboration at [Projects](projects.md).
+We welcome Master's students who wish to conduct their dissertation research within the lab. 
 
-Please email [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with your research interest to discuss supervision or collaboration, 
+We are open to:
+1. **Supervise Master Research**.
+1. **Provide Mentorship and Advisory**.
+1. **Guidance for Structuring Projects** around Multi-disciplinary Research agendas.
+
+
+If you are already a registered Master Student at FAU, one way to participate is to engaged in a Multi-disciplinary Research Project that could lead to a, for example, Grant Application. Financial support opportunities will come with projects from Research Collaborators and Industry Partners (see above). 
+
+If you are interested, please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). Check the lists of use cases and research ideas in 'Pointers and Guidelines' (see above).
 
 ---
 
@@ -78,9 +108,13 @@ Please email [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/)
 
 If you are an undergraduate student at FAU and curious about Generative Artificial Intelligence, Intelligent Chat Bots, Synthetic Content Creation, and other related topics, we would love to hear from you! 
 
-We support **Final Year Projects** and independent research that aligns with our Research Interests and/or make use of our [Research Resources](./projects.md#resources). 
+We are open to:
+1. **Support Final Year Projects**.
+1. **Provide Mentorship and Advisory**.
+1. **Guidance for Structuring Projects** around Multi-disciplinary Research agendas.
 
-Please email [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with your idea.
+Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). Check the lists of use cases and research ideas in 'Pointers and Guidelines' (see above).
+
 
 
 # Check Also
