@@ -20,6 +20,7 @@ Pointers and guidelines:
 * [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): a curate, open-science list of industry use cases compiled from exchanges with experts, industry demands, and diverse publications.
 * [**Research Community Papers**](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges.
 * [**Ideas for projects and collaboration**](projects.md).
+* [**Topics of Interest**](projects.md#topics-of-interest): list areas where you can propose (and lead) Use Cases.
 
 If you are interested, please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) and we will find a way to engage!
 
@@ -128,6 +129,7 @@ Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch
 * [Education](knowledge.md#education)
 * [Resources](projects.md#resources)
 * [Projects](projects.md)
+* [Topics of Interest](projects.md#topics-of-interest)
 * [Exercises](exercises.md)
 * [Contributing](contribute.md)
 * [Team](people.md)

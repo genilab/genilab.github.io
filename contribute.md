@@ -58,6 +58,7 @@ Everyone participating in our community projects is expected to treat other peop
 * [Education](knowledge.md#education)
 * [Resources](projects.md#resources)
 * [Projects](projects.md)
+* [Topics of Interest](projects.md#topics-of-interest)
 * [Exercises](exercises.md)
 * [Team](people.md)
 * [Collaborate](collaborate.md)

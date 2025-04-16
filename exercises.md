@@ -73,6 +73,7 @@ Once you have your environment setup:
 * [Education](knowledge.md#education)
 * [Resources](projects.md#resources)
 * [Projects](projects.md)
+* [Topics of Interest](projects.md#topics-of-interest)
 * [Contributing](contribute.md)
 * [Team](people.md)
 * [Collaborate](collaborate.md)

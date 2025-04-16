@@ -7,7 +7,9 @@ The Generative Intelligence Lab in the Department of Electrical Engineering and 
 
 <h3 style="color:#2B65CF">We are builders of Generative Intelligence Systems!</h3>
 
-We operate as **a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the **adoption of rapid prototyping processes and solutions**. We pride ourselves on being able to develop GenAI-powered systems fast and robustly.
+We operate as **a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the **adoption of rapid prototyping processes and solutions**. We pride ourselves on being able to develop GenAI-powered systems fast and robustly. 
+
+We are building capacity in specific [Topics of Interest](projects.md#topics-of-interest) and offer a [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing) as an open-science list of industry use cases.
 
 <h3 style="color:#2B65CF">Advancing open science and the creative economy!</h3>
 
@@ -26,6 +28,9 @@ Our expertise and research interests lie in the intersection between:
 
 * **[Collective Intelligence](https://medium.com/generative-intelligence-lab/collective-intelligence-concepts-and-research-opportunities-6130ef044114)**: creating distributed systems that collaborate across agents to solve problems and evolve as a unified whole. This includes Multi-Agent Systems and Human-Agent interaction solutions.
 
+
+
+
 ![Scope of work of the GenI-Lab](./images/genilab-info.png)
 
 
@@ -33,6 +38,7 @@ Our expertise and research interests lie in the intersection between:
 ### Check Also
 
 * [Publications](knowledge.md#publications)
+* [Topics of Interest](projects.md#topics-of-interest)
 * [Education](knowledge.md#education)
 * [Resources](projects.md#resources)
 * [Projects](projects.md)
