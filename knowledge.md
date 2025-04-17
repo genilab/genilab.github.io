@@ -9,8 +9,6 @@
 ![GenI-Lab Research Topics](./images/genilab-research-info.png)
 
 
-## Publications
-
 The Generative Intelligence Lab promotes knowledge transfer through technical reports, scientific publications, and educational initiatives spanning the intersecting domains of:
 
 * [Generative Intelligence Systems](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb)
