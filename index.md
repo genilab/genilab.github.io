@@ -1,6 +1,6 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](./people.html) | [Collaborate](collaborate.md)
+### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md) | [Education](./knowledge.md#education) | [Team](./people.html) | [Collaborate](./collaborate.md)
 
 
 
@@ -10,13 +10,13 @@ The Generative Intelligence Lab in the Department of Electrical Engineering and 
 
 We operate as **a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the **adoption of rapid prototyping processes and solutions**. We pride ourselves on being able to develop GenAI-powered systems fast and robustly. 
 
-We are building capacity in specific [**Topics of Interest**](projects.md#topics-of-interest) and offer a [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing) as an open-science list of industry use cases.
+We are building capacity in specific [**Topics of Interest**](./projects.md#topics-of-interest) and offer a [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing) as an open-science list of industry use cases.
 
 <h3 style="color:#2B65CF">Advancing open science and the creative economy!</h3>
 
-Our lab provides [Research Resources](./PROJECTS#resources) tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems, and domain-specific models, these solutions are designed to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
+Our lab provides [Research Resources](./projects.md#resources) tailored to emerging use cases. From intelligent chatbots to well-architected multi-agent systems, and domain-specific models, these solutions are designed to serve as foundational tools for accelerating discovery, enhancing decision-making, and amplifying human creativity.
 
-We champion [open science and knowledge transfer](./knowledge.md) through technical reports, academic publications, and educational programs. We continuously develop and share [projects](./PROJECTS) and [practical exercises](./exercises.md) tied to real-world challenges. We are driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
+We champion [open science and knowledge transfer](./knowledge.md) through technical reports, academic publications, and educational programs. We continuously develop and share [projects](./projects.md) and [practical exercises](./exercises.md) tied to real-world challenges. We are driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
 
 
 ### Expertise
@@ -31,22 +31,21 @@ Our expertise and research interests lie in the intersection between:
 
 
 
-
 ![Scope of work of the GenI-Lab](./images/genilab-info.png)
 
 
 
 ### Check Also
 
-* [Topics of Interest](projects.md#topics-of-interest)
-* [Projects](projects.md)
-* [Publications](knowledge.md#publications)
-* [Education](knowledge.md#education)
-* [Resources](projects.md#resources)
-* [Exercises](exercises.md)
-* [Contributing](contribute.md)
+* [Topics of Interest](./projects.md#topics-of-interest)
+* [Projects](./projects.md)
+* [Publications](./knowledge.md#publications)
+* [Education](./knowledge.md#education)
+* [Resources](./projects.md#resources)
+* [Exercises](./exercises.md)
+* [Contributing](./contribute.md)
 * [Team](./people.html)
-* [Collaborate](collaborate.md)
+* [Collaborate](./collaborate.md)
 
 
  

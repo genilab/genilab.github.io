@@ -1,6 +1,7 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](./people.html) | [Collaborate](collaborate.md)
+### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md) | [Education](./knowledge.md#education) | [Team](./people.html) | [Collaborate](./collaborate.md)
+
 
 
 
@@ -33,15 +34,14 @@ These are courses taught by Dr. Koch applying [Research Resources](./projects.md
 
 
 
-## Check Also
+### Check Also
 
-* [Resources](projects.md#resources)
-* [Topics of Interest](projects.md#topics-of-interest)
-* [Projects](projects.md)
-* [Use Cases](projects.md#use-cases)
-* [Projects](projects.md)
-* [Exercises](exercises.md)
-* [Contributing](contribute.md)
+* [Topics of Interest](./projects.md#topics-of-interest)
+* [Projects](./projects.md)
+* [Resources](./projects.md#resources)
+* [Exercises](./exercises.md)
+* [Contributing](./contribute.md)
 * [Team](./people.html)
-* [Collaborate](collaborate.md)
+* [Collaborate](./collaborate.md)
+
  

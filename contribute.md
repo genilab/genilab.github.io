@@ -1,7 +1,6 @@
-![GeniLab-banner](./images/genilab-banner.png)
+![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](./people.html) | [Collaborate](collaborate.md)
-
+### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md) | [Education](./knowledge.md#education) | [Team](./people.html) | [Collaborate](./collaborate.md)
 
 
 ## Contributing to our Research Resources
@@ -54,13 +53,16 @@ erases context during review. We will squash commits when the pull request is me
 
 Everyone participating in our community projects is expected to treat other people with respect and more generally to follow the guidelines articulated in the [Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
 
-## Check also
-* [Publications](knowledge.md#publications)
-* [Education](knowledge.md#education)
-* [Resources](projects.md#resources)
-* [Projects](projects.md)
-* [Topics of Interest](projects.md#topics-of-interest)
-* [Exercises](exercises.md)
+### Check Also
+
+* [Topics of Interest](./projects.md#topics-of-interest)
+* [Projects](./projects.md)
+* [Publications](./knowledge.md#publications)
+* [Education](./knowledge.md#education)
+* [Resources](./projects.md#resources)
+* [Exercises](./exercises.md)
 * [Team](./people.html)
-* [Collaborate](collaborate.md)
+* [Collaborate](./collaborate.md)
+
+
  

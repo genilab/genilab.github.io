@@ -1,13 +1,13 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](./people.html) | [Collaborate](collaborate.md)
+### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md) | [Education](./knowledge.md#education) | [Team](./people.html) | [Collaborate](./collaborate.md)
 
 
 ## Operation
 
 The Generative Intelligence Lab is a group of builders working as a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications and Industry Collaboration.
 
-**We favor the development of projects around Multi-Disciplinary Collaboration** and with **Industry Partners**. If you have an idea for a project or [want to join as a collaborator](collaborate.md), reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
+**We favor the development of projects around Multi-Disciplinary Collaboration** and with **Industry Partners**. If you have an idea for a project or [want to join as a collaborator](,.collaborate.md), reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
 
 
 ![GenI-Lab Activities](./images/genilab-activities.png)
@@ -82,11 +82,12 @@ If you are interested in develop Use Cases around any of these topics,  please r
 
 
 
-## Check Also
+### Check Also
 
-* [Publications](knowledge.md#publications)
-* [Education](knowledge.md#education)
-* [Exercises](exercises.md)
-* [Contributing](contribute.md)
+* [Topics of Interest](./projects.md#topics-of-interest)
+* [Publications](./knowledge.md#publications)
+* [Education](./knowledge.md#education)
+* [Exercises](./exercises.md)
+* [Contributing](./contribute.md)
 * [Team](./people.html)
-* [Collaborate](collaborate.md)
+* [Collaborate](./collaborate.md)

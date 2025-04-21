@@ -1,6 +1,7 @@
-![GeniLab-banner](./images/genilab-banner.png)
+![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](index.md) | [Projects](projects.md) | [Publications](knowledge.md) | [Education](knowledge.md#education) | [Team](./people.html) | [Collaborate](collaborate.md)
+### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md) | [Education](./knowledge.md#education) | [Team](./people.html) | [Collaborate](./collaborate.md)
+
 
 
 
@@ -14,14 +15,14 @@ You can join us in one of the following capacities:
 * [**Ph.D. Students**](#phd-students).
 * [**Master Researcher**](#master-researcher).
 * [**Undergraduate Researcher**](#undergradute-researcher).
-* [**Contributor**](contribute.md).
+* [**Contributor**](./contribute.md).
 
 
 Pointers and guidelines:
 * [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): a curate, open-science list of industry use cases compiled from exchanges with experts, industry demands, and diverse publications.
 * [**Research Community Papers**](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges.
-* [**Ideas for projects and collaboration**](projects.md).
-* [**Topics of Interest**](projects.md#topics-of-interest): list areas where you can propose (and lead) Use Cases.
+* [**Ideas for projects and collaboration**](./projects.md).
+* [**Topics of Interest**](./projects.md#topics-of-interest): list areas where you can propose (and lead) Use Cases.
 
 If you are interested, please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) and we will find a way to engage!
 
@@ -124,15 +125,15 @@ Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch
 
 
 
-# Check Also
+### Check Also
 
-* [Publications](knowledge.md#publications)
-* [Education](knowledge.md#education)
-* [Resources](projects.md#resources)
-* [Projects](projects.md)
-* [Topics of Interest](projects.md#topics-of-interest)
-* [Exercises](exercises.md)
-* [Contributing](contribute.md)
+* [Topics of Interest](./projects.md#topics-of-interest)
+* [Projects](./projects.md)
+* [Publications](./knowledge.md#publications)
+* [Education](./knowledge.md#education)
+* [Resources](./projects.md#resources)
+* [Exercises](./exercises.md)
+* [Contributing](./contribute.md)
 * [Team](./people.html)
- 
+
 
