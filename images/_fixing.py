@@ -48,7 +48,7 @@ def main():
                         bw_img = bw_img.convert('RGB')
 
                         base, ext = os.path.splitext(img_path)
-                        bw_path = base + '-bw' + ext
+                        bw_path = base + '-headshot.png'
                         bw_img.save(bw_path)
                         print(f"🖤 B&W Created: {os.path.basename(bw_path)} (contrast: {contrast_value})")
 

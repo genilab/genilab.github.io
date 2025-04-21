@@ -21,9 +21,9 @@ Our research toolkits are designed to support rapid experimentation and knowledg
 
 | | | 
 | :-: | :- | 
-| ![](./images/docs/owlmind-icon.png) | [**Owlmind**](https://github.com/genilab/owlmind) <br/> Framework for Generative Intelligent Systems. <br/> :: Bots + Prompts + Pipelines + Models = Fast Prototypes |
-| ![](./images/docs/prompt-icon.png) | [**Prompt Engineering Lab**](https://github.com/genilab/prompt-eng) <br/> Fast prototype with Prompt Engineering techniques. <br/> :: Prompts + Models = Quick Experiments | 
-| ![](./images/docs/chatfau-icon.png) | [ChatFAU](https://chat.hpc.fau.edu) <br/> Intelligent chat Interface based on [Ollama](http://ollama.com). <br/> :: Our solution for zero-cost Model Provider :: | 
+| ![](./images/owlmind-icon.png) | [**Owlmind**](https://github.com/genilab/owlmind) <br/> Framework for Generative Intelligent Systems. <br/> :: Bots + Prompts + Pipelines + Models = Fast Prototypes |
+| ![](./images/prompt-icon.png) | [**Prompt Engineering Lab**](https://github.com/genilab/prompt-eng) <br/> Fast prototype with Prompt Engineering techniques. <br/> :: Prompts + Models = Quick Experiments | 
+| ![](./images/chatfau-icon.png) | [ChatFAU](https://chat.hpc.fau.edu) <br/> Intelligent chat Interface based on [Ollama](http://ollama.com). <br/> :: Our solution for zero-cost Model Provider :: | 
 
 <!--
 ## Use Cases
@@ -84,7 +84,6 @@ If you are interested in develop Use Cases around any of these topics,  please r
 
 ### Check Also
 
-* [Topics of Interest](./projects.md#topics-of-interest)
 * [Publications](./knowledge.md#publications)
 * [Education](./knowledge.md#education)
 * [Exercises](./exercises.md)
