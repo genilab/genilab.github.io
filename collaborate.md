@@ -31,15 +31,15 @@ If you are interested, please reach out to [Dr. Koch](https://www.fau.edu/engine
 
 ## Research Collaborators
 
-We need to bring together like-minded innovators to make our research meaningful for the society!
+We need to bring together like-minded innovators and Multi-Disciplinary research groups to make our work meaningful for the society!
 
-For that, we seek to engage with Research Collaborators that can contribute with one or more of the following:
+For that, we seek to engage with Research Collaborators from other Deparments in our Research Community that can contribute with one or more of the following:
 
+1. **Joint Grant Applications** is our top-piority.
+1. **Ideas for Socially-Relevant Prototypes** applying our Research resources for fast prototyping.
 1. **Create Use Cases**, specially around multi-disciplinary research.
-1. **Develop Prototypes** applying our Research resources for fast prototyping.
 1. **Promote Publications**, always important to showcase our interests and capabilities.
-1. **Joint Grant Applications**.
-  
+    
 ---
 
 ## Industry Partners
@@ -49,7 +49,7 @@ We need to make our research and development relevant to the industry, so it wil
 In practical terms, we seek to collaborate with Industry Partners that can help with:
 
 1. **Create Industry-relevant Use Cases**.
-1. **Develop Prototypes** applying our Research resources for fast prototyping.
+1. **Ideas for Industry-Relevant Prototypes** applying our Research resources for fast prototyping.
 1. **Joint Grant Applications**.
 
 ---
@@ -90,7 +90,6 @@ If you are interested, please reach out proving:
 ---
 
 ## Masters Researcher
-
 
 We welcome Master's students who wish to conduct their dissertation research within the lab. 
 
