@@ -33,9 +33,9 @@ We need to make our research and development relevant to the industry, so it wil
 In practical terms, we seek to collaborate with Industry Partners that can help with:
 
 1. **Create Industry-relevant Use Cases**.
-1. **Setup Demo Environments**, which will work as Research Resources to support experiments.
-1. **Design Experiments**, using the proposed Research Resource, generating relevant dataset to test hypothesis. 
-1. **Ideas for Industry-Relevant Prototypes** applying our Research resources for fast prototyping.
+1. **Setup Research Resources**, where we can design experiments and use cases, generate datasets, and test hypothesis; these resources can be e.g. instances of products that the Industry Partner wants to expose to our research community.
+1. **Design Experiments**, using the proposed Research Resource, providing ideas for research explorations for our students and research community.
+1. **Design Industry-Relevant Prototypes** applying our Research Resources.
 1. **Joint Grant Applications**.
 
 
@@ -120,7 +120,7 @@ Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch
 
 
 
-### Check Also
+## Check Also
 
 * [Topics of Interest](./projects.md#topics-of-interest)
 * [Projects](./projects.md)

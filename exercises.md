@@ -59,7 +59,7 @@ Once you have your environment setup:
 4. Deploy your setup.
 
 
-### Check Also
+## Check Also
 
 * [Topics of Interest](./projects.md#topics-of-interest)
 * [Projects](./projects.md)

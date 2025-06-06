@@ -28,7 +28,7 @@ Our expertise and research interests lie in the intersection between:
 
 * [**Collective Intelligence**](https://medium.com/generative-intelligence-lab/collective-intelligence-concepts-and-research-opportunities-6130ef044114): creating distributed systems that collaborate across agents to solve problems and evolve as a unified whole. This includes Multi-Agent Systems and Human-Agent interaction solutions.
 
-### Check Also
+## Check Also
 
 * [Topics of Interest](./projects.md#topics-of-interest)
 * [Projects](./projects.md)
