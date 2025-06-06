@@ -9,8 +9,8 @@ Thank you for your interest in collaborating with our lab!
 
 You can join us in one of the following capacities:
 
+* [**Industry Partner**](#industry-partners).
 * [**Research Collaborators**](#research-collaborators).
-* [**Industry Partner**](#industry-partner).
 * [**Postdoc Researchers**](#postdoctoral-researchers).
 * [**Ph.D. Students**](#phd-students).
 * [**Master Researcher**](#master-researcher).
@@ -20,27 +20,11 @@ You can join us in one of the following capacities:
 
 Pointers and guidelines:
 * [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): a curate, open-science list of industry use cases compiled from exchanges with experts, industry demands, and diverse publications.
-* [**Research Community Papers**](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges.
-* [**Ideas for projects and collaboration**](./projects.md).
 * [**Topics of Interest**](./projects.md#topics-of-interest): list areas where you can propose (and lead) Use Cases.
+* [**Research Community Papers**](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges.
 
 If you are interested, please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) and we will find a way to engage!
 
-
----
-
-## Research Collaborators
-
-We need to bring together like-minded innovators and Multi-Disciplinary research groups to make our work meaningful for the society!
-
-For that, we seek to engage with Research Collaborators from other Deparments in our Research Community that can contribute with one or more of the following:
-
-1. **Joint Grant Applications** is our top-piority.
-1. **Ideas for Socially-Relevant Prototypes** applying our Research resources for fast prototyping.
-1. **Create Use Cases**, specially around multi-disciplinary research.
-1. **Promote Publications**, always important to showcase our interests and capabilities.
-    
----
 
 ## Industry Partners
 
@@ -49,10 +33,23 @@ We need to make our research and development relevant to the industry, so it wil
 In practical terms, we seek to collaborate with Industry Partners that can help with:
 
 1. **Create Industry-relevant Use Cases**.
+1. **Setup Demo Environments**, which will work as Research Resources to support experiments.
+1. **Design Experiments**, using the proposed Research Resource, generating relevant dataset to test hypothesis. 
 1. **Ideas for Industry-Relevant Prototypes** applying our Research resources for fast prototyping.
 1. **Joint Grant Applications**.
 
----
+
+## Research Collaborators
+
+We need to bring together like-minded innovators and Multi-Disciplinary research groups to make our work meaningful for the society!
+
+For that, we seek to engage with Research Collaborators from other Departments in our Research Community that can contribute with one or more of the following:
+
+1. **Joint Grant Applications** is our top-priority.
+1. **Ideas for Social-Relevant Prototypes** applying our Research resources for fast prototyping.
+1. **Create Social-Relevant Use Cases**, making use of multi-disciplinary research ideation.
+1. **Promote Publications**, always important to showcase our interests and capabilities.
+    
 
 ## Postdoctoral Researchers
 
@@ -63,7 +60,6 @@ If you would like to put together a proposal, we are more than happy to support.
 
 Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/).
 
----
 
 ## PhD Students
 
@@ -87,7 +83,7 @@ If you are interested, please reach out proving:
     * What is missing? What is 'the gap'?
     * How are you planning to do it?
 
----
+
 
 ## Masters Researcher
 
@@ -109,7 +105,7 @@ Another way to collaborate is to **align your Master Research** with the **Creat
 
 If you are interested, please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). Check the lists of use cases and research ideas in 'Pointers and Guidelines' (see above).
 
----
+
 
 ## Undergraduate Researcher
 

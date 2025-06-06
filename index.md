@@ -19,21 +19,6 @@ Our lab provides [Research Resources](./projects.md#resources) tailored to emerg
 We champion [open science and knowledge transfer](./knowledge.md) through technical reports, academic publications, and educational programs. We continuously develop and share [projects](./projects.md) and [practical exercises](./exercises.md) tied to real-world challenges. We are driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
 
 
-### Expertise
-
-Our expertise and research interests lie in the intersection between:
-
-* [**Generative Intelligence Systems:**](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb) design systems that generate meaningful actions using Prompts, Pipelines, and Generative Models, eventually integrated in Multi-Agent Systems.
-
-* [**Computational Intelligence:**](https://medium.com/generative-intelligence-lab/computational-intelligence-concepts-and-research-opportunities-c32d4a65eddb) build adaptive systems that learn and self-organize to handle complex, real-world challenges. This is the core of Artificial Intelligent Systems and a step toward Artificial Broad Intelligence.
-
-* **[Collective Intelligence](https://medium.com/generative-intelligence-lab/collective-intelligence-concepts-and-research-opportunities-6130ef044114)**: creating distributed systems that collaborate across agents to solve problems and evolve as a unified whole. This includes Multi-Agent Systems and Human-Agent interaction solutions.
-
-
-
-![Scope of work of the GenI-Lab](./images/genilab-info.png)
-
-
 
 ### Check Also
 
