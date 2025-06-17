@@ -4,7 +4,13 @@
 ### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md) | [Education](./knowledge.md#education) | [Team](./people.html) | [Collaborate](./collaborate.md)
 
 
+### Work in progress
+
+This page wil be restructured to support the exercises presented in the [Education modules, Courses and Tutorials](./knowledge.md) being provided by the Lab (see [Education])
 ## Exercises
+
+
+
 
 These exercises are designed to reflect real-world business scenarios and challenges, showcasing how Generative Intelligence Systems are applied across diverse industries. You will gain hands-on experience by working with solutions grounded in industry-standard frameworks and best practices.
 
@@ -59,9 +65,8 @@ Once you have your environment setup:
 4. Deploy your setup.
 
 
-## Check Also
+### Check Also
 
-* [Topics of Interest](./projects.md#topics-of-interest)
 * [Projects](./projects.md)
 * [Publications](./knowledge.md#publications)
 * [Education](./knowledge.md#education)

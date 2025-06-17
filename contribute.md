@@ -53,9 +53,8 @@ erases context during review. We will squash commits when the pull request is me
 
 Everyone participating in our community projects is expected to treat other people with respect and more generally to follow the guidelines articulated in the [Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
 
-## Check Also
+### Check Also
 
-* [Topics of Interest](./projects.md#topics-of-interest)
 * [Projects](./projects.md)
 * [Publications](./knowledge.md#publications)
 * [Education](./knowledge.md#education)

@@ -3,40 +3,47 @@
 ### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md) | [Education](./knowledge.md#education) | [Team](./people.html) | [Collaborate](./collaborate.md)
 
 
-
-
-## Areas of Interest
+The Generative Intelligence Lab promotes knowledge transfer through technical reports, scientific publications, education courses and tutorials around our topics of interest.
 
 ![GenI-Lab Research Topics](./images/genilab-research-info.png)
 
+## Publications
 
-The Generative Intelligence Lab promotes knowledge transfer through technical reports, scientific publications, and educational initiatives spanning the intersecting domains of:
+Our lab is actively promoting publications and knowledge exchange.
 
 * [Generative Intelligence Systems](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb)
 * [Computational Intelligence](https://medium.com/generative-intelligence-lab/computational-intelligence-concepts-and-research-opportunities-c32d4a65eddb)
 * [Collective Intelligence](https://medium.com/generative-intelligence-lab/collective-intelligence-concepts-and-research-opportunities-6130ef044114). 
+* Business and Social Impact of Generative Intelligence
 
 Our open publications include:
 
-* [Publications by the Generative Intelligence Lab](https://medium.com/generative-intelligence-lab) is a venue to promote publications that communicate our research insights, practical use cases, and experimental findings. 
-* [Research Community Papers](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea) explain the topics around our key research focus, providing an overview around the concepts, research challenges, and ideas for advanced research projects.
+* [**Publications by the Generative Intelligence Lab**](https://medium.com/generative-intelligence-lab) is a venue to promote publications that communicate our research insights, practical use cases, and experimental findings. 
+* [**Research Community Papers**](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea) explain the topics around our key research focus, providing an overview around the concepts, research challenges, and ideas for advanced research projects.
+* [**Technical Community Papers**](https://medium.com/generative-intelligence-lab/technical-community-papers-bfbeda14d207: these studies are developed in collaboration with our [Research Leaders, Research Advisors, and Industry Partners](./people.html), providing technical overviews of specific topics, the impact of Generative Intelligence Systems, analysis of use cases, and ideas for explorations.
+* [**Scientific Publications**](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate) these are publications in scientific journal, conferences, and workshops, presenting our visions, research developments, explorations, and results.
 
 
-<!-- ## Scientific Publications -->
+## Tutorials
+
+We offer tutorials to foster knowledge exchange and educate the research community on our core topics.
+
+* [**Generative Intelligence and Large Generative Models**](./pdfs/TUTORIAL%20Generative%20AI%20and%20Large%20Generative%20Models.pdf): revises the concepts and applications of Generative Artificial Intelligence (GenAI), Large Generative Models, Agentic Frameworks, and Multi-Agent Systems. **Target audience:** researchers, students, and practitioners with some technical background and some understanding about AI, Machine Learning, deep Learning, and programming.
+* **Generative Intelligence and Software Development Lifecycles**
+* **Generative Intelligence and Business**
+
+
 
 ## Education
 
-These are courses taught by Dr. Koch applying [Research Resources](./projects.md#resources) and expertise from the lab:
+These are courses taught by Dr. Koch applying  our [Research Resources](./projects.md#resources):
 
 * [COT6930](https://fau.simplesyllabus.com/en-US/doc/nre6c4z6g/Spring-2025-1-Full-Term-COT-6930-001-Topics-in-Computer-Science?mode=view): Generative Artificial Intelligence and Software Development Lifecycles
 * [CEN 4010](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view): Principles of Software Engineering with Generative Intelligence
 * [CAP4623](https://fau.simplesyllabus.com/en-US/doc/h6c9776hw/Fall-2024-1-Full-Term-CAP-4623-001-?mode=view): Trustworthy Artificial Intelligence
 
 
-
-## Check Also
-
-* [Topics of Interest](./projects.md#topics-of-interest)
+### Check Also
 * [Projects](./projects.md)
 * [Resources](./projects.md#resources)
 * [Exercises](./exercises.md)
