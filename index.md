@@ -7,7 +7,7 @@ The Generative Intelligence Lab in the Department of Electrical Engineering and 
 
 <h3 style="color:#2B65CF">We are builders of Generative Intelligence Systems!</h3>
 
-We operate as **a Studio for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the **adoption of rapid prototyping processes and solutions**. 
+We operate as a **Development Studio for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the **adoption of rapid prototyping processes and solutions**. 
 
 Our lab provides [Research Resources](./projects.md#resources) tailored to emerging use cases in multidisciplinary research. We pride ourselves on being able to develop GenAI-powered systems fast and robustly. Our frameworks allow us to fast prototype solutions as:
 
