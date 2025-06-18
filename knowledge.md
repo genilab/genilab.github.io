@@ -43,7 +43,7 @@ Our open publications include:
 
 * [**Publications by the Generative Intelligence Lab**](https://medium.com/generative-intelligence-lab) is a venue to promote publications that communicate our research insights, practical use cases, and experimental findings. 
 * [**Research Community Papers**](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea) explain the topics around our key research focus, providing an overview around the concepts, research challenges, and ideas for advanced research projects.
-* [**Technical Community Papers**](https://medium.com/generative-intelligence-lab/technical-community-papers-bfbeda14d207: these studies are developed in collaboration with our [Research Leaders, Research Advisors, and Industry Partners](./people.html), providing technical overviews of specific topics, the impact of Generative Intelligence Systems, analysis of use cases, and ideas for explorations.
+* [**Technical Community Papers**](https://medium.com/generative-intelligence-lab/technical-community-papers-bfbeda14d207): these studies are developed in collaboration with our [Research Leaders, Research Advisors, and Industry Partners](./people.html), providing technical overviews of specific topics, the impact of Generative Intelligence Systems, analysis of use cases, and ideas for explorations.
 * [**Scientific Publications**](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate) these are publications in scientific journal, conferences, and workshops, presenting our visions, research developments, explorations, and results.
 
 
