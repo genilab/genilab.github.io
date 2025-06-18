@@ -7,14 +7,15 @@ The Generative Intelligence Lab in the Department of Electrical Engineering and 
 
 <h3 style="color:#2B65CF">We are builders of Generative Intelligence Systems!</h3>
 
-We operate as **a Studio for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the **adoption of rapid prototyping processes and solutions**. Our lab provides [Research Resources](./projects.md#resources) tailored to emerging use cases in multidisciplinary research. We pride ourselves on being able to develop GenAI-powered systems fast and robustly. 
+We operate as **a Studio for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the **adoption of rapid prototyping processes and solutions**. 
 
- Our frameworks allow us to fast prototype solutions as:
-* **Data analytic workflows** powered by GenAi-powered for exploration, recommendation, and automated model generation.
+Our lab provides [Research Resources](./projects.md#resources) tailored to emerging use cases in multidisciplinary research. We pride ourselves on being able to develop GenAI-powered systems fast and robustly. Our frameworks allow us to fast prototype solutions as:
+
+* **Data analytic workflows** to simplify exploration, understanding, recommendation, and automated model generation for datasets in diverse fields of research. 
 * **Chatbots** for personal assistants in diverse fields.
 * **'Ask document' applications**, allowing natural interaction with non-structure documents. 
-* **'Ask Data' applications**, allowing assistance in exploring large datasets, supporting new ideas for 
-* **Solutions for Multi-user Interactions** supporting new GenAI-powered solutions in collective Intelligence.
+* **'Ask Data' applications**, providing personal assistance and automation while exploring large datasets.
+* **Solutions for Multi-user Interactions**, supporting new GenAI-powered solutions in [Collective Intelligence](https://medium.com/generative-intelligence-lab/collective-intelligence-concepts-and-research-opportunities-6130ef044114). 
 * .. and more.
 
 
