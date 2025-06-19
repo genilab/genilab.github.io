@@ -9,6 +9,10 @@ The Generative Intelligence Lab in the Department of Electrical Engineering and 
 
 We operate as a **Development Studio for Generative Intelligence Systems in Multi-Disciplinary Research Applications** using specialized toolkits to connect solution requirements, prompts, pipelines, and models. Key to our success is the **adoption of rapid prototyping processes and solutions**. 
 
+<h3 style="color:#2B65CF">Advancing open science and the creative economy!</h3>
+
+We champion **open science and knowledge transfer**. We frequently promote [Tutorials, Workshops, and Publications](./knowledge.md) to educate our research community and inspire new projects. We develop open projects [projects](./projects.md) and [practical exercises](./exercises.md) tied to real-world challenges. We are driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
+
 Our lab provides [Research Resources](./projects.md#resources) tailored to emerging use cases in multidisciplinary research. We pride ourselves on being able to develop GenAI-powered systems fast and robustly. Our frameworks allow us to fast prototype solutions as:
 
 * **Data analytic workflows** to simplify exploration, understanding, recommendation, and automated model generation for datasets in diverse fields of research. 
@@ -17,11 +21,6 @@ Our lab provides [Research Resources](./projects.md#resources) tailored to emerg
 * **'Ask Data' applications**, providing personal assistance and automation while exploring large datasets.
 * **Solutions for Multi-user Interactions**, supporting new GenAI-powered solutions in [Collective Intelligence](https://medium.com/generative-intelligence-lab/collective-intelligence-concepts-and-research-opportunities-6130ef044114). 
 * .. and more.
-
-
-<h3 style="color:#2B65CF">Advancing open science and the creative economy!</h3>
-
-We champion **open science and knowledge transfer**. We frequently promote [Tutorials, Workshops, and Publications](./knowledge.md) to educate our research community and inspire new projects. We develop open projects [projects](./projects.md) and [practical exercises](./exercises.md) tied to real-world challenges. We are driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
 
 
 ### Check Also
