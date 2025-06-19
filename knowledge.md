@@ -21,7 +21,7 @@ We provide tutorials aimed at promoting knowledge sharing and advancing educatio
 * [**Generative Intelligence and Large Generative Models**](./pdfs/TUTORIAL%20Generative%20AI%20and%20Large%20Generative%20Models.pdf): revises the concepts and applications of Generative Artificial Intelligence, Large Generative Models, Agentic Frameworks, and Multi-Agent Systems. This tutorial is designed for researchers, students, and practitioners with **strong technical background** and some understanding about AI, Machine Learning, Deep Learning, and programming.
 
 
-> To request a Tutorial for your Department or Research Group, please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/).
+> To request a Tutorial, please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/).
 
 
 
