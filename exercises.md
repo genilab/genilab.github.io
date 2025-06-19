@@ -1,7 +1,7 @@
 
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md) | [Education](./knowledge.md#education) | [Team](./people.html) | [Collaborate](./collaborate.md)
+### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md#publications) | [Education](./knowledge.md) | [Team](./people.html) | [Collaborate](./collaborate.md)
 
 
 
@@ -24,7 +24,7 @@ WORK IN PROGRESS.
 
 * [Projects](./projects.md)
 * [Publications](./knowledge.md#publications)
-* [Education](./knowledge.md#education)
+* [Education](./knowledge.md)
 * [Resources](./projects.md#resources)
 * [Contributing](./contribute.md)
 * [Team](./people.html)

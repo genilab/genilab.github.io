@@ -85,7 +85,7 @@ If you are interested in develop Use Cases around any of these topics,  please r
 ### Check Also
 
 * [Publications](./knowledge.md#publications)
-* [Education](./knowledge.md#education)
+* [Education](./knowledge.md)
 * [Exercises](./exercises.md)
 * [Contributing](./contribute.md)
 * [Team](./people.html)

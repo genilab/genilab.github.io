@@ -1,6 +1,6 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md) | [Education](./knowledge.md#education) | [Team](./people.html) | [Collaborate](./collaborate.md)
+### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md#publications) | [Education](./knowledge.md) | [Team](./people.html) | [Collaborate](./collaborate.md)
 
 
 
@@ -128,7 +128,7 @@ Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch
 
 * [Projects](./projects.md)
 * [Publications](./knowledge.md#publications)
-* [Education](./knowledge.md#education)
+* [Education](./knowledge.md)
 * [Resources](./projects.md#resources)
 * [Exercises](./exercises.md)
 * [Contributing](./contribute.md)
