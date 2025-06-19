@@ -13,7 +13,7 @@ We operate as a **Development Studio for Generative Intelligence Systems in Mult
 
 We champion **open science and knowledge transfer**. We frequently promote [Tutorials, Workshops, and Publications](./knowledge.md) to educate our research community and inspire new projects. We develop open projects [projects](./projects.md) and [practical exercises](./exercises.md) tied to real-world challenges. We are driven by **technology transfer, ecosystem development, and launching the next generation of startups**.
 
-Our lab provides [Research Resources](./projects.md#resources) tailored to emerging use cases in multidisciplinary research. We pride ourselves on being able to develop GenAI-powered systems fast and robustly. Our frameworks allow us to fast prototype solutions as:
+Our lab provides [Research Resources](./projects.md#resources) tailored to emerging use cases in multidisciplinary research. We pride ourselves on being able to develop GenAI-powered systems fast and robustly. Our frameworks allow us to fast prototype solutions like:
 
 * **Data analytic workflows** to simplify exploration, understanding, recommendation, and automated model generation for datasets in diverse fields of research. 
 * **Chatbots** for personal assistants in diverse fields.
