@@ -27,11 +27,11 @@ We champion **open science and knowledge transfer**. We frequently promote [Tuto
 ### Check Also
 
 * [Topics of Interest](./projects.md#topics-of-interest)
-* [Use Case Compendium](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing)      
 * [Projects](./projects.md)
 * [Publications](./knowledge.md#publications)
 * [Education](./knowledge.md#education)
 * [Resources](./projects.md#resources)
+* [Use Case Compendium](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing)    
 * [Exercises](./exercises.md)
 * [Contributing](./contribute.md)
 * [Team](./people.html)

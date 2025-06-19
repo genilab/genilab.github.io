@@ -17,7 +17,6 @@ Our [Research Resources](./projects.md#resources) are community projects that ai
  
 
 
-
 ## Guidelines
 
 We use the usual GitHub pull-request flow, which may be familiar to you if you've contributed to other projects on GitHub. For the mechanics,

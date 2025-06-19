@@ -33,9 +33,9 @@ If you are interested, please reach out to [Dr. Koch](https://www.fau.edu/engine
 
 We need to bring together like-minded innovators and Multi-Disciplinary research groups to make our work meaningful for the society!
 
-For that, we seek to engage with Research Collaborators from other Deparments in our Research Community that can contribute with one or more of the following:
+For that, we seek to engage with Research Collaborators from other Department in our Research Community that can contribute with one or more of the following:
 
-1. **Joint Grant Applications** is our top-piority.
+1. **Joint Grant Applications** is our top-priority.
 1. **Ideas for Socially-Relevant Prototypes** applying our Research resources for fast prototyping.
 1. **Create Use Cases**, specially around multi-disciplinary research.
 1. **Promote Publications**, always important to showcase our interests and capabilities.

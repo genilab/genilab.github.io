@@ -12,21 +12,17 @@ The Generative Intelligence Lab promotes knowledge transfer through technical re
 
 We provide tutorials aimed at promoting knowledge sharing and advancing education in the field of Generative Intelligence. Our tutorials blend theory, practical insights, and real-world applications to equip the community with the tools to innovate and collaborate.
 
-Please reach out to Dr. Koch to request a Tutorial in your Department or Research Group.
+* [**Generative Intelligence and Large Generative Models**](./pdfs/TUTORIAL%20Generative%20AI%20and%20Large%20Generative%20Models.pdf): revises the concepts and applications of Generative Artificial Intelligence, Large Generative Models, Agentic Frameworks, and Multi-Agent Systems. This tutorial is designed for researchers, students, and practitioners with **strong technical background** and some understanding about AI, Machine Learning, deep Learning, and programming.
 
-* [**Generative Intelligence and Large Generative Models**](./pdfs/TUTORIAL%20Generative%20AI%20and%20Large%20Generative%20Models.pdf): revises the concepts and applications of Generative Artificial Intelligence, Large Generative Models, Agentic Frameworks, and Multi-Agent Systems. This tutorial is designed for researchers, students, and practitioners with some technical background and some understanding about AI, Machine Learning, deep Learning, and programming.
+* [**Generative Intelligence in Academic Projects**](./pdfs/TUTORIAL%20Generative%20Intelligence%20in%20Academic%20Projects.pdf): introduces the core concepts, capabilities, and practical applications of Generative Intelligence in scientific research, with a special focus on multi-disciplinary projects. The session is designed for a **non-technical audience** and aims to promote an understanding of Generative AI as an enabler for new forms of interaction, collaboration, and creativity in research. 
+
+* **Generative Intelligence and Business**: focused on decision-makers and innovation leads, this tutorial will demonstrate how generative models are reshaping business processes, from customer service automation and marketing personalization to knowledge management and strategic planning. Teh presentation bridges theory and practice through case studies, frameworks, and implementation roadmaps. This tutorial is designed for **business audience with non-technical background** and and aims to promote an understanding of Generative AI as an enabler for new forms of interaction, support business missions, and generate new business ideas.
 
 * **Generative Intelligence and Software Development Lifecycles**: examines how GenAI transforms traditional and modern software development processes, current perceptions of GenAI in software development, and impact for developers, solution architects, and startup founders. The tutorial covers topics around Generative Artificial Intelligence, Large Generative Models, Agentic Frameworks, and Multi-Agent Systems, when applied for Solution Development. The tutorial is supported by hands-on exercises applying our [Research Resources](./projects.md#resources) for small real-world projects. 
 
-* **Generative Intelligence and Business**: focused on decision-makers and innovation leads, this tutorial will demonstrate how generative models are reshaping business processes, from customer service automation and marketing personalization to knowledge management and strategic planning. Teh presentation bridges theory and practice through case studies, frameworks, and implementation roadmaps. This tutorial is designed for business audience with non-technical background.
 
-## Education
 
-These are courses taught by Dr. Koch applying  our [Research Resources](./projects.md#resources):
-
-* [COT6930](https://fau.simplesyllabus.com/en-US/doc/nre6c4z6g/Spring-2025-1-Full-Term-COT-6930-001-Topics-in-Computer-Science?mode=view): Generative Artificial Intelligence and Software Development Lifecycles
-* [CEN 4010](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view): Principles of Software Engineering with Generative Intelligence
-* [CAP4623](https://fau.simplesyllabus.com/en-US/doc/h6c9776hw/Fall-2024-1-Full-Term-CAP-4623-001-?mode=view): Trustworthy Artificial Intelligence
+> To request a Tutorial for your Department or Research Group, please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/).
 
 
 
@@ -34,8 +30,8 @@ These are courses taught by Dr. Koch applying  our [Research Resources](./projec
 
 Our lab is actively promoting publications and knowledge exchange.
 
-* [Generative Intelligence Systems](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb)
-* [Computational Intelligence](https://medium.com/generative-intelligence-lab/computational-intelligence-concepts-and-research-opportunities-c32d4a65eddb)
+* [Generative Intelligence Systems](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb).
+* [Computational Intelligence](https://medium.com/generative-intelligence-lab/computational-intelligence-concepts-and-research-opportunities-c32d4a65eddb).
 * [Collective Intelligence](https://medium.com/generative-intelligence-lab/collective-intelligence-concepts-and-research-opportunities-6130ef044114). 
 * Business and Social Impact of Generative Intelligence
 
@@ -49,6 +45,14 @@ Our open publications include:
 
 * [**Scientific Publications**](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate) these are publications in scientific journal, conferences, and workshops, presenting our visions, research developments, explorations, and results.
 
+
+## Education
+
+These are courses taught by Dr. Koch applying  our [Research Resources](./projects.md#resources):
+
+* [COT6930](https://fau.simplesyllabus.com/en-US/doc/nre6c4z6g/Spring-2025-1-Full-Term-COT-6930-001-Topics-in-Computer-Science?mode=view): Generative Artificial Intelligence and Software Development Lifecycles
+* [CEN 4010](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view): Principles of Software Engineering with Generative Intelligence
+* [CAP4623](https://fau.simplesyllabus.com/en-US/doc/h6c9776hw/Fall-2024-1-Full-Term-CAP-4623-001-?mode=view): Trustworthy Artificial Intelligence
 
 
 ### Check Also
