@@ -2,7 +2,7 @@
 
 The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the design, development, and deployment of research-driven Generative Intelligence Systems for our research community and industry partners.
 
-<h2 style="color:#2B65CF">We are builders of Generative Intelligence Systems!</h2>
+<h3 style="color:#2B65CF">We are builders of Generative Intelligence Systems!</h3>
 
 We operate as a *Development Studio for Generative Intelligence Systems in Multi-Disciplinary Research*, applying specialized toolkits to promote  rapid prototyping. Our frameworks allow us to fast prototype solutions like:
 
@@ -13,19 +13,18 @@ We operate as a *Development Studio for Generative Intelligence Systems in Multi
 * *Solutions for Multi-user Interactions*, supporting new GenAI-powered solutions in Collective Intelligence
 (and more)
 
-<h2 style="color:#2B65CF">Advancing open science and the creative economy!</h2>
+<h3 style="color:#2B65CF">Advancing open science and the creative economy!</h3>
 
 Our lab provides Research Resources tailored to emerging use cases in multidisciplinary research. We pride ourselves on being able to develop GenAI-powered systems fast and robustly. 
-
 
 ### Check Also
 
 * [Topics of Interest](./projects.md#topics-of-interest)
 * [Projects](./projects.md)
+* [Tutorials](./knowledge.md#tutorials)
 * [Publications](./knowledge.md#publications)
 * [Education](./knowledge.md#education)
-* [Resources](./projects.md#resources)
-* [Use Case Compendium](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing)    
+* [Resources](./projects.md#resources) 
 * [Exercises](./exercises.md)
 * [Contributing](./contribute.md)
 * [Team](./people.html)
