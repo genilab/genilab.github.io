@@ -1,17 +1,13 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md) | [Education](./knowledge.md#education) | [Team](./people.html) | [Collaborate](./collaborate.md)
-
-
 ## Operation
 
 The Generative Intelligence Lab is a group of builders working as a software factory for Generative Intelligence Systems in Multi-Disciplinary Research Applications and Industry Collaboration.
 
-**We favor the development of projects around Multi-Disciplinary Collaboration** and with **Industry Partners**. If you have an idea for a project or [want to join as a collaborator](,.collaborate.md), reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
+**We favor the development of projects around Multi-Disciplinary Collaboration** and with **Industry Partners**. If you have an idea for a project or want to join as a collaborator, reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
 
 
 ![GenI-Lab Activities](./images/genilab-activities.png)
-
 
 
 ## Resources
@@ -36,27 +32,11 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 
 -->
 
-
-## Project Ideas
-
-We publish our **Ideas for Projects** through:
-
-* [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): a curate, open-science list of industry use cases compiled from exchanges with experts, industry demands, and diverse publications.
-
-* [**Research Community Papers**](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges.
-
-* [**Exercises**](./exercises.md): open-science exercises for hobbyists and coursework.
-
-
-
-
 ## Topics of Interest 
 
 This is a list of **Topics of Interest** where we are building capacity and toolkits. 
 
 If you are interested in develop Use Cases around any of these topics,  please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/)!
-
-
 
 | | |
 | :- | :- |

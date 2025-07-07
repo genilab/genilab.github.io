@@ -1,7 +1,5 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md#publications) | [Education](./knowledge.md) | [Team](./people.html) | [Collaborate](./collaborate.md)
-
 ## Contributing to our Research Resources
 
 We'd love to have your contributions to our code!

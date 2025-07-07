@@ -1,9 +1,6 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md#publications) | [Education](./knowledge.md) | [Team](./people.html) | [Collaborate](./collaborate.md)
-
-
-
+## Collaborate
 
 Thank you for your interest in collaborating with our lab!
 
@@ -19,12 +16,14 @@ You can join us in one of the following capacities:
 
 
 Pointers and guidelines:
-* [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): a curate, open-science list of industry use cases compiled from exchanges with experts, industry demands, and diverse publications.
-* [**Research Community Papers**](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges.
-* [**Ideas for projects and collaboration**](./projects.md).
 * [**Topics of Interest**](./projects.md#topics-of-interest): list areas where you can propose (and lead) Use Cases.
 
-If you are interested, please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) and we will find a way to engage!
+* [**Use Case Compendium**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): a curate, open-science list of industry use cases compiled from exchanges with experts, industry demands, and diverse publications.
+
+* [**Research Community Papers**](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): explain concepts around our key research focus, providing an overview around the concepts, research challenges.
+
+
+> Please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) and we will find a way to engage!
 
 
 ---
@@ -58,8 +57,7 @@ In practical terms, we seek to collaborate with Industry Partners that can help 
 
 > Note: We DO NOT have financial support available at the moment.
 
-We are continuously looking into financial support to be able to create PostDoc opportunities.
-If you would like to put together a proposal, we are more than happy to support.
+We are continuously looking into financial support to be able to create PostDoc opportunities. If you would like to put together a proposal, we are more than happy to support.
 
 Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/).
 
@@ -80,12 +78,9 @@ Check [Dr. Koch’s Philosophy on Academic Advisory](http://www.fernandokoch.me/
 If you are interested, please reach out proving:
 * Title 
 * Abstract
-* Key Research Question (important!)
-* Arguments: 
-    * Why is this research relevant?
-    * What is there in the field?
-    * What is missing? What is 'the gap'?
-    * How are you planning to do it?
+* Intriguing Research Question
+* Why is this question relevant?
+* How are you planning to answer it?
 
 ---
 
@@ -107,7 +102,7 @@ One way to facilitate the process is to **help finding Research Collaboration pr
 
 Another way to collaborate is to **align your Master Research** with the **Creation of Use Cases** and/or **Contribute to our Research Resources**.
 
-If you are interested, please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). Check the lists of use cases and research ideas in 'Pointers and Guidelines' (see above).
+If you are interested, please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
 
 ---
 
@@ -121,7 +116,6 @@ We are open to:
 1. **Guidance for Structuring Projects** around Multi-disciplinary Research agendas.
 
 Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). Check the lists of use cases and research ideas in 'Pointers and Guidelines' (see above).
-
 
 
 ### Check Also

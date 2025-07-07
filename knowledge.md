@@ -1,12 +1,5 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-### [Home](./index.md) | [Projects](./projects.md) | [Publications](./knowledge.md#publications) | [Education](./knowledge.md) | [Team](./people.html) | [Collaborate](./collaborate.md)
-
-
-The Generative Intelligence Lab promotes knowledge transfer through technical reports, scientific publications, education courses and tutorials around our topics of interest.
-
-![GenI-Lab Research Topics](./images/genilab-research-info.png)
-
 
 ## Tutorials
 
@@ -22,7 +15,6 @@ We provide tutorials aimed at promoting knowledge sharing and advancing educatio
 
 
 > Please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) to request for a TUTORIAL in your Department and/or Group.
-
 
 
 ## Publications
@@ -47,7 +39,7 @@ Our open publications include:
 
 ## Education
 
-These are courses taught by Dr. Koch applying  our [Research Resources](./projects.md#resources):
+These are courses taught by Dr. Koch applying  our Research Resources:
 
 * [COT6930](https://fau.simplesyllabus.com/en-US/doc/nre6c4z6g/Spring-2025-1-Full-Term-COT-6930-001-Topics-in-Computer-Science?mode=view): Generative Artificial Intelligence and Software Development Lifecycles
 * [CEN 4010](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view): Principles of Software Engineering with Generative Intelligence
