@@ -62,7 +62,7 @@ main {
 }
 
 .grid-item img {
-  width: 10px;
+  width: 100px;
   height: 100px;
   object-fit: cover;
   display: block;
