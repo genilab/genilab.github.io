@@ -26,13 +26,15 @@ WORK IN PROGRESS.
 
 ### Check Also
 
+* [Topics of Interest](./projects.md#topics-of-interest)
+* [Tutorials](./knowledge.md#tutorials)
+* [Education](./knowledge.md#education)
 * [Projects](./projects.md)
+* [Resources](./projects.md#resources) 
 * [Publications](./knowledge.md#publications)
-* [Education](./knowledge.md)
-* [Resources](./projects.md#resources)
-* [Contributing](./contribute.md)
-* [Team](./people.html)
+* [Contribute](./contribute.md)
 * [Collaborate](./collaborate.md)
+* [Team](./people.html)
 
 
  

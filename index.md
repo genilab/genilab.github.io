@@ -1,34 +1,35 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the design, development, and deployment of research-driven Generative Intelligence Systems for our research community and industry partners.
+The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the ideation, design, and deployment of research-driven Generative Intelligence Systems for our research community and industry partners.
 
-<h3 style="color:#2B65CF">We are builders of Generative Intelligence Systems!</h3>
+<h3 style="color:#2B65CF">We are thinkers and builders of Generative Intelligence Systems!</h3>
 
-We operate as a *Development Studio for Generative Intelligence Systems in Multi-Disciplinary Research*, applying specialized toolkits to promote  rapid prototyping. Our frameworks allow us to fast prototype solutions like:
+We operate between a *Think Tank* and a *Development Studio* in multi-disciplinary research projects.
+We  promote rapid prototyping in solutions like:
 
-* *Data analytic workflows* to simplify exploration, understanding, recommendation, and automated model generation for datasets in diverse fields of research. 
+* *Data analytic* to simplify exploration, understanding, analysis of daasets. 
 * *Chatbots* for personal assistants in diverse fields.
-* *'Ask document' applications*, allowing natural interaction with non-structure documents. 
-* *'Ask Data' applications*, providing personal assistance and automation while exploring large datasets.
-* *Solutions for Multi-user Interactions*, supporting new GenAI-powered solutions in Collective Intelligence
+* *Ask Document*, allowing natural interaction with non-structure documents. 
+* *Ask Data*, supporting personal assistance while exploring large datasets.
+* *Multi-user Interactions*, supporting GenAI-powered experiments with Collective Intelligence
 (and more)
 
 <h3 style="color:#2B65CF">Advancing open science and the creative economy!</h3>
 
-Our lab provides Research Resources tailored to emerging use cases in multidisciplinary research. We pride ourselves on being able to develop GenAI-powered systems fast and robustly. 
+Our lab builds and promotes re-usable *Research Resources* tailored to emerging use cases.
+We promote regular Tutorials and Education courses to help you make the best of Generative Intelligence Systems in your field of work.
 
 ### Check Also
 
 * [Topics of Interest](./projects.md#topics-of-interest)
-* [Projects](./projects.md)
 * [Tutorials](./knowledge.md#tutorials)
-* [Publications](./knowledge.md#publications)
 * [Education](./knowledge.md#education)
+* [Projects](./projects.md)
 * [Resources](./projects.md#resources) 
-* [Exercises](./exercises.md)
-* [Contributing](./contribute.md)
-* [Team](./people.html)
+* [Publications](./knowledge.md#publications)
+* [Contribute](./contribute.md)
 * [Collaborate](./collaborate.md)
+* [Team](./people.html)
 
 
  

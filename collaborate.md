@@ -73,7 +73,7 @@ We are open to:
 * **Supervising PhD research** .
 * **Providing mentorship and advisory**.
 
-Check [Dr. Koch’s Philosophy on Academic Advisory](http://www.fernandokoch.me/pages/advisory.html) with guidelines and to set the expectations.
+Please, check [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
 
 If you are interested, please reach out proving:
 * Title 
@@ -94,15 +94,9 @@ We are open to:
 1. **Guidance for Structuring Projects** around Multi-disciplinary Research agendas.
 1. **Help to find a Multi-disciplinary Research Collaborator**
 
+Please, check [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
 
-If you are already a registered Master Student at FAU, one way to (voluntarily) participating is by engaging in a Multi-disciplinary Research Project. We DO NOT have opportunities for RAs, unfortunately. However, financial opportunities will come through Research Collaborations and Industry Partners (and Use Cases they want to build).
-
-**We are builders!**
-One way to facilitate the process is to **help finding Research Collaboration projects**, for instance, through access with Collaborators in other Departments. We are open to fully support this process!
-
-Another way to collaborate is to **align your Master Research** with the **Creation of Use Cases** and/or **Contribute to our Research Resources**.
-
-If you are interested, please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
+If you are already a registered Master Student at FAU, one way to (voluntarily) participating is by engaging in a Multi-disciplinary Research Project. 
 
 ---
 
@@ -115,17 +109,16 @@ We are open to:
 1. **Provide Mentorship and Advisory**.
 1. **Guidance for Structuring Projects** around Multi-disciplinary Research agendas.
 
-Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). Check the lists of use cases and research ideas in 'Pointers and Guidelines' (see above).
-
+Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
 
 ### Check Also
 
+* [Topics of Interest](./projects.md#topics-of-interest)
+* [Tutorials](./knowledge.md#tutorials)
+* [Education](./knowledge.md#education)
 * [Projects](./projects.md)
+* [Resources](./projects.md#resources) 
 * [Publications](./knowledge.md#publications)
-* [Education](./knowledge.md)
-* [Resources](./projects.md#resources)
-* [Exercises](./exercises.md)
-* [Contributing](./contribute.md)
+* [Contribute](./contribute.md)
 * [Team](./people.html)
-
 

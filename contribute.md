@@ -51,13 +51,14 @@ Everyone participating in our community projects is expected to treat other peop
 
 ### Check Also
 
+* [Topics of Interest](./projects.md#topics-of-interest)
+* [Tutorials](./knowledge.md#tutorials)
+* [Education](./knowledge.md#education)
 * [Projects](./projects.md)
+* [Resources](./projects.md#resources) 
 * [Publications](./knowledge.md#publications)
-* [Education](./knowledge.md)
-* [Resources](./projects.md#resources)
-* [Exercises](./exercises.md)
-* [Team](./people.html)
 * [Collaborate](./collaborate.md)
+* [Team](./people.html)
 
 
  
