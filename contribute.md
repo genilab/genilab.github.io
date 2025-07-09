@@ -1,6 +1,6 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-## Contributing to our Research Resources
+### Contributing to our Research Resources
 
 We'd love to have your contributions to our code!
 
@@ -14,18 +14,18 @@ Our [Research Resources](./projects.md#resources) are community projects that ai
  
 
 
-## Guidelines
+### Guidelines
 
 We use the usual GitHub pull-request flow, which may be familiar to you if you've contributed to other projects on GitHub. For the mechanics,
 see [GitHub's documentation on Pull Requests](https://help.github.com/articles/using-pull-requests/).
 
 You do not need to ask for permission to work on any of these issues. Just fix the issue yourself, using your installation, and open a pull request.
 
-### Permissions 
+#### Permissions 
 
 To get help **fixing a specific issue**, it is often best to add a comment to the issue itself. You're much more likely to get help if you provide details about what you've tried and where you've looked (maintainers tend to help those who help themselves). 
 
-### Good Pull Requests
+#### Good Pull Requests
 
 The best pull requests are focused, clearly describe their purpose, and make sure
 anyone fells comfortable they have been tested and will work well. 
@@ -45,11 +45,11 @@ the more important this is.
 Also, do not squash your commits after you have submitted a pull request, as this
 erases context during review. We will squash commits when the pull request is merged.
 
-## Code of Conduct
+### Code of Conduct
 
 Everyone participating in our community projects is expected to treat other people with respect and more generally to follow the guidelines articulated in the [Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
 
-## Check Also
+### Check Also
 
 * [Topics of Interest](./projects.md#topics-of-interest)
 * [Tutorials](./knowledge.md#tutorials)

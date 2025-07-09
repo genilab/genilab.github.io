@@ -1,6 +1,5 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
-## Collaborate
 
 Thank you for your interest in collaborating with our lab!
 
@@ -16,7 +15,7 @@ You can join us in one of the following capacities:
 
 
 
-## Research Collaborators
+### Research Collaborators
 
 We need to bring together like-minded innovators and Multi-Disciplinary research groups to make our work meaningful for the society!
 
@@ -29,7 +28,7 @@ For that, we seek to engage with Research Collaborators from other Department in
 
 
 
-## Industry Partners
+### Industry Partners
 
 We need to make our research and development relevant to the industry, so it will have true impact!
 
@@ -41,14 +40,14 @@ In practical terms, we seek to collaborate with Industry Partners that can help 
 
 
 
-## Postdoctoral Researchers
+### Postdoctoral Researchers
 
 > Note: We DO NOT have financial support available at the moment.
 
 We are continuously looking into financial support to be able to create PostDoc opportunities. If you would like to put together a proposal, we are more than happy to support.
 
 
-## PhD Students
+### PhD Students
 
 > Note: We DO NOT have opportunities with financial support. 
 
@@ -71,7 +70,7 @@ For more information:
 2. Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/), providing an idea for your topic of interest (see above).
 
 
-## Masters Researcher
+### Masters Researcher
 
 We welcome Master's students who wish to conduct their dissertation research within the lab. 
 
@@ -88,7 +87,7 @@ For more information:
 2. Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/), providing an idea for your topic of interest (see above).
 
 
-## Undergraduate Researcher
+### Undergraduate Researcher
 
 If you are an undergraduate student at FAU and curious about Generative Artificial Intelligence, Intelligent Chat Bots, Synthetic Content Creation, and other related topics, we would love to hear from you! 
 
@@ -101,7 +100,7 @@ For more information:
 * Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/).
 
 
-## Check Also
+### Check Also
 
 * [Topics of Interest](./projects.md#topics-of-interest)
 * [Tutorials](./knowledge.md#tutorials)

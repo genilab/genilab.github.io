@@ -1,7 +1,7 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
 
-## Tutorials
+### Tutorials
 
 We provide tutorials aimed at promoting knowledge sharing and advancing education.
 
@@ -18,7 +18,7 @@ We provide tutorials aimed at promoting knowledge sharing and advancing educatio
 
 
 
-## Publications
+### Publications
 
 * [Publications by the Generative Intelligence Lab](https://medium.com/generative-intelligence-lab) is a venue to promote publications that communicate our research insights, practical use cases, and experimental findings.
 
@@ -31,7 +31,7 @@ We provide tutorials aimed at promoting knowledge sharing and advancing educatio
 * [Scientific Publications](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate) these are publications in scientific journal, conferences, and workshops, presenting our visions, research developments, explorations, and results.
 
 
-## Education
+### Education
 
 These are courses taught by Dr. Koch applying  our Research Resources:
 
