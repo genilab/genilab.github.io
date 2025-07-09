@@ -60,11 +60,12 @@ main {
 }
 
 .grid-item img {
-  width: 80px;
-  height: 80px;
-  object-fit: contain;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
   display: block;
   margin: 0 auto 10px;
+  border-radius: 50%; /* makes the image round */
 }
 
 .grid-item a {

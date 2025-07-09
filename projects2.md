@@ -18,17 +18,17 @@ Our research toolkits are designed to support rapid experimentation and knowledg
 
 <div class="grid-container" data-columns="3">
     <div class="grid-item">
-      <img src="./images/owlmind-icon.png" size="150" alt="Owlmind Icon" />
+      <img src="./images/owlmind-icon.png"  alt="Owlmind Icon" />
       <a href="https://github.com/genilab/owlmind"><strong>Owlmind</strong></a>
       <p>Framework for Generative Intelligent Systems.<br />:: Bots + Prompts + Pipelines + Models = Fast Prototypes</p>
     </div>
     <div class="grid-item">
-      <img src="./images/prompt-icon.png" size="150" alt="Prompt Icon" />
+      <img src="./images/prompt-icon.png" alt="Prompt Icon" />
       <a href="https://github.com/genilab/prompt-eng"><strong>Prompt Engineering Lab</strong></a>
       <p>Fast prototype with Prompt Engineering techniques.<br />:: Prompts + Models = Quick Experiments</p>
     </div>
     <div class="grid-item">
-      <img src="./images/chatfau-icon.png" size="150" alt="ChatFAU Icon" />
+      <img src="./images/chatfau-icon.png" alt="ChatFAU Icon" />
       <a href="https://chat.hpc.fau.edu"><strong>ChatFAU</strong></a>
       <p>
         Intelligent chat Interface based on 
