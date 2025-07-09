@@ -15,6 +15,8 @@ You can join us in one of the following capacities:
 * [Contributor](./contribute.md).
 
 
+Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) to talk about how you can engage in the Lab.
+
 ---
 
 ## Research Collaborators
@@ -48,8 +50,6 @@ In practical terms, we seek to collaborate with Industry Partners that can help 
 
 We are continuously looking into financial support to be able to create PostDoc opportunities. If you would like to put together a proposal, we are more than happy to support.
 
-Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/).
-
 ---
 
 ## PhD Students
@@ -62,7 +62,7 @@ We are open to:
 * **Supervising PhD research** .
 * **Providing mentorship and advisory**.
 
-Please, check [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
+Check [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
 
 If you are interested, please reach out proving:
 * Title 
@@ -83,7 +83,7 @@ We are open to:
 1. **Guidance for Structuring Projects** around Multi-disciplinary Research agendas.
 1. **Help to find a Multi-disciplinary Research Collaborator**
 
-Please, check [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
+Check [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
 
 If you are already a registered Master Student at FAU, one way to (voluntarily) participating is by engaging in a Multi-disciplinary Research Project. 
 
@@ -97,8 +97,6 @@ We are open to:
 1. **Support Final Year Projects**.
 1. **Provide Mentorship and Advisory**.
 1. **Guidance for Structuring Projects** around Multi-disciplinary Research agendas.
-
-Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/). 
 
 ### Check Also
 
