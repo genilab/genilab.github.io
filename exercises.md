@@ -12,7 +12,7 @@ These exercises are designed to complement our [Courses, Tutorials, and Workshop
 WORK IN PROGRESS.
 
 
-### Check Also
+## Check Also
 
 * [Topics of Interest](./projects.md#topics-of-interest)
 * [Tutorials](./knowledge.md#tutorials)

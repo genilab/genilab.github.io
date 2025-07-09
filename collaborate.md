@@ -101,7 +101,7 @@ For more information:
 * Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/).
 
 
-### Check Also
+## Check Also
 
 * [Topics of Interest](./projects.md#topics-of-interest)
 * [Tutorials](./knowledge.md#tutorials)
