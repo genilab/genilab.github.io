@@ -3,7 +3,7 @@
 
 ## Members
 
-<div class="grid-container" data-columns="4">
+<div class="grid-container" data-columns="3">
   <div class="grid-item person-card">
     <img src="./images/people/kochf-headshot.png" alt="Dr. Fernando Koch">
     <div class="person-name"><a href="https://www.linkedin.com/in/fkoch/">Dr. Fernando Koch</a></div>

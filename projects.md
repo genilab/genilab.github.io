@@ -14,8 +14,6 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 
 ## Resources
 
-Our research toolkits are designed to support rapid experimentation and knowledge sharing. 
-
 <div class="grid-container" data-columns="3">
     <div class="grid-item">
       <img src="./images/owlmind-icon.png"  alt="Owlmind Icon" />
