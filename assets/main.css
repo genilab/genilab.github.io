@@ -1,5 +1,5 @@
 .wrapper {
-    max-width: calc(800px - (30px * 2));
+    max-width: 600px;
     margin-right: auto;
     margin-left: auto;
     padding-right: 30px;
@@ -8,7 +8,6 @@
 
 @media screen and (max-width: 800px) {
   .wrapper {
-    max-width: calc(800px - 30px);
     padding-right: 15px;
     padding-left: 15px;
   }
