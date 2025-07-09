@@ -29,7 +29,7 @@ main {
 /* === Custom Wrapping === */
 
 .wrapper {
-    max-width: 800px;
+    max-width: 750px;
     margin-right: auto;
     margin-left: auto;
     padding-right: 30px;
