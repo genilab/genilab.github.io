@@ -1,3 +1,19 @@
+.wrapper {
+    max-width: calc(800px - (30px * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+@media screen and (max-width: 800px) {
+  .wrapper {
+    max-width: calc(800px - 30px);
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
     margin: 0;
     padding:0
