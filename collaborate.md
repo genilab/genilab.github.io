@@ -6,13 +6,13 @@ Thank you for your interest in collaborating with our lab!
 
 You can join us in one of the following capacities:
 
-* [**Research Collaborators**](#research-collaborators).
-* [**Industry Partner**](#industry-partner).
-* [**Postdoc Researchers**](#postdoctoral-researchers).
-* [**Ph.D. Students**](#phd-students).
-* [**Master Researcher**](#master-researcher).
-* [**Undergraduate Researcher**](#undergradute-researcher).
-* [**Contributor**](./contribute.md).
+* [Research Collaborators](#research-collaborators).
+* [Industry Partner](#industry-partner).
+* [Postdoc Researchers](#postdoctoral-researchers).
+* [Ph.D. Students](#phd-students).
+* [Master Researcher](#master-researcher).
+* [Undergraduate Researcher](#undergradute-researcher).
+* [Contributor](./contribute.md).
 
 
 Pointers and guidelines:
@@ -119,6 +119,6 @@ Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch
 * [Projects](./projects.md)
 * [Resources](./projects.md#resources) 
 * [Publications](./knowledge.md#publications)
-* [Contribute](./contribute.md)
 * [Team](./people.html)
+
 

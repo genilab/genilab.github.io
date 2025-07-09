@@ -58,8 +58,9 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 
 ### Check Also
 
+* [Topics of Interest](./projects.md#topics-of-interest)
+* [Tutorials](./knowledge.md#tutorials)
+* [Education](./knowledge.md#education)
 * [Publications](./knowledge.md#publications)
-* [Education](./knowledge.md)
-* [Contribute](./contribute.md)
 * [Collaborate](./collaborate.md)
 * [Team](./people.html)

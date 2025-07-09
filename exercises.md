@@ -32,9 +32,9 @@ WORK IN PROGRESS.
 * [Projects](./projects.md)
 * [Resources](./projects.md#resources) 
 * [Publications](./knowledge.md#publications)
-* [Contribute](./contribute.md)
 * [Collaborate](./collaborate.md)
 * [Team](./people.html)
+
 
 
  

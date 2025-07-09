@@ -47,10 +47,10 @@ These are courses taught by Dr. Koch applying  our Research Resources:
 
 
 ### Check Also
+
 * [Topics of Interest](./projects.md#topics-of-interest)
 * [Projects](./projects.md)
 * [Resources](./projects.md#resources) 
-* [Contribute](./contribute.md)
 * [Collaborate](./collaborate.md)
 * [Team](./people.html)
  

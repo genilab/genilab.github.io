@@ -27,7 +27,6 @@ We promote regular Tutorials and Education courses to help you make the best of 
 * [Projects](./projects.md)
 * [Resources](./projects.md#resources) 
 * [Publications](./knowledge.md#publications)
-* [Contribute](./contribute.md)
 * [Collaborate](./collaborate.md)
 * [Team](./people.html)
 

@@ -86,6 +86,6 @@
 * [Projects](./projects.md)
 * [Resources](./projects.md#resources) 
 * [Publications](./knowledge.md#publications)
-* [Contribute](./contribute.md)
 * [Collaborate](./collaborate.md)
+
 
