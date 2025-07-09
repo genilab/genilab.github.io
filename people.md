@@ -1,8 +1,6 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
 
-## Members
-
 <div class="grid-container" data-columns="3">
   <div class="grid-item person-card">
     <img src="./images/people/kochf-headshot.png" alt="Dr. Fernando Koch">
