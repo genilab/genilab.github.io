@@ -12,7 +12,7 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 
 -->
 
-## Resources
+### Resources
 
 <div class="grid-container" data-columns="3">
     <div class="grid-item">
@@ -40,7 +40,7 @@ We actively promote use cases aligned with real-world needs by applying our [Res
   </div>
 
 
-## Topics of Interest 
+### Topics of Interest 
 
 
 | | |
@@ -56,7 +56,7 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 
 
 
-## Check Also
+### Check Also
 
 * [Topics of Interest](./projects.md#topics-of-interest)
 * [Tutorials](./knowledge.md#tutorials)
