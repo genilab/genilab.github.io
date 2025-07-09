@@ -8,13 +8,13 @@ We provide tutorials aimed at promoting knowledge sharing and advancing educatio
 > Please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) to request for a TUTORIAL in your Department and/or Group.
 
 
-* [**TUTORIAL - Generative Intelligence in Academic Projects**](./pdfs/TUTORIAL%20Generative%20Intelligence%20in%20Academic%20Projects.pdf): introduces the core concepts, capabilities, and practical applications of Generative Intelligence in scientific research, with a special focus on multi-disciplinary projects. 
+* [TUTORIAL - Generative Intelligence in Academic Projects](./pdfs/TUTORIAL%20Generative%20Intelligence%20in%20Academic%20Projects.pdf): introduces the core concepts, capabilities, and practical applications of Generative Intelligence in scientific research, with a special focus on multi-disciplinary projects. 
 
-* [**TUTORIAL - Generative Intelligence and Business**](./pdfs/TUTORIAL%20Generative%20Intelligence%20and%20Business%20.pdf): this tutorial demonstrate how Generative Intelligence Systems operate to reshape business processes, open new business opportunities, and augment or create innovative applications.
+* [TUTORIAL - Generative Intelligence and Business](./pdfs/TUTORIAL%20Generative%20Intelligence%20and%20Business%20.pdf): this tutorial demonstrate how Generative Intelligence Systems operate to reshape business processes, open new business opportunities, and augment or create innovative applications.
 
-* [**TUTORIAL - Generative Intelligence and Software Development Lifecycles**](./pdfs/TUTORIAL%20Generative%20Intelligence%20and%20Business%20.pdf): examines how GenAI transforms traditional and modern software development processes, current perceptions of GenAI in software development, and impact for developers, solution architects, and startup founders. 
+* [TUTORIAL - Generative Intelligence and Software Development Lifecycles](./pdfs/TUTORIAL%20Generative%20Intelligence%20and%20Business%20.pdf): examines how GenAI transforms traditional and modern software development processes, current perceptions of GenAI in software development, and impact for developers, solution architects, and startup founders. 
 
-* [**TUTORIAL - Generative Intelligence and Large Generative Models**](./pdfs/TUTORIAL%20Generative%20AI%20and%20Large%20Generative%20Models.pdf): revises the concepts and applications of Generative Artificial Intelligence, Large Generative Models, Agentic Frameworks, and Multi-Agent Systems. 
+* [TUTORIAL - Generative Intelligence and Large Generative Models](./pdfs/TUTORIAL%20Generative%20AI%20and%20Large%20Generative%20Models.pdf): revises the concepts and applications of Generative Artificial Intelligence, Large Generative Models, Agentic Frameworks, and Multi-Agent Systems. 
 
 
 
@@ -35,7 +35,7 @@ We provide tutorials aimed at promoting knowledge sharing and advancing educatio
 
 These are courses taught by Dr. Koch applying  our Research Resources:
 
-* [COT6930](https://fau.simplesyllabus.com/en-US/doc/nre6c4z6g/Spring-2025-1-Full-Term-COT-6930-001-Topics-in-Computer-Science?mode=view): Generative Artificial Intelligence and Software Development Lifecycles
+* [COT6930](https://fau.simplesyllabus.com/doc/em80vs56l/Fall-2025-1-Full-Term-COT-6930-004-Topics-in-Computer-Science?mode=view): Generative Artificial Intelligence and Software Development Lifecycles
 * [CEN 4010](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view): Principles of Software Engineering with Generative Intelligence
 * [CAP4623](https://fau.simplesyllabus.com/en-US/doc/h6c9776hw/Fall-2024-1-Full-Term-CAP-4623-001-?mode=view): Trustworthy Artificial Intelligence
 
