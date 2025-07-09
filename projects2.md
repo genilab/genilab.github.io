@@ -16,11 +16,27 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 
 Our research toolkits are designed to support rapid experimentation and knowledge sharing. 
 
-| | | 
-| :-: | :- | 
-| ![](./images/owlmind-icon.png) | [**Owlmind**](https://github.com/genilab/owlmind) <br/> Framework for Generative Intelligent Systems. <br/> :: Bots + Prompts + Pipelines + Models = Fast Prototypes |
-| ![](./images/prompt-icon.png) | [**Prompt Engineering Lab**](https://github.com/genilab/prompt-eng) <br/> Fast prototype with Prompt Engineering techniques. <br/> :: Prompts + Models = Quick Experiments | 
-| ![](./images/chatfau-icon.png) | [ChatFAU](https://chat.hpc.fau.edu) <br/> Intelligent chat Interface based on [Ollama](http://ollama.com). <br/> :: Our solution for zero-cost Model Provider :: | 
+<div class="grid-container" data-columns="3">
+    <div class="grid-item">
+      <img src="./images/owlmind-icon.png" size="150" alt="Owlmind Icon" />
+      <a href="https://github.com/genilab/owlmind"><strong>Owlmind</strong></a>
+      <p>Framework for Generative Intelligent Systems.<br />:: Bots + Prompts + Pipelines + Models = Fast Prototypes</p>
+    </div>
+    <div class="grid-item">
+      <img src="./images/prompt-icon.png" size="150" alt="Prompt Icon" />
+      <a href="https://github.com/genilab/prompt-eng"><strong>Prompt Engineering Lab</strong></a>
+      <p>Fast prototype with Prompt Engineering techniques.<br />:: Prompts + Models = Quick Experiments</p>
+    </div>
+    <div class="grid-item">
+      <img src="./images/chatfau-icon.png" size="150" alt="ChatFAU Icon" />
+      <a href="https://chat.hpc.fau.edu"><strong>ChatFAU</strong></a>
+      <p>
+        Intelligent chat Interface based on 
+        <a href="http://ollama.com">Ollama</a>.<br />
+        :: Our solution for zero-cost Model Provider ::
+      </p>
+    </div>
+  </div>
 
 
 ## Topics of Interest 
