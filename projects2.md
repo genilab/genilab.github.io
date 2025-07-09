@@ -20,12 +20,14 @@ Our research toolkits are designed to support rapid experimentation and knowledg
     <div class="grid-item">
       <img src="./images/owlmind-icon.png"  alt="Owlmind Icon" />
       <a href="https://github.com/genilab/owlmind"><strong>Owlmind</strong></a>
-      <p>Framework for Generative Intelligent Systems.<br />:: Bots + Prompts + Pipelines + Models = Fast Prototypes</p>
+      <p>Framework for Generative Intelligent Systems.<br />
+      Bots + Prompts + Pipelines + Models = Fast Prototypes</p>
     </div>
     <div class="grid-item">
       <img src="./images/prompt-icon.png" alt="Prompt Icon" />
       <a href="https://github.com/genilab/prompt-eng"><strong>Prompt Engineering Lab</strong></a>
-      <p>Fast prototype with Prompt Engineering techniques.<br />:: Prompts + Models = Quick Experiments</p>
+      <p>Fast prototype with Prompt Engineering techniques.<br />
+      Prompts + Models = Quick Experiments</p>
     </div>
     <div class="grid-item">
       <img src="./images/chatfau-icon.png" alt="ChatFAU Icon" />
@@ -33,7 +35,8 @@ Our research toolkits are designed to support rapid experimentation and knowledg
       <p>
         Intelligent chat Interface based on 
         <a href="http://ollama.com">Ollama</a>.<br />
-        :: Our solution for zero-cost Model Provider ::
+        Our solution for zero-cost Model Provider!<br/>
+        (requires @fau account)
       </p>
     </div>
   </div>
