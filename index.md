@@ -2,7 +2,7 @@
 
 The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the ideation, design, and deployment of research-driven Generative Intelligence Systems for our research community and industry partners.
 
-<h3 style="color:#2B65CF">We are thinkers and builders of Generative Intelligence Systems!</h3>
+## We are thinkers and builders of Generative Intelligence Systems!
 
 We operate between a *Think Tank* and a *Development Studio* in multi-disciplinary research projects.
 We  promote rapid prototyping in solutions like:
@@ -14,7 +14,7 @@ We  promote rapid prototyping in solutions like:
 * *Multi-user Interactions*, supporting GenAI-powered experiments with Collective Intelligence
 (and more)
 
-<h3 style="color:#2B65CF">Advancing open science and the creative economy!</h3>
+## Advancing open science and the creative economy!
 
 Our lab builds and promotes re-usable *Research Resources* tailored to emerging use cases.
 We promote regular Tutorials and Education courses to help you make the best of Generative Intelligence Systems in your field of work.

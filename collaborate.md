@@ -6,18 +6,15 @@ Thank you for your interest in collaborating with our lab!
 
 You can join us in one of the following capacities:
 
-* [Research Collaborators](#research-collaborators).
-* [Industry Partner](#industry-partner).
-* [Postdoc Researchers](#postdoctoral-researchers).
-* [Ph.D. Students](#phd-students).
-* [Master Researcher](#master-researcher).
-* [Undergraduate Researcher](#undergradute-researcher).
-* [Contributor](./contribute.md).
+* [Research Collaborators](#research-collaborators)
+* [Industry Partner](#industry-partner)
+* [Postdoc Researchers](#postdoctoral-researchers)
+* [Ph.D. Students](#phd-students)
+* [Master Researcher](#master-researcher)
+* [Undergraduate Researcher](#undergradute-researcher)
+* [Contributor](./contribute.md)
 
 
-Please contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) to talk about how you can engage in the Lab.
-
----
 
 ## Research Collaborators
 
@@ -25,12 +22,12 @@ We need to bring together like-minded innovators and Multi-Disciplinary research
 
 For that, we seek to engage with Research Collaborators from other Department in our Research Community that can contribute with one or more of the following:
 
-1. **Joint Grant Applications** is our top-priority.
-1. **Ideas for Socially-Relevant Prototypes** applying our Research resources for fast prototyping.
-1. **Create Use Cases**, specially around multi-disciplinary research.
-1. **Promote Publications**, always important to showcase our interests and capabilities.
-    
----
+* Joint Grant Applications is our top-priority.
+* Ideas for Socially-Relevant Prototypes applying our Research resources for fast prototyping.
+* Create Use Cases, specially around multi-disciplinary research.
+* Promote Publications, always important to showcase our interests and capabilities.
+
+
 
 ## Industry Partners
 
@@ -38,11 +35,11 @@ We need to make our research and development relevant to the industry, so it wil
 
 In practical terms, we seek to collaborate with Industry Partners that can help with:
 
-1. **Create Industry-relevant Use Cases**.
-1. **Ideas for Industry-Relevant Prototypes** applying our Research resources for fast prototyping.
-1. **Joint Grant Applications**.
+* Create Industry-relevant Use Cases.
+* Ideas for Industry-Relevant Prototypes applying our Research resources for fast prototyping.
+* Joint Grant Applications.
 
----
+
 
 ## Postdoctoral Researchers
 
@@ -50,7 +47,6 @@ In practical terms, we seek to collaborate with Industry Partners that can help 
 
 We are continuously looking into financial support to be able to create PostDoc opportunities. If you would like to put together a proposal, we are more than happy to support.
 
----
 
 ## PhD Students
 
@@ -59,10 +55,9 @@ We are continuously looking into financial support to be able to create PostDoc 
 We are always interested in working with passionate and self-driven PhD candidates!
 
 We are open to:
-* **Supervising PhD research** .
-* **Providing mentorship and advisory**.
+* Supervising PhD research.
+* Providing mentorship and advisory.
 
-Check [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
 
 If you are interested, please reach out proving:
 * Title 
@@ -71,32 +66,40 @@ If you are interested, please reach out proving:
 * Why is this question relevant?
 * How are you planning to answer it?
 
----
+For more information:
+1. Read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
+2. Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/), providing an idea for your topic of interest (see above).
+
 
 ## Masters Researcher
 
 We welcome Master's students who wish to conduct their dissertation research within the lab. 
 
 We are open to:
-1. **Supervise Master Research**.
-1. **Provide Mentorship and Advisory**.
-1. **Guidance for Structuring Projects** around Multi-disciplinary Research agendas.
-1. **Help to find a Multi-disciplinary Research Collaborator**
+* Supervise Master Research.
+* Provide Mentorship and Advisory.
+* Guidance for Structuring Projects around Multi-disciplinary Research agendas.
+* Help to find a Multi-disciplinary Research Collaborator
 
-Check [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
+Note: If you are already a registered Master Student at FAU, one way to (voluntarily) participating is by engaging in a Multi-disciplinary Research Project. 
 
-If you are already a registered Master Student at FAU, one way to (voluntarily) participating is by engaging in a Multi-disciplinary Research Project. 
+For more information:
+1. Read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
+2. Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/), providing an idea for your topic of interest (see above).
 
----
 
 ## Undergraduate Researcher
 
 If you are an undergraduate student at FAU and curious about Generative Artificial Intelligence, Intelligent Chat Bots, Synthetic Content Creation, and other related topics, we would love to hear from you! 
 
 We are open to:
-1. **Support Final Year Projects**.
-1. **Provide Mentorship and Advisory**.
-1. **Guidance for Structuring Projects** around Multi-disciplinary Research agendas.
+* Support Final Year Projects.
+* Provide Mentorship and Advisory.
+* Guidance for Structuring Projects around Multi-disciplinary Research agendas.
+
+For more information:
+* Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/).
+
 
 ### Check Also
 
