@@ -24,77 +24,77 @@ The result has been revised and approved by a human.
 lab_members = [
     {
         "name": "Dr. Fernando Koch",
-        "picture": "kochf.png",
+        "picture": "kochf-headshot.png",
         "link": "https://www.fau.edu/engineering/directory/faculty/koch/",
         "title": "Research Professor",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Natasha Astudillo, Ph.D CS (candidate)",
-        "picture": "nastudillo2024.png",
+        "picture": "nastudillo2024-headshot.png",
         "link": "https://www.linkedin.com/in/natashaastudillo/",
         "title": "",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Gonzalo Vivian, Ph.D. CS (candidate)",
-        "picture": "gvivian2022.png",
+        "picture": "gvivian2022-headshot.png",
         "link": "https://www.linkedin.com/in/gonvivian/",
         "title": "",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Sam Porter, MBA, B.Sc. CS",
-        "picture": "samanthaport2022.png",
+        "picture": "samanthaport2022-headshot.png",
         "link": "https://www.linkedin.com/in/samporter-cs/",
         "title": "",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Nelson Vega, M.Sc. CS",
-        "picture": "vegan2023.png",
+        "picture": "vegan2023-headshot.png",
         "link": "https://www.linkedin.com/in/nvegamarrero/",
         "title": "",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Sumedh Krishna",
-        "picture": "svizarsuyesh2024.png",
+        "picture": "svizarsuyesh2024-headshot.png",
         "link": "https://www.linkedin.com/in/sumedh-vyk/",
         "title": "",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Amanda Grass Santos",
-        "picture": "agrasssantos2023.png",
+        "picture": "agrasssantos2023-headshot.png",
         "link": "https://www.linkedin.com/in/amandagrass",
         "title": "",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Preet Chokshi",
-        "picture": "pchokshi2024.png",
+        "picture": "pchokshi2024-headshot.png",
         "link": "https://www.linkedin.com/in/preet-chokshi-6b7096233",
         "title": "",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Jeel Sathwara",
-        "picture": "jsathwara2024.png",
+        "picture": "jsathwara2024-headshot.png",
         "link": "https://www.linkedin.com/in/jeel209/",
         "title": "",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Deven Patel",
-        "picture": "devenpravink2024.png",
+        "picture": "devenpravink2024-headshot.png",
         "link": "https://www.linkedin.com/in/devenpatel0",
         "title": "",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Rutvikkumar Dave",
-        "picture": "rdave2024.png",
+        "picture": "rdave2024-headshot.png",
         "link": "https://www.linkedin.com/in/dave-rutvikkumar/",
         "title": "",
         "department": "Dept EECS, FAU"
@@ -121,7 +121,7 @@ research_advisor_board = [
 research_collaborator = [
     {
         "name": "Dr. Ravi Behara",
-        "picture": "rbehara.png",
+        "picture": "rbehara-headshot.png",
         "link": "https://business.fau.edu/faculty-research/faculty-profiles/profile/rbehara.php",
         "title": "SBA Communications Professor",
         "department": "Department of Information Technology and Operations Management"
@@ -158,7 +158,6 @@ industry_collaborator = [
         "department": "aiKOLO"
     }
 ]
-
 
 
 # === Catalog of People Groups ===
