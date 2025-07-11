@@ -61,7 +61,7 @@
     <div class="person-name"><a href="https://www.linkedin.com/in/dave-rutvikkumar/">Rutvikkumar Dave</a></div>
     <div class="person-title">Dept EECS, FAU</div>
   </div>
-
+</div>
 
 ## Research Advisor Board
 
@@ -95,6 +95,7 @@
     <div class="person-name"><a href="https://www.linkedin.com/in/boris-shulzhenko-94706764/">Boris Shulzhenko</a></div>
     <div class="person-title">CEO, aiKOLO</div>
   </div>
+</div>
 
 ## Research Collaborators
 
@@ -109,7 +110,7 @@
     <div class="person-name"><a href="https://www.fau.edu/sw-cj/ssw/faculty-and-staff/people/cooley/">Dr. Morgan Cooley, LCSW</a></div>
     <div class="person-title">Associated Professor, Sandler School of Social Work</div>
   </div>
-
+</div>
 
 ### Check Also
 
