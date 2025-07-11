@@ -107,7 +107,7 @@ research_advisor_board = [
         "picture": "bfurht-headshot.png",
         "link": "https://www.fau.edu/engineering/directory/faculty/furht/",
         "title": "Professor and Director of NSF Research Center",
-        "department": "Department of Electrial engineerign & Computer Sciences"
+        "department": "Department of Electrical Engineering & Computer Sciences"
     },
     {
         "name": "Dr. Maria Mejia, M.D., M.P.H.",
