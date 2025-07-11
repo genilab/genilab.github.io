@@ -44,7 +44,7 @@ person_card_template = '''  <div class="grid-item person-card">
     <img src="./images/people/{picture}">
     <div class="person-name"><a href="{link}">{name}</a></div>
     <div class="person-title">{role_dept}</div>
-  </div>\n\n'''
+  </div>\n'''
 
 
 # === HTML Generator ===
@@ -52,7 +52,7 @@ person_card_template = '''  <div class="grid-item person-card">
 def generate_html_section(title, people):
 
     html = f"\n## {title}\n\n"
-    html += f'<div class="grid-container" data-columns="3">\n\n'
+    html += f'<div class="grid-container" data-columns="3">\n'
 
     for person in people:
         html += person_card_template.format(
@@ -62,6 +62,7 @@ def generate_html_section(title, people):
             role_dept=f"{person.get('title', '')}, {person.get('department', '')}".strip(', ')
         )
 
+    html += f'</div>'
     return html
 
 
