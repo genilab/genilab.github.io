@@ -30,73 +30,73 @@ lab_members = [
         "department": "Dept EECS, FAU"
     },
     {
-        "name": "Natasha Astudillo, Ph.D CS (candidate)",
+        "name": "Natasha Astudillo",
         "picture": "nastudillo2024-headshot.png",
         "link": "https://www.linkedin.com/in/natashaastudillo/",
-        "title": "",
+        "title": "Ph.D. CS (candidate)",
         "department": "Dept EECS, FAU"
     },
     {
-        "name": "Gonzalo Vivian, Ph.D. CS (candidate)",
+        "name": "Gonzalo Vivian",
         "picture": "gvivian2022-headshot.png",
         "link": "https://www.linkedin.com/in/gonvivian/",
-        "title": "",
+        "title": "Ph.D. CS (candidate)",
         "department": "Dept EECS, FAU"
     },
     {
-        "name": "Sam Porter, MBA, B.Sc. CS",
+        "name": "Sam Porter",
         "picture": "samanthaport2022-headshot.png",
         "link": "https://www.linkedin.com/in/samporter-cs/",
-        "title": "",
+        "title": "MBA, B.Sc. CS (student)",
         "department": "Dept EECS, FAU"
     },
     {
-        "name": "Nelson Vega, M.Sc. CS",
+        "name": "Nelson Vega",
         "picture": "vegan2023-headshot.png",
         "link": "https://www.linkedin.com/in/nvegamarrero/",
-        "title": "",
+        "title": "M.Sc. CS",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Sumedh Krishna",
         "picture": "svizarsuyesh2024-headshot.png",
         "link": "https://www.linkedin.com/in/sumedh-vyk/",
-        "title": "",
+        "title": "M.Sc. CS",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Amanda Grass Santos",
         "picture": "agrasssantos2023-headshot.png",
         "link": "https://www.linkedin.com/in/amandagrass",
-        "title": "",
+        "title": "M.Sc. AI",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Preet Chokshi",
         "picture": "pchokshi2024-headshot.png",
         "link": "https://www.linkedin.com/in/preet-chokshi-6b7096233",
-        "title": "",
+        "title": "M.Sc. CS",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Jeel Sathwara",
         "picture": "jsathwara2024-headshot.png",
         "link": "https://www.linkedin.com/in/jeel209/",
-        "title": "",
+        "title": "M.Sc. CS",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Deven Patel",
         "picture": "devenpravink2024-headshot.png",
         "link": "https://www.linkedin.com/in/devenpatel0",
-        "title": "",
+        "title": "M.Sc. CS",
         "department": "Dept EECS, FAU"
     },
     {
         "name": "Rutvikkumar Dave",
         "picture": "rdave2024-headshot.png",
         "link": "https://www.linkedin.com/in/dave-rutvikkumar/",
-        "title": "",
+        "title": "M.Sc. DS",
         "department": "Dept EECS, FAU"
     }
 ]

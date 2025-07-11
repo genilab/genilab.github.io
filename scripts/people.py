@@ -90,7 +90,7 @@ def main():
     missing = validate_image_files(catalog, image_dir=image_dir)
 
     if missing:
-        print("❌ Generation aborted! Missing files!")
+        print("❌ Generation aborted -- Missing files!")
         for section, filename in missing:
             print(f"- {filename}")
         exit(1)
