@@ -11,67 +11,67 @@
   <div class="grid-item person-card">
     <img src="./images/people/kochf-headshot.png">
     <div class="person-name"><a href="https://www.fau.edu/engineering/directory/faculty/koch/">Dr. Fernando Koch</a></div>
-    <div class="person-title">Research Professor, <br/> Dept EECS, FAU</div>
+    <div class="person-title">Research Professor<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/nastudillo2024-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/natashaastudillo/">Natasha Astudillo</a></div>
-    <div class="person-title">Ph.D. CS (candidate), <br/> Dept EECS, FAU</div>
+    <div class="person-title">Ph.D. CS (candidate)<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/gvivian2022-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/gonvivian/">Gonzalo Vivian</a></div>
-    <div class="person-title">Ph.D. CS (candidate), <br/> Dept EECS, FAU</div>
+    <div class="person-title">Ph.D. CS (candidate)<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/samanthaport2022-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/samporter-cs/">Sam Porter</a></div>
-    <div class="person-title">MBA, B.Sc. CS (student), <br/> Dept EECS, FAU</div>
+    <div class="person-title">MBA, B.Sc. CS (student)<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/vegan2023-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/nvegamarrero/">Nelson Vega</a></div>
-    <div class="person-title">M.Sc. CS, <br/> Dept EECS, FAU</div>
+    <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/svizarsuyesh2024-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/sumedh-vyk/">Sumedh Krishna</a></div>
-    <div class="person-title">M.Sc. CS, <br/> Dept EECS, FAU</div>
+    <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/agrasssantos2023-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/amandagrass">Amanda Grass Santos</a></div>
-    <div class="person-title">M.Sc. AI, <br/> Dept EECS, FAU</div>
+    <div class="person-title">M.Sc. AI<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/pchokshi2024-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/preet-chokshi-6b7096233">Preet Chokshi</a></div>
-    <div class="person-title">M.Sc. CS, <br/> Dept EECS, FAU</div>
+    <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/jsathwara2024-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/jeel209/">Jeel Sathwara</a></div>
-    <div class="person-title">M.Sc. CS, <br/> Dept EECS, FAU</div>
+    <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/devenpravink2024-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/devenpatel0">Deven Patel</a></div>
-    <div class="person-title">M.Sc. CS, <br/> Dept EECS, FAU</div>
+    <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/rdave2024-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/dave-rutvikkumar/">Rutvikkumar Dave</a></div>
-    <div class="person-title">M.Sc. DS, <br/> Dept EECS, FAU</div>
+    <div class="person-title">M.Sc. DS<br/> Dept EECS, FAU</div>
   </div>
 
 </div>
@@ -86,13 +86,13 @@
   <div class="grid-item person-card">
     <img src="./images/people/bfurht-headshot.png">
     <div class="person-name"><a href="https://www.fau.edu/engineering/directory/faculty/furht/">Dr. Borko Furht</a></div>
-    <div class="person-title">Professor and Director of NSF Research Center, <br/> Department of Electrial engineerign & Computer Sciences</div>
+    <div class="person-title">Professor and Director of NSF Research Center<br/> Department of Electrial engineerign & Computer Sciences</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/mejiam-headshot.png">
     <div class="person-name"><a href="https://www.fau.edu/medicine/directory/maria-mejia/">Dr. Maria Mejia, M.D., M.P.H.</a></div>
-    <div class="person-title">Professor of Population Health and Social Medicine, <br/> Department: Population Health, Schmidt College of Medicine</div>
+    <div class="person-title">Professor of Population Health and Social Medicine<br/> Department: Population Health, Schmidt College of Medicine</div>
   </div>
 
 </div>
@@ -107,19 +107,19 @@
   <div class="grid-item person-card">
     <img src="./images/people/msorrenti-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/mike-sorrenti/?originalSubdomain=ca">Michael Sorrenti</a></div>
-    <div class="person-title">President & Founder, <br/> Game Pill</div>
+    <div class="person-title">President & Founder<br/> Game Pill</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/abinotto-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/aleciobinotto/?originalSubdomain=de">Dr. Alecio Binotto</a></div>
-    <div class="person-title">Digital Technologies Expert, <br/> ZEISS Corp</div>
+    <div class="person-title">Digital Technologies Expert<br/> ZEISS Corp</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/bshulzhenko-headshot.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/boris-shulzhenko-94706764/">Boris Shulzhenko</a></div>
-    <div class="person-title">CEO, <br/> aiKOLO</div>
+    <div class="person-title">CEO<br/> aiKOLO</div>
   </div>
 
 </div>
@@ -134,13 +134,13 @@
   <div class="grid-item person-card">
     <img src="./images/people/rbehara-headshot.png">
     <div class="person-name"><a href="https://business.fau.edu/faculty-research/faculty-profiles/profile/rbehara.php">Dr. Ravi Behara</a></div>
-    <div class="person-title">SBA Communications Professor, <br/> Department of Information Technology and Operations Management</div>
+    <div class="person-title">SBA Communications Professor<br/> Department of Information Technology and Operations Management</div>
   </div>
 
   <div class="grid-item person-card">
     <img src="./images/people/cooley-headshot.png">
     <div class="person-name"><a href="https://www.fau.edu/sw-cj/ssw/faculty-and-staff/people/cooley/">Dr. Morgan Cooley, LCSW</a></div>
-    <div class="person-title">Associated Professor, <br/> Sandler School of Social Work</div>
+    <div class="person-title">Associated Professor<br/> Sandler School of Social Work</div>
   </div>
 
 </div>

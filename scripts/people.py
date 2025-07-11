@@ -53,7 +53,7 @@ def generate_html_section(title, people):
             picture=person["picture"],
             name=person["name"],
             link=person["link"],
-            role_dept=f"{person.get('title', '')}, <br/> {person.get('department', '')}".strip(', ')
+            role_dept=f"{person.get('title', '')}<br/> {person.get('department', '')}".strip(', ')
         )
 
     html += f'</div>\n{comment_end}\n'
