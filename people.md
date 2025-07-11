@@ -6,67 +6,56 @@
 ## Lab Members
 
 <div class="grid-container" data-columns="3">
-
   <div class="grid-item person-card">
     <img src="./images/people/kochf.png">
     <div class="person-name"><a href="https://www.fau.edu/engineering/directory/faculty/koch/">Dr. Fernando Koch</a></div>
     <div class="person-title">Research Professor, Dept EECS, FAU</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/nastudillo2024.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/natashaastudillo/">Natasha Astudillo, Ph.D CS (candidate)</a></div>
     <div class="person-title">Dept EECS, FAU</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/gvivian2022.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/gonvivian/">Gonzalo Vivian, Ph.D. CS (candidate)</a></div>
     <div class="person-title">Dept EECS, FAU</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/samanthaport2022.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/samporter-cs/">Sam Porter, MBA, B.Sc. CS</a></div>
     <div class="person-title">Dept EECS, FAU</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/vegan2023.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/nvegamarrero/">Nelson Vega, M.Sc. CS</a></div>
     <div class="person-title">Dept EECS, FAU</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/svizarsuyesh2024.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/sumedh-vyk/">Sumedh Krishna</a></div>
     <div class="person-title">Dept EECS, FAU</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/agrasssantos2023.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/amandagrass">Amanda Grass Santos</a></div>
     <div class="person-title">Dept EECS, FAU</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/pchokshi2024.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/preet-chokshi-6b7096233">Preet Chokshi</a></div>
     <div class="person-title">Dept EECS, FAU</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/jsathwara2024.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/jeel209/">Jeel Sathwara</a></div>
     <div class="person-title">Dept EECS, FAU</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/devenpravink2024.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/devenpatel0">Deven Patel</a></div>
     <div class="person-title">Dept EECS, FAU</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/rdave2024.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/dave-rutvikkumar/">Rutvikkumar Dave</a></div>
@@ -74,65 +63,52 @@
   </div>
 
 
-
 ## Research Advisor Board
 
 <div class="grid-container" data-columns="3">
-
   <div class="grid-item person-card">
     <img src="./images/people/bfurht-headshot.png">
     <div class="person-name"><a href="https://www.fau.edu/engineering/directory/faculty/furht/">Dr. Borko Furht</a></div>
     <div class="person-title">Professor and Director of NSF Research Center, Department of Electrial engineerign & Computer Sciences</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/mejiam-headshot.png">
     <div class="person-name"><a href="https://www.fau.edu/medicine/directory/maria-mejia/">Dr. Maria Mejia, M.D., M.P.H.</a></div>
     <div class="person-title">Professor of Population Health and Social Medicine, Department: Population Health, Schmidt College of Medicine</div>
   </div>
 
-
-
 ## Industry Advisor Board
 
 <div class="grid-container" data-columns="3">
-
   <div class="grid-item person-card">
     <img src="./images/people/msorrenti-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/mike-sorrenti/?originalSubdomain=ca">Michael Sorrenti</a></div>
     <div class="person-title">President & Founder, Game Pill</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/abinotto-headshot.png">
     <div class="person-name"><a href="https://www.linkedin.com/in/aleciobinotto/?originalSubdomain=de">Dr. Alecio Binotto</a></div>
     <div class="person-title">Digital Technologies Expert, ZEISS Corp</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/bshulzhenko-headshot.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/boris-shulzhenko-94706764/">Boris Shulzhenko</a></div>
     <div class="person-title">CEO, aiKOLO</div>
   </div>
 
-
-
 ## Research Collaborators
 
 <div class="grid-container" data-columns="3">
-
   <div class="grid-item person-card">
     <img src="./images/people/rbehara.png">
     <div class="person-name"><a href="https://business.fau.edu/faculty-research/faculty-profiles/profile/rbehara.php">Dr. Ravi Behara</a></div>
     <div class="person-title">SBA Communications Professor, Department of Information Technology and Operations Management</div>
   </div>
-
   <div class="grid-item person-card">
     <img src="./images/people/cooley-headshot.png">
     <div class="person-name"><a href="https://www.fau.edu/sw-cj/ssw/faculty-and-staff/people/cooley/">Dr. Morgan Cooley, LCSW</a></div>
     <div class="person-title">Associated Professor, Sandler School of Social Work</div>
   </div>
-
 
 
 ### Check Also
