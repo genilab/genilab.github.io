@@ -13,7 +13,7 @@ The result has been revised and approved by a human.
 ###
 ### THIS IS THE DATA  
 ### Generated from GenI-Lab CONTROL + ChatGPT Script  
-###     ChatGPT = 🤖
+###     ChatGPT = https://chatgpt.com/share/68715a9b-90dc-8002-b506-96798f5de037
 """
 
 
