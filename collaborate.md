@@ -3,6 +3,8 @@
 
 Thank you for your interest in collaborating with our lab!
 
+We strive to bring together like-minded innovators and Multi-Disciplinary research groups to make our work meaningful for the society!
+
 You can join us in one of the following capacities:
 
 * [Research Collaborators](#research-collaborators)
@@ -14,10 +16,20 @@ You can join us in one of the following capacities:
 * [Contributor](./contribute.md)
 
 
+> Note: please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interests and the project you'd like to develop with us.
+
+
+### Project Ideas
+
+* [BlueSky Ideas](https://padlet.com/generativeintelligencelab/ideas): these are less technical projects developed in collaboration with multidisciplinary researchers. Ideal for creative thinkers and those interested in broader social, philosophical, or artistic implications of Generative Intelligence.
+
+* [Use Case Compendium](xxx): provides a practical catalog of real-world use cases aimed at guiding applied exercises and lightweight experiments. These are suitable for people looking to understand or demonstrate the value of generative systems in business or everyday settings.
+
+* [Research Project Ideas](xxx): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. For those interested in foundational research, algorithmic innovation, or system-level thinking.
+
 
 ### Research Collaborators
 
-We need to bring together like-minded innovators and Multi-Disciplinary research groups to make our work meaningful for the society!
 
 For that, we seek to engage with Research Collaborators from other Department in our Research Community that can contribute with one or more of the following:
 
@@ -27,24 +39,22 @@ For that, we seek to engage with Research Collaborators from other Department in
 * Promote Publications, always important to showcase our interests and capabilities.
 
 
-
 ### Industry Partners
 
-We need to make our research and development relevant to the industry, so it will have true impact!
-
-In practical terms, we seek to collaborate with Industry Partners that can help with:
+We seek to collaborate with Industry Partners that can help with:
 
 * Create Industry-relevant Use Cases.
 * Ideas for Industry-Relevant Prototypes applying our Research resources for fast prototyping.
 * Joint Grant Applications.
 
 
-
 ### Postdoctoral Researchers
 
 > Note: We DO NOT have financial support available at the moment.
 
-We are continuously looking into financial support to be able to create PostDoc opportunities. If you would like to put together a proposal, we are more than happy to support.
+We are continuously looking into financial support to be able to create PostDoc opportunities. 
+
+If you would like to put together a proposal, we are more than happy to support.
 
 
 ### PhD Students
@@ -57,7 +67,6 @@ We are open to:
 * Supervising PhD research.
 * Providing mentorship and advisory.
 
-
 If you are interested, please reach out proving:
 * Title 
 * Abstract
@@ -65,9 +74,7 @@ If you are interested, please reach out proving:
 * Why is this question relevant?
 * How are you planning to answer it?
 
-For more information:
-1. Read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
-2. Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/), providing an idea for your [Topics of Interest](./projects.md#topics-of-interest) and project.
+> Note: please read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
 
 
 ### Masters Researcher
@@ -80,11 +87,8 @@ We are open to:
 * Guidance for Structuring Projects around Multi-disciplinary Research agendas.
 * Help to find a Multi-disciplinary Research Collaborator.
 
-For more information:
-1. Read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
-2. Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/), providing an idea for your [Topics of Interest](./projects.md#topics-of-interest) and project (see format above)
+> Note: please read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
 
-Note: If you are already a registered Master Student at FAU, one way to (voluntarily) participating is by engaging in a Multi-disciplinary Research Project. 
 
 ### Undergraduate Researcher
 
@@ -95,8 +99,6 @@ We are open to:
 * Provide Mentorship and Advisory.
 * Guidance for Structuring Projects around Multi-disciplinary Research agendas.
 
-For more information:
-* Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/).
 
 
 ### Check Also
