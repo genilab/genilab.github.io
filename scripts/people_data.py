@@ -19,7 +19,7 @@ The result has been revised and approved by a human.
 
 
 
-# ===  People Groups ===
+# ===  LAB MEMBERS ===
 
 lab_members = [
     {
@@ -101,6 +101,8 @@ lab_members = [
     }
 ]
 
+# === COLLABORATORS ===
+
 research_advisor_board = [
     {
         "name": "Dr. Borko Furht",
@@ -115,6 +117,13 @@ research_advisor_board = [
         "link": "https://www.fau.edu/medicine/directory/maria-mejia/",
         "title": "Professor of Population Health and Social Medicine",
         "department": "Department: Population Health, Schmidt College of Medicine"
+    },
+    {
+        "name": "Dr. Kevin Cox, MBA",
+        "picture": "kcox24-headshot.png",
+        "link": "https://business.fau.edu/faculty-research/faculty-profiles/profile/kcox24.php",
+        "title": "Senior Instructor & Director",
+        "department": "Adams Center for Entrepreneurship, College of Business"
     }
 ]
 
@@ -132,6 +141,27 @@ research_collaborator = [
         "link": "https://www.fau.edu/sw-cj/ssw/faculty-and-staff/people/cooley/",
         "title": "Associated Professor",
         "department": "Sandler School of Social Work"
+    },
+    {
+        "name": "Dr. Milad Baghersad",
+        "picture": "mbaghersad-headshot.png",
+        "link": "https://www.linkedin.com/in/miladbaghersad/",
+        "title": "Associate Professor",
+        "department": "Department of Information Technology and Operations Management"
+    },
+    {
+        "name": "Dr. Sven Thijssen",
+        "picture": "sthijssen-headshot.png",
+        "link": "https://www.fau.edu/engineering/directory/faculty/thijssen/",
+        "title": "Assistant Professor",
+        "department": "Department of Electrical Engineering and Computer Science"
+    },
+    {
+        "name": "Dr. Hannah Bowers Parker, LMFT",
+        "picture": "bowersp-headshot.jpg",
+        "link": "https://www.linkedin.com/in/hannah-bowers-parker-ph-d-lmft-029645121/",
+        "title": "Associate Professor",
+        "department": "Department of Counselor Education and Supervision"
     }
 ]
 
@@ -159,7 +189,6 @@ industry_collaborator = [
     }
 ]
 
-
 # === Catalog of People Groups ===
 
 catalog = [
@@ -168,3 +197,11 @@ catalog = [
     ("Industry Advisor Board", industry_collaborator),
     ("Research Collaborators", research_collaborator)
 ]
+
+
+##
+## ENTRY POINT
+##
+if __name__ == "__main__":
+    import people
+    people.main()

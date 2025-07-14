@@ -109,7 +109,10 @@ def main():
 
     print("✅ ./people.md generated successfully.")
 
-# === Entry Point ===
+
+##
+## ENTRY POINT
+##
 
 if __name__ == "__main__":
     main()
