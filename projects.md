@@ -53,14 +53,17 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 | **Smarter Retail & Commerce** | Businesses are using generative tools to tailor customer experiences, create dynamic marketing content, and simulate consumer behavior, enabling more predictive, engaging, and responsive commerce. |
 | | | 
 
-### Ideas Log
-
-We keep open repositories of project ideas that our 
+We keep an updated [list of Project Ideas at COLLABORATE](./collaborate.md).
 
 ### Check Also
 
+* [Topics of Interest](./projects.md#topics-of-interest)
 * [Tutorials](./knowledge.md#tutorials)
 * [Education](./knowledge.md#education)
 * [Publications](./knowledge.md#publications)
+* [Collaborate](./collaborate.md)
 * [Team](./people.html)
+
+
+ 
 

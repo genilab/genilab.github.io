@@ -18,14 +18,14 @@ You can join us in one of the following capacities:
 
 > Note: please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interests and the project you'd like to develop with us.
 
-<!--
 ### Project Ideas
 
 * [BlueSky Ideas](https://padlet.com/generativeintelligencelab/ideas): these are less technical projects developed in collaboration with multidisciplinary researchers. Ideal for creative thinkers and those interested in broader social, philosophical, or artistic implications of Generative Intelligence.
 
-* [Use Case Compendium](xxx): provides a practical catalog of real-world use cases aimed at guiding applied exercises and lightweight experiments. These are suitable for people looking to understand or demonstrate the value of generative systems in business or everyday settings.
+* [Use Case Compendium](http://bit.ly/genilab-compendium): provides a practical catalog of real-world use cases aimed at guiding applied exercises and lightweight experiments. These are suitable for people looking to understand or demonstrate the value of generative systems in business or everyday settings.
 
-* [Research Project Ideas](xxx): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. For those interested in foundational research, algorithmic innovation, or system-level thinking.
+<!--
+* [Research Ideas](xxx): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. For those interested in foundational research, algorithmic innovation, or system-level thinking.
 -->
 
 ### Research Collaborators
