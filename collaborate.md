@@ -67,7 +67,7 @@ If you are interested, please reach out proving:
 
 For more information:
 1. Read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
-2. Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/), providing an idea for your topic of interest (see above).
+2. Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/), providing an idea for your [Topics of Interest](./projects.md#topics-of-interest) and project.
 
 
 ### Masters Researcher
@@ -78,14 +78,13 @@ We are open to:
 * Supervise Master Research.
 * Provide Mentorship and Advisory.
 * Guidance for Structuring Projects around Multi-disciplinary Research agendas.
-* Help to find a Multi-disciplinary Research Collaborator
-
-Note: If you are already a registered Master Student at FAU, one way to (voluntarily) participating is by engaging in a Multi-disciplinary Research Project. 
+* Help to find a Multi-disciplinary Research Collaborator.
 
 For more information:
 1. Read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
-2. Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/), providing an idea for your topic of interest (see above).
+2. Contact [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/), providing an idea for your [Topics of Interest](./projects.md#topics-of-interest) and project (see format above)
 
+Note: If you are already a registered Master Student at FAU, one way to (voluntarily) participating is by engaging in a Multi-disciplinary Research Project. 
 
 ### Undergraduate Researcher
 

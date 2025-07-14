@@ -6,14 +6,6 @@ We'd love to have your contributions to our code!
 
 Our [Research Resources](./projects.md#resources) are community projects that aims to provide frameworks for Education and Experimentation with Generative Intelligence System. If you are trying our tools on your projects and think there are missing features, potential enhancements, or bugs that need to be fixed, then we need your help!
 
-
-| | | 
-| :-: | :- | 
-| ![](./images/docs/owlmind-icon.png) | [**Owlmind**](https://github.com/genilab-fau/owlmind) <br/> Framework for Experimentation and Education with Generative Intelligent Systems. <br/> [issue tracker](https://github.com/genilab-fau/owlmind/issues) |
-| ![](./images/docs/prompt-icon.png) | [**Prompt Engineering Lab**](https://github.com/genilab-fau/prompt-eng) <br/> Experimentation with Prompt Engineering techniques. | 
- 
-
-
 ### Guidelines
 
 We use the usual GitHub pull-request flow, which may be familiar to you if you've contributed to other projects on GitHub. For the mechanics,

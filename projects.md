@@ -42,19 +42,20 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 
 ### Topics of Interest 
 
-
 | | |
 | :- | :- |
-| **Smarter Health Systems** | Leveraging Generative Intelligence Systems for personalized care planning, medical image synthesis, predictive diagnostics, and autonomous support systems — expanding access and enhancing decision-making in health services. |
-| **Smarter Control Systems** | Applying Generative Intelligence Systems to develop better Control Systems able to model environmental, generate intervention strategies, and support distributed collaboration.
-| **Smarter Traffic Systems** | Applying Generative Intelligence Systems to generate real-time traffic strategies, predict multimodal transport needs, and coordinate autonomous agents — reducing congestion and emissions through context-aware, adaptive mobility ecosystems. |
-| **Smarter Education** | Using Generative Intelligence Systems to co-create personalized learning paths, adaptive curricula, and intelligent tutoring systems that respond creatively to individual learning styles and educational goals. |
-| **Smarter Government** | Designing Generative Intelligence Systems that can co-create public policies, model complex social dynamics, and support deliberative governance — enabling transparent, responsive, and participatory civic systems. Other topics of interest include: simulate policy outcomes, generate adaptive regulations, and co-create strategies with stakeholders — enabling more responsive, inclusive, and evidence-driven institutions.
-| **Smarter Energy Systems** | Integrating Generative Intelligence Systems to dynamically model energy demand, optimize renewable integration, and coordinate distributed energy agents — creating an intelligent, adaptive, and carbon-aware power grid. |
-| **Smarter Retail & Commerce** | Applying Generative Intelligence Systems to generate hyper-personalized experiences, co-create marketing content, and simulate customer behavior — transforming how businesses engage, predict, and adapt to consumer needs. |
-| | | |
+| **Smarter Health Systems** | Generative intelligence is helping shape more personalized care plans, produce synthetic medical images, support diagnostics, and enable autonomous assistance—making healthcare more accessible and informed. |
+| **Smarter Control Systems** | These systems are being used to model environments more accurately, design effective interventions, and support collaboration across distributed teams. |
+| **Smarter Traffic Systems** | Generative tools can help manage traffic in real time, forecast transportation needs across different modes, and coordinate autonomous vehicles—reducing congestion and emissions through smarter mobility. |
+| **Smarter Education** | Generative systems can co-design personalized learning experiences, adapt curricula in real time, and power tutoring tools that respond to individual learning styles and goals. |
+| **Smarter Government** | These systems can support public policy design, simulate complex social dynamics, and enhance civic participation. They also help model policy outcomes, develop adaptive regulations, and involve communities in decision-making—leading to more inclusive and data-informed institutions. |
+| **Smarter Energy Systems** | Generative intelligence can help balance energy supply and demand, support renewable integration, and coordinate distributed energy sources—making power grids more flexible and environmentally aware. |
+| **Smarter Retail & Commerce** | Businesses are using generative tools to tailor customer experiences, create dynamic marketing content, and simulate consumer behavior—enabling more predictive, engaging, and responsive commerce. |
+| | | 
 
+### Ideas Log
 
+We keep open repositories of project ideas that our 
 
 ### Check Also
 
