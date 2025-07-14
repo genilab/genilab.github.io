@@ -113,6 +113,8 @@ def main():
 ##
 ## ENTRY POINT
 ##
-
 if __name__ == "__main__":
+    import headshots
+    headshots.main()
+    print()
     main()

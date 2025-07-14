@@ -203,5 +203,8 @@ catalog = [
 ## ENTRY POINT
 ##
 if __name__ == "__main__":
+    import headshots
     import people
+    headshots.main()
+    print()
     people.main()
