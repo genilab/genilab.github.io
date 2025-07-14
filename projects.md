@@ -59,9 +59,8 @@ We keep open repositories of project ideas that our
 
 ### Check Also
 
-* [Topics of Interest](./projects.md#topics-of-interest)
 * [Tutorials](./knowledge.md#tutorials)
 * [Education](./knowledge.md#education)
 * [Publications](./knowledge.md#publications)
-* [Collaborate](./collaborate.md)
 * [Team](./people.html)
+
