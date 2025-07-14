@@ -42,6 +42,8 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 
 ### Topics of Interest 
 
+We keep an updated [list of Project Ideas at COLLABORATE](./collaborate.md).
+
 | | |
 | :- | :- |
 | **Smarter Health Systems** | Generative intelligence is helping shape more personalized care plans, produce synthetic medical images, support diagnostics, and enable autonomous assistance, making healthcare more accessible and informed. |
@@ -53,7 +55,6 @@ We actively promote use cases aligned with real-world needs by applying our [Res
 | **Smarter Retail & Commerce** | Businesses are using generative tools to tailor customer experiences, create dynamic marketing content, and simulate consumer behavior, enabling more predictive, engaging, and responsive commerce. |
 | | | 
 
-We keep an updated [list of Project Ideas at COLLABORATE](./collaborate.md).
 
 ### Check Also
 
