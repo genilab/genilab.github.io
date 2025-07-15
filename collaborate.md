@@ -15,7 +15,7 @@ You can join us in one of the following capacities:
 * [Contributor](./contribute.md)
 
 
-> Note: please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interests and the project you'd like to develop with us.
+Please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interests and the project you'd like to develop with us.
 
 ### Project Ideas
 
@@ -25,7 +25,11 @@ You can join us in one of the following capacities:
 
 * [Scientific Research Projects](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. For those interested in foundational research, algorithmic innovation, or system-level thinking.
 
+<br/>
+<br/>
 ---
+<br/>
+<br/>
 
 ### Research Collaborators
 
@@ -45,7 +49,11 @@ We seek to collaborate with Industry Partners that can help with:
 * Ideas for Industry-Relevant Prototypes applying our Research resources for fast prototyping.
 * Joint Grant Applications.
 
+<br/>
+<br/>
 ---
+<br/>
+<br/>
 
 ### PhD Students
 
@@ -63,7 +71,9 @@ When you reach out, please provide a preliminary view about (see [examples](http
 * Challenge
 * Illustrative Application
 
-> Note: please read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
+Fill out the [Expression of Interest (Master's & PhDs)](https://forms.gle/eY8FQmdfyytD3Hjq9) to participate in our Lab.
+
+Note: please read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
 
 
 ### Masters Researcher
@@ -76,7 +86,9 @@ We are open to:
 * Guidance for Structuring Projects around Multi-disciplinary Research agendas.
 * Help to find a Multi-disciplinary Research Collaborator.
 
-> Note: please read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
+Fill out the [Expression of Interest (Master's & PhDs)](https://forms.gle/eY8FQmdfyytD3Hjq9) to participate in our Lab.
+
+Note: please read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
 
 
 ### Undergraduate Researcher
@@ -89,7 +101,11 @@ We are open to:
 * Guidance for Structuring Projects around Multi-disciplinary Research agendas.
 
 
-
+<br/>
+<br/>
+---
+<br/>
+<br/>
 ### Check Also
 
 * [Topics of Interest](./projects.md#topics-of-interest)
