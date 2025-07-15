@@ -15,7 +15,6 @@ You can join us in one of the following capacities:
 * [Contributor](./contribute.md)
 
 
-Please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interests and the project you'd like to develop with us.
 
 ### Project Ideas
 
@@ -40,6 +39,13 @@ For that, we seek to engage with Research Collaborators from other Department in
 * Create Use Cases, specially around multi-disciplinary research.
 * Promote Publications, always important to showcase our interests and capabilities.
 
+Please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interests and the project you'd like to develop with us.
+
+<br/>
+<br/>
+---
+<br/>
+<br/>
 
 ### Industry Partners
 
@@ -48,6 +54,9 @@ We seek to collaborate with Industry Partners that can help with:
 * Create Industry-relevant Use Cases.
 * Ideas for Industry-Relevant Prototypes applying our Research resources for fast prototyping.
 * Joint Grant Applications.
+
+
+Please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interests and the project you'd like to develop with us.
 
 <br/>
 <br/>
