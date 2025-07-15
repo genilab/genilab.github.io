@@ -24,9 +24,7 @@ You can join us in one of the following capacities:
 
 * [Use Case Compendium](http://bit.ly/genilab-compendium): provides a practical catalog of real-world use cases aimed at guiding applied exercises and lightweight experiments. These are suitable for people looking to understand or demonstrate the value of generative systems in business or everyday settings.
 
-<!--
-* [Research Ideas](xxx): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. For those interested in foundational research, algorithmic innovation, or system-level thinking.
--->
+* [Scientific Research Projects](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. For those interested in foundational research, algorithmic innovation, or system-level thinking.
 
 ### Research Collaborators
 
