@@ -9,7 +9,6 @@ You can join us in one of the following capacities:
 
 * [Research Collaborators](#research-collaborators)
 * [Industry Partner](#industry-partner)
-* [Postdoc Researchers](#postdoctoral-researchers)
 * [Ph.D. Students](#phd-students)
 * [Master Researcher](#master-researcher)
 * [Undergraduate Researcher](#undergradute-researcher)
@@ -26,8 +25,9 @@ You can join us in one of the following capacities:
 
 * [Scientific Research Projects](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. For those interested in foundational research, algorithmic innovation, or system-level thinking.
 
-### Research Collaborators
+---
 
+### Research Collaborators
 
 For that, we seek to engage with Research Collaborators from other Department in our Research Community that can contribute with one or more of the following:
 
@@ -45,15 +45,7 @@ We seek to collaborate with Industry Partners that can help with:
 * Ideas for Industry-Relevant Prototypes applying our Research resources for fast prototyping.
 * Joint Grant Applications.
 
-
-### Postdoctoral Researchers
-
-> Note: We DO NOT have financial support available at the moment.
-
-We are continuously looking into financial support to be able to create PostDoc opportunities. 
-
-If you would like to put together a proposal, we are more than happy to support.
-
+---
 
 ### PhD Students
 
