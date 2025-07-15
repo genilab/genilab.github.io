@@ -65,12 +65,11 @@ We are open to:
 * Supervising PhD research.
 * Providing mentorship and advisory.
 
-If you are interested, please reach out proving:
+When you reach out, please provide a preliminary view about (see [examples](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing)):
 * Title 
-* Abstract
 * Intriguing Research Question
-* Why is this question relevant?
-* How are you planning to answer it?
+* Challenge
+* Illustrative Application
 
 > Note: please read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
 
