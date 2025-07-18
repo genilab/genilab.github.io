@@ -26,7 +26,9 @@ You can join us in one of the following capacities:
 
 <br/>
 <br/>
+
 ---
+
 <br/>
 <br/>
 
@@ -43,7 +45,9 @@ Please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty
 
 <br/>
 <br/>
+
 ---
+
 <br/>
 <br/>
 
@@ -60,7 +64,9 @@ Please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty
 
 <br/>
 <br/>
+
 ---
+
 <br/>
 <br/>
 
@@ -110,11 +116,7 @@ We are open to:
 * Guidance for Structuring Projects around Multi-disciplinary Research agendas.
 
 
-<br/>
-<br/>
----
-<br/>
-<br/>
+
 ### Check Also
 
 * [Topics of Interest](./projects.md#topics-of-interest)
