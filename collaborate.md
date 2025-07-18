@@ -18,7 +18,7 @@ You can join us in one of the following capacities:
 
 ### Project Ideas
 
-* [BlueSky Ideas](https://padlet.com/generativeintelligencelab/ideas): these are less technical projects developed in collaboration with multidisciplinary researchers. Ideal for creative thinkers and those interested in broader social, philosophical, or artistic implications of Generative Intelligence.
+* [Project Ideas](https://padlet.com/generativeintelligencelab/ideas): these are ideas being developed  in collaboration with multidisciplinary researchers. Ideal for creative thinkers and those interested in broader social, philosophical, or artistic implications of Generative Intelligence.
 
 * [Use Case Compendium](http://bit.ly/genilab-compendium): provides a practical catalog of real-world use cases aimed at guiding applied exercises and lightweight experiments. These are suitable for people looking to understand or demonstrate the value of generative systems in business or everyday settings.
 
