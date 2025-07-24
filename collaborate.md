@@ -3,9 +3,9 @@
 
 Thank you for your interest in collaborating with our lab!
 
-We strive to bring together like-minded innovators and Multi-Disciplinary research groups to make our work meaningful for the society!
+We strive to bring together like-minded innovators and Multi-Disciplinary research groups.
 
-You can join us in one of the following capacities:
+You can collaborate with the Lab in one of the following capacities:
 
 * [Research Collaborators](#research-collaborators)
 * [Industry Partner](#industry-partner)
@@ -15,14 +15,27 @@ You can join us in one of the following capacities:
 * [Contributor](./contribute.md)
 
 
+Note: Master's and PhD students should (i) check the 'conditions' below and (ii) complete the [Expression of Interest Form (Master's & PhDs)](https://forms.gle/eY8FQmdfyytD3Hjq9).
+
+
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
+
 
 ### Project Ideas
 
 * [Project Ideas](https://padlet.com/generativeintelligencelab/ideas): these are ideas being developed  in collaboration with multidisciplinary researchers. Ideal for creative thinkers and those interested in broader social, philosophical, or artistic implications of Generative Intelligence.
 
-* [Use Case Compendium](http://bit.ly/genilab-compendium): provides a practical catalog of real-world use cases aimed at guiding applied exercises and lightweight experiments. These are suitable for people looking to understand or demonstrate the value of generative systems in business or everyday settings.
+* [Ideas for Scientific Research Projects](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. For those interested in foundational research, algorithmic innovation, or system-level thinking.
 
-* [Scientific Research Projects](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. For those interested in foundational research, algorithmic innovation, or system-level thinking.
+* [Ideas for Industry-related Use Cases](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): provides a practical catalog of real-world use cases aimed at guiding applied exercises and lightweight experiments. These are suitable for people looking to understand or demonstrate the value of generative systems in business or everyday settings.
+
 
 <br/>
 <br/>
@@ -41,7 +54,8 @@ For that, we seek to engage with Research Collaborators from other Department in
 * Create Use Cases, specially around multi-disciplinary research.
 * Promote Publications, always important to showcase our interests and capabilities.
 
-Please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interests and the project you'd like to develop with us.
+What must I do?
+* Reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interest.
 
 <br/>
 <br/>
@@ -55,12 +69,22 @@ Please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty
 
 We seek to collaborate with Industry Partners that can help with:
 
+* Bring in your technology as a Research Resource for experimentation.
+* Develop experiments to generate datasets of relevant research data. 
 * Create Industry-relevant Use Cases.
-* Ideas for Industry-Relevant Prototypes applying our Research resources for fast prototyping.
 * Joint Grant Applications.
 
+What must I do?
+1. Reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interest.
+1. If you already have a project in mind, compile a preliminary proposal (1-pager) including:
+    * Title 
+    * Challenge
+    * Strategy (*)
 
-Please reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interests and the project you'd like to develop with us.
+Where for 'Strategy':
+* What do we have to put together? 
+* Are you bringing in your technology? 
+* Are we developing experiments?
 
 <br/>
 <br/>
@@ -80,15 +104,16 @@ We are open to:
 * Supervising PhD research.
 * Providing mentorship and advisory.
 
-When you reach out, please provide a preliminary view about (see [examples](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing)):
-* Title 
-* Intriguing Research Question
-* Challenge
-* Illustrative Application
-
-Fill out the [Expression of Interest (Master's & PhDs)](https://forms.gle/eY8FQmdfyytD3Hjq9) to participate in our Lab.
-
-Note: please read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
+What must I do?
+1. Read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
+1. Complete the [Expression of Interest Form (Master's & PhDs)](https://forms.gle/eY8FQmdfyytD3Hjq9).
+1. If you already have a topic in mind, compile a preliminary proposal (1-pager) including:
+    * Title 
+    * Intriguing Research Question
+    * Challenge
+    * Illustrative Application
+    * (see [examples](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing))
+1. Send this proposal in a note to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/)
 
 
 ### Masters Researcher
@@ -101,9 +126,9 @@ We are open to:
 * Guidance for Structuring Projects around Multi-disciplinary Research agendas.
 * Help to find a Multi-disciplinary Research Collaborator.
 
-Fill out the [Expression of Interest (Master's & PhDs)](https://forms.gle/eY8FQmdfyytD3Hjq9) to participate in our Lab.
-
-Note: please read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
+What must I do?
+1. Read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
+1. Complete the [Expression of Interest (Master's & PhDs)](https://forms.gle/eY8FQmdfyytD3Hjq9).
 
 
 ### Undergraduate Researcher
@@ -115,7 +140,9 @@ We are open to:
 * Provide Mentorship and Advisory.
 * Guidance for Structuring Projects around Multi-disciplinary Research agendas.
 
-
+What must I do?
+1. Read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
+2. Reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interest.
 
 ### Check Also
 
