@@ -132,7 +132,7 @@
 <!-- Industry Advisor Board :: END -->
 
 
-## Research Collaborators
+## FAU Research Collaborators
 
 <!-- Research Collaborators :: BEGIN -->
 <div class="grid-container" data-columns="3">
@@ -169,6 +169,19 @@
 
 </div>
 <!-- Research Collaborators :: END -->
+
+
+
+## External Research Collaborators
+
+<div class="grid-container" data-columns="3">
+
+  <div class="grid-item person-card">
+    <img src="./images/people/adjuhera-headshot.png">
+    <div class="person-name"><a href="https://www.linkedin.com/in/aladindjuhera">Aladin Djuhera</a></div>
+    <div class="person-title">PhD candidate at Technical University Munich, Germany</div>
+  </div>
+</div>
 
 
 ### Check Also
