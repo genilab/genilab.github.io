@@ -1,4 +1,4 @@
-![GenI-Lab Banner](./images/icons/genilab-banner.png)
+![GenI-Lab Banner](http://generativeintelligencelab.ai/images/icons/genilab-banner.png)
 
 ### We are thinkers and builders of Generative Intelligence Systems!
 
@@ -25,20 +25,20 @@ We operate between a *Think Tank* and a *Development Studio* in multi-disciplina
 <main>
 <div class="logo-tape-wrapper" data-logo-size="45">
   <a href="https://www.fau.edu/medicine/">
-    <img src="../images/logos/fau-som.png" alt="FAU Medicine" />
+    <img src="http://generativeintelligencelab.ai/images/logos/fau-som.png" alt="FAU Medicine" />
   </a>
   <a href="https://www.fau.edu/education/">
     <img src="../images/logos/fau-coe.png" alt="FAU Education" />
-
-   <a href="https://www.aikolo.com">
-     <img src="../images/logos/aikolo.png" alt="Aikolo" />
-   </a>
-   <a href="https://gamepill.com">
-     <img src="../images/logos/gamepill.png" alt="Gamepill" />
-   </a>
-   <a href="https://www.kinnami.com">
-     <img src="../images/logos/kinammi.png" alt="Kinnami" />
-   </a>
+  </a>
+  <a href="https://www.aikolo.com">
+    <img src="http://generativeintelligencelab.ai/images/logos/aikolo.png" alt="Aikolo" />
+  </a>
+  <a href="https://gamepill.com">
+    <img src="http://generativeintelligencelab.ai/images/logos/gamepill.png" alt="Gamepill" />
+  </a>
+  <a href="https://www.kinnami.com">
+    <img src="http://generativeintelligencelab.ai/images/logos/kinammi.png" alt="Kinnami" />
+  </a>
 </div>
 </main>
 
