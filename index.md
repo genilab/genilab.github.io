@@ -4,11 +4,6 @@
 
 The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the ideation, design, and deployment of research-driven Generative Intelligence Systems for our research community and industry partners.
 
-<div class="cta-buttons">
-<a href="./projects.html" class="cta-button">Bring in Ideas</a>
-<a href="./collaborate.html" class="cta-button">Join Us</a>
-</div>
-
 We operate between a *Think Tank* and a *Development Studio* in multi-disciplinary research projects. 
 
 We can quickly prototype solutions like:
@@ -20,9 +15,14 @@ We can quickly prototype solutions like:
 * *Multi-user Interactions*, supporting GenAI-powered experiments with Collective Intelligence
 (and more)
 
+<div class="cta-buttons">
+<a href="./projects.html" class="cta-button">Bring in Ideas</a>
+<a href="./collaborate.html" class="cta-button">Join Us</a>
+</div>
+
 
 <main>
-<h3>Academic Partners</h3>
+<h3>Our Partners</h3>
 <div class="logo-tape-wrapper" data-logo-size="70">
   <a href="https://www.fau.edu/medicine/">
     <img src="../images/logos/fau-som.png" alt="FAU Medicine" />
@@ -33,7 +33,6 @@ We can quickly prototype solutions like:
 </div>
 
 
-<h3>Industry Partners</h3>
 <div class="logo-tape-wrapper" data-logo-size="40">
    <a href="https://www.aikolo.com">
      <img src="../images/logos/aikolo.png" alt="Aikolo" />
