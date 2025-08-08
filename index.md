@@ -36,11 +36,11 @@ We operate between a *Think Tank* and a *Development Studio* in multi-disciplina
   <a href="https://www.aikolo.com">
     <img src="http://generativeintelligencelab.ai/images/logos/aikolo.png" alt="Aikolo" />
   </a>
-  <a href="https://gamepill.com">
-    <img src="http://generativeintelligencelab.ai/images/logos/gamepill.png" alt="Gamepill" />
-  </a>
   <a href="https://www.kinnami.com">
     <img src="http://generativeintelligencelab.ai/images/logos/kinammi.png" alt="Kinnami" />
+  </a>
+  <a href="https://gamepill.com">
+    <img src="http://generativeintelligencelab.ai/images/logos/gamepill.png" alt="Gamepill" />
   </a>
 </div>
 </main>
