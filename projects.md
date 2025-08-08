@@ -1,4 +1,4 @@
-![GenI-Lab Banner](./images/genilab-banner.png)
+![GenI-Lab Banner](./images/icons/genilab-banner.png)
 
 
 
@@ -22,13 +22,13 @@
 
 <div class="grid-container" data-columns="3">
     <div class="grid-item">
-      <img src="./images/owlmind-icon.png"  alt="Owlmind Icon" />
+      <img src="./images/icons/owlmind-icon.png"  alt="Owlmind Icon" />
       <a href="https://github.com/genilab/owlmind"><strong>Owlmind</strong></a>
       <p>Framework for Generative Intelligent Systems.<br />
       Bots + Prompts + Pipelines + Models = Fast Prototypes</p>
     </div>
     <div class="grid-item">
-      <img src="./images/chatfau-icon.png" alt="ChatFAU Icon" />
+      <img src="./images/icons/chatfau-icon.png" alt="ChatFAU Icon" />
       <a href="https://chat.hpc.fau.edu"><strong>ChatFAU</strong></a>
       <p>
         Intelligent chat Interface based on 

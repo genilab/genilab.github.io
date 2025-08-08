@@ -138,6 +138,43 @@ a:hover {
 }
 
 
+/* === Base Logo Tape Style === */
+.logo-tape-wrapper {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+      padding: 20px 10px;
+      max-width: 1000px;
+      margin: 0 auto;
+}
+
+.logo-tape-wrapper img {
+      height: var(--logo-height, 60px); /* fallback value */
+      width: auto;
+      filter: grayscale(100%);
+      transition: filter 0.3s ease, transform 0.3s ease;
+  }
+
+.logo-tape-wrapper img:hover {
+      filter: grayscale(0%);
+      transform: scale(1.05);
+}
+
+/* === Per-container Logo Size using data attributes === */
+.logo-tape-wrapper[data-logo-size="40"] img { --logo-height: 40px; }
+.logo-tape-wrapper[data-logo-size="50"] img { --logo-height: 50px; }
+.logo-tape-wrapper[data-logo-size="60"] img { --logo-height: 60px; }
+.logo-tape-wrapper[data-logo-size="70"] img { --logo-height: 70px; }
+.logo-tape-wrapper[data-logo-size="80"] img { --logo-height: 80px; }
+
+@media screen and (max-width: 500px) {
+      .logo-tape-wrapper {
+        gap: 20px;
+      }
+}
+
+
 /* === Call-to-Action Buttons === */
 .cta-buttons {
     display: flex;

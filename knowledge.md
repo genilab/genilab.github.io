@@ -1,4 +1,4 @@
-![GenI-Lab Banner](./images/genilab-banner.png)
+![GenI-Lab Banner](./images/icons/genilab-banner.png)
 
 
 ### Tutorials

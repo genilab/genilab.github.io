@@ -28,6 +28,33 @@ We promote regular Tutorials and Education courses to help you make the best of 
 <br/>
 <br/>
 
+ <main>
+    <h2>Academic Partners</h2>
+    <div class="logo-tape-wrapper" data-logo-size="70">
+      <a href="https://www.fau.edu/medicine/">
+        <img src="http://generativeintelligencelab.ai/images/logos/fau-som.png" alt="FAU Medicine" />
+      </a>
+      <a href="https://www.fau.edu/education/">
+        <img src="http://generativeintelligencelab.ai/images/logos/fau-coe.png" alt="FAU Education" />
+      </a>
+    </div>
+
+    <h2>Industry Partners</h2>
+    <div class="logo-tape-wrapper" data-logo-size="40">
+      <a href="https://www.aikolo.com">
+        <img src="http://generativeintelligencelab.ai/images/logos/aikolo.png" alt="Aikolo" />
+      </a>
+      <a href="https://gamepill.com">
+        <img src="http://generativeintelligencelab.ai/images/logos/gamepill.png" alt="Gamepill" />
+      </a>
+      <a href="https://www.kinnami.com">
+        <img src="http://generativeintelligencelab.ai/images/logos/kinammi.png" alt="Kinnami" />
+      </a>
+    </div>
+  </main>
+
+
+
 ### Check Also
 
 * [Tutorials](./knowledge.md#tutorials)

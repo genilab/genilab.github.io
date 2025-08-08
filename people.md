@@ -1,4 +1,4 @@
-![GenI-Lab Banner](./images/genilab-banner.jpg)
+![GenI-Lab Banner](./images/icons/genilab-banner.jpg)
 
 
 ## Lab Members
@@ -6,67 +6,67 @@
 <div class="grid-container" data-columns="3">
 
   <div class="grid-item person-card">
-    <img src="./images/people/kochf.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/kochf.jpg">
     <div class="person-name"><a href="https://www.fau.edu/engineering/directory/faculty/koch/">Dr. Fernando Koch</a></div>
     <div class="person-title">Research Professor<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/nastudillo2024.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/nastudillo2024.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/natashaastudillo/">Natasha Astudillo</a></div>
     <div class="person-title">Ph.D. CS (candidate)<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/gvivian2022.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/gvivian2022.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/gonvivian/">Gonzalo Vivian</a></div>
     <div class="person-title">Ph.D. CS (candidate)<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/samanthaport2022.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/samanthaport2022.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/samporter-cs/">Sam Porter</a></div>
     <div class="person-title">MBA, B.Sc. CS (student)<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/vegan2023.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/vegan2023.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/nvegamarrero/">Nelson Vega</a></div>
     <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/svizarsuyesh2024.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/svizarsuyesh2024.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/sumedh-vyk/">Sumedh Krishna</a></div>
     <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/agrasssantos2023.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/agrasssantos2023.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/amandagrass">Amanda Grass Santos</a></div>
     <div class="person-title">M.Sc. AI<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/pchokshi2024.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/pchokshi2024.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/preet-chokshi-6b7096233">Preet Chokshi</a></div>
     <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/jsathwara2024.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/jsathwara2024.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/jeel209/">Jeel Sathwara</a></div>
     <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/devenpravink2024.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/devenpravink2024.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/devenpatel0">Deven Patel</a></div>
     <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/rdave2024.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/rdave2024.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/dave-rutvikkumar/">Rutvikkumar Dave</a></div>
     <div class="person-title">M.Sc. DS<br/> Dept EECS, FAU</div>
   </div>

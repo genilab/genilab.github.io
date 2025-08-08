@@ -1,4 +1,4 @@
-![GenI-Lab Banner](./images/genilab-banner.png)
+![GenI-Lab Banner](./images/icons/genilab-banner.png)
 
 The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the ideation, design, and deployment of research-driven Generative Intelligence Systems for our research community and industry partners.
 
