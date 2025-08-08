@@ -28,10 +28,13 @@ We operate between a *Think Tank* and a *Development Studio* in multi-disciplina
 <main>
 <div class="logo-tape-wrapper" data-logo-size="35">
   <a href="https://www.fau.edu/medicine/">
-    <img src="http://generativeintelligencelab.ai/images/logos/fau-som.png" alt="FAU Medicine" />
+    <img src="http://generativeintelligencelab.ai/images/logos/fau-som.png" alt="FAU School of Medicine" />
   </a>
   <a href="https://www.fau.edu/education/">
-    <img src="../images/logos/fau-coe.png" alt="FAU Education" />
+    <img src="http://generativeintelligencelab.ai/images/logos/fau-coe.png" alt="FAU College of Education" />
+  </a>
+    <a href="https://www.fau.edu/business">
+    <img src="http://generativeintelligencelab.ai/images/logos/fau-cob.png" alt="FAU College of Business" />
   </a>
   <a href="https://www.aikolo.com">
     <img src="http://generativeintelligencelab.ai/images/logos/aikolo.png" alt="Aikolo" />
