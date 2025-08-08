@@ -20,8 +20,8 @@ Our lab builds and promotes re-usable *Research Resources* tailored to emerging 
 We promote regular Tutorials and Education courses to help you make the best of Generative Intelligence Systems in your field of work.
 
 <div class="cta-buttons">
-<a href="./projects.md" class="cta-button">Bring in Ideas</a>
-<a href="./collaborate.md" class="cta-button">Join Us</a>
+<a href="./projects.html" class="cta-button">Bring in Ideas</a>
+<a href="./collaborate.html" class="cta-button">Join Us</a>
 </div>
 
 ### Check Also
