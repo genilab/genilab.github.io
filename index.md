@@ -25,9 +25,9 @@ We can quickly prototype solutions like:
 <br/>
 <br/>
 
-### Academic Partners
 
 <main>
+<h3>Academic Partners</h3>
 <div class="logo-tape-wrapper" data-logo-size="70">
   <a href="https://www.fau.edu/medicine/">
     <img src="../images/logos/fau-som.png" alt="FAU Medicine" />
@@ -36,15 +36,10 @@ We can quickly prototype solutions like:
     <img src="../images/logos/fau-coe.png" alt="FAU Education" />
   </a>
 </div>
-</main>
 
-<br/>
-<br/>
 
- ### Industry Partners
-
- <main>
- <div class="logo-tape-wrapper" data-logo-size="40">
+<h3>Industry Partners</h3>
+<div class="logo-tape-wrapper" data-logo-size="40">
    <a href="https://www.aikolo.com">
      <img src="../images/logos/aikolo.png" alt="Aikolo" />
    </a>
@@ -57,10 +52,8 @@ We can quickly prototype solutions like:
 </div>
 </main>
 
-
 <br/>
 <br/>
-
 
 ### Check Also
 
