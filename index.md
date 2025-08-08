@@ -14,10 +14,6 @@ We can quickly prototype solutions like:
 * *Multi-user Interactions*, supporting GenAI-powered experiments with Collective Intelligence
 (and more)
 
-### Advancing open science and the creative economy!
-
-Our lab builds and promotes re-usable *Research Resources* tailored to emerging use cases.
-We promote regular Tutorials and Education courses to help you make the best of Generative Intelligence Systems in your field of work.
 
 <div class="cta-buttons">
 <a href="./projects.html" class="cta-button">Bring in Ideas</a>
@@ -39,6 +35,7 @@ We promote regular Tutorials and Education courses to help you make the best of 
 </main>
 
  ## Industry Partners
+ 
  <main>
  <div class="logo-tape-wrapper" data-logo-size="40">
    <a href="https://www.aikolo.com">
