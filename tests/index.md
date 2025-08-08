@@ -19,10 +19,14 @@ We can quickly prototype solutions like:
 Our lab builds and promotes re-usable *Research Resources* tailored to emerging use cases.
 We promote regular Tutorials and Education courses to help you make the best of Generative Intelligence Systems in your field of work.
 
+<br/>
+<br/>
 <div class="cta-buttons">
-<a href="./projects.md" class="cta-button">Bring in Ideas</a>
-<a href="./collaborate.md" class="cta-button">Join Us</a>
+<a href="/join" class="cta-button">Join Us</a>
+<a href="/ideas" class="cta-button">Bring in Ideas</a>
 </div>
+<br/>
+<br/>
 
 ### Check Also
 
