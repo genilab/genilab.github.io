@@ -13,11 +13,14 @@ We operate between a *Think Tank* and a *Development Studio* in multi-disciplina
 * *Multi-user Interactions*, supporting GenAI-powered experiments with Collective Intelligence
 (and more)
 
+<!---
 <div class="cta-buttons">
 <a href="./projects.html" class="cta-button">Bring in Ideas</a>
 <a href="./collaborate.html" class="cta-button">Join Us</a>
 </div>
+--->
 
+### Our Partners
 
 <main>
 <div class="logo-tape-wrapper" data-logo-size="45">
