@@ -20,19 +20,13 @@ We operate between a *Think Tank* and a *Development Studio* in multi-disciplina
 
 
 <main>
-<br/>
-<br/>
-<div class="logo-tape-wrapper" data-logo-size="70">
+<div class="logo-tape-wrapper" data-logo-size="45">
   <a href="https://www.fau.edu/medicine/">
     <img src="../images/logos/fau-som.png" alt="FAU Medicine" />
   </a>
   <a href="https://www.fau.edu/education/">
     <img src="../images/logos/fau-coe.png" alt="FAU Education" />
-  </a>
-</div>
 
-
-<div class="logo-tape-wrapper" data-logo-size="40">
    <a href="https://www.aikolo.com">
      <img src="../images/logos/aikolo.png" alt="Aikolo" />
    </a>
