@@ -14,14 +14,18 @@ We can quickly prototype solutions like:
 * *Multi-user Interactions*, supporting GenAI-powered experiments with Collective Intelligence
 (and more)
 
+<br/>
+<br/>
 
 <div class="cta-buttons">
 <a href="./projects.html" class="cta-button">Bring in Ideas</a>
 <a href="./collaborate.html" class="cta-button">Join Us</a>
 </div>
 
+<br/>
+<br/>
 
-## Academic Partners
+### Academic Partners
 
 <main>
 <div class="logo-tape-wrapper" data-logo-size="70">
@@ -34,8 +38,11 @@ We can quickly prototype solutions like:
 </div>
 </main>
 
- ## Industry Partners
- 
+<br/>
+<br/>
+
+ ### Industry Partners
+
  <main>
  <div class="logo-tape-wrapper" data-logo-size="40">
    <a href="https://www.aikolo.com">
@@ -49,6 +56,11 @@ We can quickly prototype solutions like:
    </a>
 </div>
 </main>
+
+
+<br/>
+<br/>
+
 
 ### Check Also
 
