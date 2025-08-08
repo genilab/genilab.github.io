@@ -4,9 +4,7 @@
 
 The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the ideation, design, and deployment of research-driven Generative Intelligence Systems for our research community and industry partners.
 
-We operate between a *Think Tank* and a *Development Studio* in multi-disciplinary research projects. 
-
-We can quickly prototype solutions like:
+We operate between a *Think Tank* and a *Development Studio* in multi-disciplinary research projects. We can quickly prototype solutions like:
 
 * *Data analytic* to simplify exploration, understanding, analysis of daasets. 
 * *Chatbots* for personal assistants in diverse fields.
@@ -22,7 +20,8 @@ We can quickly prototype solutions like:
 
 
 <main>
-<h3>Our Partners</h3>
+<br/>
+<br/>
 <div class="logo-tape-wrapper" data-logo-size="70">
   <a href="https://www.fau.edu/medicine/">
     <img src="../images/logos/fau-som.png" alt="FAU Medicine" />
