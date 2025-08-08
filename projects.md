@@ -1,16 +1,22 @@
 ![GenI-Lab Banner](./images/genilab-banner.png)
 
 
-<!--
-## Use Cases
 
-We actively promote use cases aligned with real-world needs by applying our [Research Resources](./projects.md#resources) to fast-track prototyping and innovation. 
+### Ideas
 
-| | | |
-| :-: | :-: | :-: | 
-| ![](./images/docs/use-collective-experiences.png) <br/> [**Collective Experience Systems**]()<br/>Multi-agent environments for <br/>AI-human collaboration.<br/> (submitted) | ![](./images/docs/use-virtual-seller.png) <br/> [**Virtual Seller**]() <br/> Let your customers <br/> talk to your products. <br/> (tbd) | ![](./images/docs/use-right-to-know.png) <br/> [**Right To Know**]() <br/> Learn if your private data is<br/> stored in commercial LLMs. <br/> (tbd) |
+* [Project Ideas](https://padlet.com/generativeintelligencelab/ideas): these are ideas being developed  in collaboration with multidisciplinary researchers. 
 
--->
+* [Ideas for Industry-related Use Cases](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): provides a practical catalog of real-world use cases aimed at guiding applied exercises and lightweight experiments.
+
+* [Ideas for Scientific Research Projects](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. 
+
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
 
 ### Resources
 
@@ -20,12 +26,6 @@ We actively promote use cases aligned with real-world needs by applying our [Res
       <a href="https://github.com/genilab/owlmind"><strong>Owlmind</strong></a>
       <p>Framework for Generative Intelligent Systems.<br />
       Bots + Prompts + Pipelines + Models = Fast Prototypes</p>
-    </div>
-    <div class="grid-item">
-      <img src="./images/prompt-icon.png" alt="Prompt Icon" />
-      <a href="https://github.com/genilab/prompt-eng"><strong>Prompt Engineering Lab</strong></a>
-      <p>Fast prototype with Prompt Engineering techniques.<br />
-      Prompts + Models = Quick Experiments</p>
     </div>
     <div class="grid-item">
       <img src="./images/chatfau-icon.png" alt="ChatFAU Icon" />
@@ -39,10 +39,16 @@ We actively promote use cases aligned with real-world needs by applying our [Res
     </div>
   </div>
 
+<br/>
+<br/>
+
+---
+
+<br/>
+<br/>
 
 ### Topics of Interest 
 
-We keep an updated [list of Project Ideas at COLLABORATE](./collaborate.md).
 
 | | |
 | :- | :- |
@@ -58,13 +64,12 @@ We keep an updated [list of Project Ideas at COLLABORATE](./collaborate.md).
 
 ### Check Also
 
-* [Topics of Interest](./projects.md#topics-of-interest)
 * [Tutorials](./knowledge.md#tutorials)
+* [Projects](./projects.md)
+* [Resources](./projects.md#resources) 
 * [Education](./knowledge.md#education)
 * [Publications](./knowledge.md#publications)
-* [Collaborate](./collaborate.md)
-* [Team](./people.html)
-
+* [Join us](./collaborate.md)
 
  
 

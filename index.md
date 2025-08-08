@@ -21,13 +21,12 @@ We promote regular Tutorials and Education courses to help you make the best of 
 
 ### Check Also
 
-* [Topics of Interest](./projects.md#topics-of-interest)
 * [Tutorials](./knowledge.md#tutorials)
-* [Education](./knowledge.md#education)
 * [Projects](./projects.md)
 * [Resources](./projects.md#resources) 
+* [Education](./knowledge.md#education)
 * [Publications](./knowledge.md#publications)
-* [Collaborate](./collaborate.md)
+* [Join us](./collaborate.md)
 * [Team](./people.html)
 
 
