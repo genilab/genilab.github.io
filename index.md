@@ -20,10 +20,13 @@ We operate between a *Think Tank* and a *Development Studio* in multi-disciplina
 </div>
 --->
 
+<br/>
+<br/>
+
 ### Our Partners
 
 <main>
-<div class="logo-tape-wrapper" data-logo-size="45">
+<div class="logo-tape-wrapper" data-logo-size="40">
   <a href="https://www.fau.edu/medicine/">
     <img src="http://generativeintelligencelab.ai/images/logos/fau-som.png" alt="FAU Medicine" />
   </a>
