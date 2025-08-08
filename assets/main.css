@@ -205,6 +205,10 @@ a:hover {
     text-decoration: none;
 }
 
+.cta-button:visited {
+  color: #fff; /* Override visited link color */
+}
+
 .cta-button:active {
     transform: translateY(0);
     box-shadow: 0 2px 8px rgba(43, 101, 207, 0.2);
