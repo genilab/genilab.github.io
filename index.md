@@ -4,13 +4,13 @@
 
 The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the ideation, design, and deployment of research-driven Generative Intelligence Systems for our research community and industry partners.
 
-We operate between a *Think Tank* and a *Development Studio* in multi-disciplinary research projects. We can quickly prototype solutions like:
+We operate between a Think Tank and a Development Studio in multi-disciplinary research projects. We can quickly prototype solutions like:
 
-* 'Data analytic bots' to simplify exploration, understanding, analysis of daasets. 
-* 'Conversation AI Assistants' for personal support in diverse fields.
-* 'Ask Document bots', allowing natural interaction with non-structure documents. 
-* 'Ask Data bots', supporting personal assistance while exploring large datasets.
-* 'Multi-user Interactions', supporting GenAI-powered experiments with Collective Intelligence
+* Data analytic bots to simplify exploration, understanding, analysis of daasets. 
+* Conversation AI Assistants for personal support in diverse fields.
+* Ask Document bots, allowing natural interaction with non-structure documents. 
+* Ask Data bots, supporting personal assistance while exploring large datasets.
+* Multi-user Interactions, supporting GenAI-powered experiments with Collective Intelligence
 (and more)
 
 <!---
