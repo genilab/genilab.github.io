@@ -150,7 +150,7 @@ a:hover {
 }
 
 .logo-tape-wrapper img {
-      height: var(--logo-height, 60px); /* fallback value */
+      height: var(--logo-height,40px); /* fallback value */
       width: auto;
       filter: grayscale(100%);
       transition: filter 0.3s ease, transform 0.3s ease;
