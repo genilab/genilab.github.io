@@ -13,11 +13,6 @@
 <br/>
 <br/>
 
----
-
-<br/>
-<br/>
-
 ### Resources
 
 <div class="grid-container" data-columns="3">
@@ -39,10 +34,6 @@
     </div>
   </div>
 
-<br/>
-<br/>
-
----
 
 <br/>
 <br/>
