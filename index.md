@@ -37,8 +37,11 @@ We operate between a *Think Tank* and a *Development Studio* in multi-disciplina
     <img src="http://generativeintelligencelab.ai/images/logos/fau-cob.png" alt="FAU College of Business" />
   </a>
   <br/>
+    <a href="https://www.langsmart.ai">
+    <img src="http://generativeintelligencelab.ai/images/logos/langsmart.png" alt="Langsmart" />
+  </a>
   <a href="https://www.aikolo.com">
-    <img src="http://generativeintelligencelab.ai/images/logos/aikolo.png" alt="Aikolo" />
+    <img src="http://generativeintelligencelab.ai/images/logos/aikolo.png" alt="aiKOLO" />
   </a>
   <a href="https://www.kinnami.com">
     <img src="http://generativeintelligencelab.ai/images/logos/kinammi.png" alt="Kinnami" />
