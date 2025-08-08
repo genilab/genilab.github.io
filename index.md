@@ -24,6 +24,35 @@ We promote regular Tutorials and Education courses to help you make the best of 
 <a href="./collaborate.html" class="cta-button">Join Us</a>
 </div>
 
+
+## Academic Partners
+
+<main>
+<div class="logo-tape-wrapper" data-logo-size="70">
+  <a href="https://www.fau.edu/medicine/">
+    <img src="../images/logos/fau-som.png" alt="FAU Medicine" />
+  </a>
+  <a href="https://www.fau.edu/education/">
+    <img src="../images/logos/fau-coe.png" alt="FAU Education" />
+  </a>
+</div>
+</main>
+
+ ## Industry Partners
+ <main>
+ <div class="logo-tape-wrapper" data-logo-size="40">
+   <a href="https://www.aikolo.com">
+     <img src="../images/logos/aikolo.png" alt="Aikolo" />
+   </a>
+   <a href="https://gamepill.com">
+     <img src="../images/logos/gamepill.png" alt="Gamepill" />
+   </a>
+   <a href="https://www.kinnami.com">
+     <img src="../images/logos/kinammi.png" alt="Kinnami" />
+   </a>
+</div>
+</main>
+
 ### Check Also
 
 * [Tutorials](./knowledge.md#tutorials)
