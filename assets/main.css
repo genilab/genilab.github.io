@@ -102,7 +102,7 @@ a {
 }
 
 a:visited {
-  color: #1756a9;
+  color: #000000;
 }
 
 a:hover {
@@ -189,7 +189,7 @@ a:hover {
     padding: 16px 32px;
     font-size: 18px;
     font-weight: 600;
-    color: #fff;
+    color: #ffffff;
     background-color: #2B65CF;
     border: none;
     border-radius: 8px;
@@ -200,13 +200,12 @@ a:hover {
 }
 
 .cta-button:hover {
-    background-color: #1f4fbf;
     transform: translateY(-2px);
     text-decoration: none;
 }
 
 .cta-button:visited {
-  color: #fff; /* Override visited link color */
+  color: #ffffff; 
 }
 
 .cta-button:active {
@@ -368,7 +367,7 @@ pre > code {
 
 .site-title,
 .site-title:visited {
-  color: #424242;
+  color: #000000;
 }
 
 /* Navigation (right aligned) */
