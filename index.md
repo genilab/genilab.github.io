@@ -36,6 +36,7 @@ We operate between a *Think Tank* and a *Development Studio* in multi-disciplina
     <a href="https://www.fau.edu/business">
     <img src="http://generativeintelligencelab.ai/images/logos/fau-cob.png" alt="FAU College of Business" />
   </a>
+  <br/>
   <a href="https://www.aikolo.com">
     <img src="http://generativeintelligencelab.ai/images/logos/aikolo.png" alt="Aikolo" />
   </a>
