@@ -26,7 +26,7 @@ We operate between a Think Tank and a Development Studio in multi-disciplinary r
 ### Our Partners
 
 <main>
-<div class="logo-tape-wrapper" data-logo-size="35">
+<div class="logo-tape-wrapper" data-logo-size="45">
   <a href="https://www.fau.edu/medicine/">
     <img src="http://generativeintelligencelab.ai/images/logos/fau-som.png" alt="FAU School of Medicine" />
   </a>
