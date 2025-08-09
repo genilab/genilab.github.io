@@ -79,19 +79,19 @@
 <div class="grid-container" data-columns="3">
 
   <div class="grid-item person-card">
-    <img src="./images/people/bfurht.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/bfurht.jpg">
     <div class="person-name"><a href="https://www.fau.edu/engineering/directory/faculty/furht/">Dr. Borko Furht</a></div>
     <div class="person-title">Professor and Director of NSF Research Center<br/>Department of Electrical Engineering & Computer Sciences, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/mejiam.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/mejiam.jpg">
     <div class="person-name"><a href="https://www.fau.edu/medicine/directory/maria-mejia/">Dr. Maria Mejia, M.D., M.P.H.</a></div>
     <div class="person-title">Professor of Population Health and Social Medicine<br/>Department: Population Health, Schmidt College of Medicine, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/kcox24.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/kcox24.jpg">
     <div class="person-name"><a href="https://business.fau.edu/faculty-research/faculty-profiles/profile/kcox24.php">Dr. Kevin Cox, MBA</a></div>
     <div class="person-title">Senior Instructor & Director<br/>Adams Center for Entrepreneurship, College of Business, FAU</div>
   </div>
@@ -104,21 +104,27 @@
 <div class="grid-container" data-columns="3">
 
   <div class="grid-item person-card">
-    <img src="./images/people/msorrenti.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/msorrenti.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/mike-sorrenti/?originalSubdomain=ca">Michael Sorrenti</a></div>
     <div class="person-title">President & Founder<br/>Game Pill</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/abinotto.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/abinotto.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/aleciobinotto/?originalSubdomain=de">Dr. Alecio Binotto</a></div>
     <div class="person-title">Digital Technologies Expert<br/>ZEISS Corp</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/bshulzhenko.jpg">
-    <div class="person-name"><a href="https://www.linkedin.com/in/boris-shulzhenko-94706764/">Boris Shulzhenko</a></div>
+    <img src="http://generativeintelligencelab.ai/images/people/bshulzhenko.jpg">
+    <div class="person-name"><a href="https://www.linkedin.com/in/boris-shulzhenko-94706764">Boris Shulzhenko</a></div>
     <div class="person-title">CEO<br/>aiKOLO</div>
+  </div>
+
+  <div class="grid-item person-card">
+    <img src="http://generativeintelligencelab.ai/images/people/cwhiteman.jpg">
+    <div class="person-name"><a href=" https://www.linkedin.com/in/chuckwhiteman/">Charles Whiteman</a></div>
+    <div class="person-title">CEO<br/>Lamatic.ai</div>
   </div>
 
 </div>
@@ -129,31 +135,31 @@
 <div class="grid-container" data-columns="3">
 
   <div class="grid-item person-card">
-    <img src="./images/people/rbehara.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/rbehara.jpg">
     <div class="person-name"><a href="https://business.fau.edu/faculty-research/faculty-profiles/profile/rbehara.php">Dr. Ravi Behara</a></div>
     <div class="person-title">SBA Communications Professor<br/>Department of Information Technology and Operations Management, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/cooley.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/cooley.jpg">
     <div class="person-name"><a href="https://www.fau.edu/sw-cj/ssw/faculty-and-staff/people/cooley/">Dr. Morgan Cooley, LCSW</a></div>
     <div class="person-title">Associated Professor<br/>Sandler School of Social Work, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/mbaghersad.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/mbaghersad.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/miladbaghersad/">Dr. Milad Baghersad</a></div>
     <div class="person-title">Associate Professor<br/>Department of Information Technology and Operations Management, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/sthijssen.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/sthijssen.jpg">
     <div class="person-name"><a href="https://www.fau.edu/engineering/directory/faculty/thijssen/">Dr. Sven Thijssen</a></div>
     <div class="person-title">Assistant Professor<br/>Department of Electrical Engineering and Computer Science, FAU</div>
   </div>
 
   <div class="grid-item person-card">
-    <img src="./images/people/bowersp.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/bowersp.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/hannah-bowers-parker-ph-d-lmft-029645121/">Dr. Hannah Bowers Parker, LMFT</a></div>
     <div class="person-title">Associate Professor<br/>Department of Counselor Education and Supervision, FAU</div>
   </div>
@@ -166,7 +172,7 @@
 <div class="grid-container" data-columns="3">
 
   <div class="grid-item person-card">
-    <img src="./images/people/adjuhera.jpg">
+    <img src="http://generativeintelligencelab.ai/images/people/adjuhera.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/aladindjuhera">Aladin Djuhera</a></div>
     <div class="person-title">PhD candidate at Technical University Munich, Germany</div>
   </div>

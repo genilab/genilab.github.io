@@ -43,6 +43,9 @@ We operate between a Think Tank and a Development Studio in multi-disciplinary r
   <a href="https://www.aikolo.com">
     <img src="http://generativeintelligencelab.ai/images/logos/aikolo.png" alt="aiKOLO" />
   </a>
+    <a href="https://lamatic.ai">
+    <img src="http://generativeintelligencelab.ai/images/logos/lamatic`.png" alt="Gamepill" />
+  </a>
   <a href="https://www.kinnami.com">
     <img src="http://generativeintelligencelab.ai/images/logos/kinammi.png" alt="Kinnami" />
   </a>
