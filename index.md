@@ -33,11 +33,15 @@ We operate between a Think Tank and a Development Studio in multi-disciplinary r
   <a href="https://www.fau.edu/education/">
     <img src="http://generativeintelligencelab.ai/images/logos/fau-coe.png" alt="FAU College of Education" />
   </a>
-    <a href="https://www.fau.edu/business">
+  <a href="https://www.fau.edu/business">
     <img src="http://generativeintelligencelab.ai/images/logos/fau-cob.png" alt="FAU College of Business" />
   </a>
-  <br/>
-    <a href="https://www.langsmart.ai">
+</div>
+</main>
+
+<main>
+<div class="logo-tape-wrapper" data-logo-size="35">
+  <a href="https://www.langsmart.ai">
     <img src="http://generativeintelligencelab.ai/images/logos/langsmart.png" alt="Langsmart" />
   </a>
   <a href="https://www.aikolo.com">
