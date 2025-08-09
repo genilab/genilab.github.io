@@ -41,13 +41,13 @@ We operate between a Think Tank and a Development Studio in multi-disciplinary r
 
 <main>
 <div class="logo-tape-wrapper" data-logo-size="35">
-  <a href="https://www.langsmart.ai">
-    <img src="http://generativeintelligencelab.ai/images/logos/langsmart.png" alt="Langsmart" />
-  </a>
   <a href="https://www.aikolo.com">
     <img src="http://generativeintelligencelab.ai/images/logos/aikolo.png" alt="aiKOLO" />
   </a>
-    <a href="https://lamatic.ai">
+  <a href="https://www.langsmart.ai">
+    <img src="http://generativeintelligencelab.ai/images/logos/langsmart.png" alt="Langsmart" />
+  </a>
+  <a href="https://lamatic.ai">
     <img src="http://generativeintelligencelab.ai/images/logos/lamatic.png" alt="Gamepill" />
   </a>
   <a href="https://www.kinnami.com">
