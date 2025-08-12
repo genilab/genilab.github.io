@@ -49,7 +49,7 @@ h1 {
   font-size: 22px;
   line-height: 1.2;
   font-weight: 400;
-  color: #2B65CF;
+  color: #818589;
   margin-bottom: 15px
 }
 
@@ -57,7 +57,7 @@ h2 {
   font-size: 20px;
   line-height: 1.3;
   font-weight: 400;
-  color: #2B65CF;
+  color: #818589;
   margin-bottom: 15px
 }
 
@@ -65,7 +65,7 @@ h3 {
   font-size: 18px;
   line-height: 1.2;
   font-weight: 400;
-  color: #2B65CF;
+  color: #818589;
   margin-bottom: 15px
 }
 
@@ -102,11 +102,11 @@ a {
 }
 
 a:visited {
-  color: #2a7aff;
+  color: #818589;
 }
 
 a:hover {
-  color: #111;
+  color: #6082B6;
   text-decoration: underline;
 }
 
@@ -190,7 +190,7 @@ a:hover {
     font-size: 18px;
     font-weight: 600;
     color: #ffffff;
-    background-color: #2B65CF;
+    background-color: #818589;
     border: none;
     border-radius: 8px;
     text-decoration: none;
@@ -257,7 +257,7 @@ a:hover {
 .grid-item a {
   font-weight: bold;
   text-decoration: none;
-  color: #2a7ae2;
+  color: #818589;
 }
 
 /* Text under grid items */

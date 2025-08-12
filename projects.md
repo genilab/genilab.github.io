@@ -2,7 +2,7 @@
 
 
 
-### Ideas
+## Ideas
 
 * [Project Ideas](https://padlet.com/generativeintelligencelab/ideas): these are ideas being developed  in collaboration with multidisciplinary researchers. 
 
@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-### Resources
+## Resources
 
 <div class="grid-container" data-columns="3">
     <div class="grid-item">
@@ -38,7 +38,7 @@
 <br/>
 <br/>
 
-### Topics of Interest 
+## Topics of Interest 
 
 
 | | |
@@ -53,7 +53,7 @@
 | | | 
 
 
-### Check Also
+## Check Also
 
 * [Tutorials](./knowledge.md#tutorials)
 * [Projects](./projects.md)
