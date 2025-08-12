@@ -1,9 +1,8 @@
 ![GenI-Lab Banner](http://generativeintelligencelab.ai/images/icons/genilab-banner.png)
 
+## We are thinkers and builders of Generative Intelligence Systems!
 
 The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the ideation, design, and deployment of research-driven Generative Intelligence Systems for our research community and industry partners.
-
-### We are thinkers and builders of Generative Intelligence Systems!
 
 We operate between a Think Tank and a Development Studio in multi-disciplinary research projects. We can quickly prototype solutions integrating User Experience, AI Pipelines, and Generative Models, in practical applications to support multidisciplinary research and experimentation. 
 
@@ -19,7 +18,7 @@ We work together with Research Collaborators and Industry Partners to design res
 <br/>
 <br/>
 
-### Our Partners
+## Our Partners
 
 <main>
 <div class="logo-tape-wrapper" data-logo-size="60">
@@ -58,7 +57,7 @@ We work together with Research Collaborators and Industry Partners to design res
 <br/>
 <br/>
 
-### Check Also
+## Check Also
 
 * [Tutorials](./knowledge.md#tutorials)
 * [Projects](./projects.md)
