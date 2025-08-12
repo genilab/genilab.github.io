@@ -97,7 +97,7 @@ li > ul, li > ol {
 
 /* === Link Styles === */
 a {
-  color: #2a7ae2;
+  color: #41424c;
   text-decoration: none;
 }
 
@@ -106,8 +106,8 @@ a:visited {
 }
 
 a:hover {
-  color: #41424c;
-  text-decoration: underline;
+  color: #59515E;
+  text-decoration: bold;
 }
 
 /* === Wrapper (Centered Content Container) === */
