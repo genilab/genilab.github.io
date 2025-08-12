@@ -6,7 +6,7 @@ The Generative Intelligence Lab in the Department of Electrical Engineering and 
 
 We operate between a Think Tank and a Development Studio in multi-disciplinary research projects. We can quickly prototype solutions integrating User Experience, AI Pipelines, and Generative Models, in practical applications to support multidisciplinary research and experimentation. 
 
-We work together with Research Collaborators and Industry Partners to design resource resources, fast-prototype applications, and execute experiments around practical solutions that address real social and/or industry demands.
+We work together with Research Collaborators and Industry Partners to design research resources, prototypes, and experiments around a research agenda that reverts into solutions that can be translated to social and/or industry demands.
 
 <!---
 <div class="cta-buttons">
