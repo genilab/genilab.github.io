@@ -27,6 +27,10 @@ We work together with Research Collaborators and Industry Partners to design res
 
 <main>
 <div class="logo-tape-wrapper" data-logo-size="60">
+  <a href="https://www.fau.edu/sw-cj/ssw/">
+    <img src="http://generativeintelligencelab.ai/images/logos/fau-csw.png" alt="FAU Social Works and Criminal Justice" />
+  </a>
+  
   <a href="https://www.fau.edu/medicine/">
     <img src="http://generativeintelligencelab.ai/images/logos/fau-som.png" alt="FAU School of Medicine" />
   </a>
