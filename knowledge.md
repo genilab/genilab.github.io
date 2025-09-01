@@ -2,6 +2,17 @@
 
 
 
+## Education
+
+These are courses taught by Dr. Koch applying  our Research Resources:
+
+* [COT6930](https://fau.simplesyllabus.com/doc/em80vs56l/Fall-2025-1-Full-Term-COT-6930-004-Topics-in-Computer-Science?mode=view): Generative Artificial Intelligence and Software Development Lifecycles
+* [CEN 4010](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view): Principles of Software Engineering with Generative Intelligence
+* [CAP4623](https://fau.simplesyllabus.com/en-US/doc/h6c9776hw/Fall-2024-1-Full-Term-CAP-4623-001-?mode=view): Trustworthy Artificial Intelligence
+
+
+
+
 ## Publications
 
 * [Publications by the Generative Intelligence Lab](https://medium.com/generative-intelligence-lab) is a venue to promote publications that communicate our research insights, practical use cases, and experimental findings.
@@ -13,16 +24,6 @@
 -->
 
 * [Scientific Publications](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate) these are publications in scientific journal, conferences, and workshops, presenting our visions, research developments, explorations, and results.
-
-
-## Education
-
-These are courses taught by Dr. Koch applying  our Research Resources:
-
-* [COT6930](https://fau.simplesyllabus.com/doc/em80vs56l/Fall-2025-1-Full-Term-COT-6930-004-Topics-in-Computer-Science?mode=view): Generative Artificial Intelligence and Software Development Lifecycles
-* [CEN 4010](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view): Principles of Software Engineering with Generative Intelligence
-* [CAP4623](https://fau.simplesyllabus.com/en-US/doc/h6c9776hw/Fall-2024-1-Full-Term-CAP-4623-001-?mode=view): Trustworthy Artificial Intelligence
-
 
 
 ## Tutorials
