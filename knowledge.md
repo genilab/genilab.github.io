@@ -29,6 +29,8 @@ These are courses taught by Dr. Koch applying  our Research Resources:
 
 We provide tutorials aimed at promoting knowledge sharing and advancing education.
 
+* [TUTORIAL - Generative Intelligence in Academic Projects](./pdfs/TUTORIAL%20Generative%20Intelligence%20in%20Academic%20Projects.pdf): introduces the core concepts, capabilities, and practical applications of Generative Intelligence in scientific research, with a special focus on multi-disciplinary projects.
+
 * [TUTORIAL - Generative Intelligence and AI-Driven Organizations](./pdfs/TUTORIAL%20Generative%20Intelligence%20and%20Business%20.pdf): we explain how Generative Intelligence Systems operate to reshape business processes towards AI-Driven organizations where AI-based workflows are the center point of operations.
 
 * [TUTORIAL - Generative Intelligence and Large Generative Models](./pdfs/TUTORIAL%20Generative%20AI%20and%20Large%20Generative%20Models.pdf): reviews the concepts and applications of Generative Artificial Intelligence, Large Generative Models, Agentic Frameworks, and Multi-Agent Systems. 
