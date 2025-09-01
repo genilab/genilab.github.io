@@ -2,17 +2,6 @@
 
 
 
-## Ideas
-
-* [Project Ideas](https://padlet.com/generativeintelligencelab/ideas): these are ideas being developed  in collaboration with multidisciplinary researchers. 
-
-* [Ideas for Industry-related Use Cases](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): provides a practical catalog of real-world use cases aimed at guiding applied exercises and lightweight experiments.
-
-* [Ideas for Scientific Research Projects](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. 
-
-<br/>
-<br/>
-
 ## Resources
 
 <div class="grid-container" data-columns="3">
