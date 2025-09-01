@@ -68,10 +68,9 @@ We work together with Research Collaborators and Industry Partners to design res
 
 ## Check Also
 
-* [Tutorials](./knowledge.md#tutorials)
 * [Projects](./projects.md)
-* [Resources](./projects.md#resources) 
 * [Education](./knowledge.md#education)
+* [Tutorials](./knowledge.md#tutorials)
 * [Publications](./knowledge.md#publications)
 * [Join us](./collaborate.md)
 * [Team](./people.html)
