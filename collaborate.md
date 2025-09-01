@@ -123,11 +123,13 @@ What must I do?
 
 ## Check Also
 
-* [Tutorials](./knowledge.md#tutorials)
+
 * [Projects](./projects.md)
-* [Resources](./projects.md#resources) 
 * [Education](./knowledge.md#education)
+* [Tutorials](./knowledge.md#tutorials)
 * [Publications](./knowledge.md#publications)
+* [Join us](./collaborate.md)
 * [Team](./people.html)
+
 
 
