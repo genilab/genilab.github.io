@@ -20,6 +20,21 @@ You can collaborate with the Lab in one of the following capacities:
 
 ---
 
+
+## Project Ideas
+
+
+* [Project Ideas](https://padlet.com/generativeintelligencelab/ideas): these are ideas being developed  in collaboration with multidisciplinary researchers. 
+
+* [Ideas for Industry-related Use Cases](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): provides a practical catalog of real-world use cases aimed at guiding applied exercises and lightweight experiments.
+
+* [Ideas for Scientific Research Projects](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. 
+
+<br/>
+<br/>
+
+---
+
 <br/>
 <br/>
 
@@ -84,7 +99,6 @@ We are open to:
 
 What must I do?
 1. Check [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
-1. Fill out the [Expression of Interest](https://forms.gle/eY8FQmdfyytD3Hjq9).
 1. Include a preliminary proposal, if you already have something in mind:
     * Title 
     * Intriguing Research Question
