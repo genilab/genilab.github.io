@@ -179,12 +179,12 @@
 </div>
 
 
-### Check Also
+## Check Also
 
-* [Topics of Interest](./projects.md#topics-of-interest)
-* [Tutorials](./knowledge.md#tutorials)
-* [Education](./knowledge.md#education)
 * [Projects](./projects.md)
-* [Resources](./projects.md#resources) 
+* [Education](./knowledge.md#education)
+* [Tutorials](./knowledge.md#tutorials)
 * [Publications](./knowledge.md#publications)
-* [Collaborate](./collaborate.md)
+* [Join us](./collaborate.md)
+* [Team](./people.html)
+

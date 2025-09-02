@@ -45,5 +45,9 @@ We provide tutorials aimed at promoting knowledge sharing and advancing educatio
 ## Check Also
 
 * [Projects](./projects.md)
+* [Education](./knowledge.md#education)
+* [Tutorials](./knowledge.md#tutorials)
+* [Publications](./knowledge.md#publications)
 * [Join us](./collaborate.md)
 * [Team](./people.html)
+
