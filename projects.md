@@ -16,7 +16,7 @@
     </div>
     <!-- Card -->
     <div class="project-card blue-bg">
-      <a href="https://docs.google.com/document/d/1Fa6YZ75rma7YRSFDcc5yKNp55sUEScQLK96JY2_uexY/edit?pli=1&tab=t.hiobhzuibax7#heading=h.4orukig2d4zl" target="_blank">
+      <a href="https://docs.google.com/document/d/1Fa6YZ75rma7YRSFDcc5yKNp55sUEScQLK96JY2_uexY/edit" target="_blank">
         <img src="http://generativeintelligencelab.ai/images/projects/unreal-data.png">
       </a>
       <div class="project-card-content">
@@ -26,12 +26,32 @@
     </div>
     <!-- Card -->
     <div class="project-card yellow-bg">
-      <a href="https://docs.google.com/document/d/1r9GApilXZu6UN-BkuA71VJDafYj8_WhFLZO2NWvXV2Q/edit?tab=t.hiobhzuibax7#heading=h.4orukig2d4zl" target="_blank">
+      <a href="https://docs.google.com/document/d/1r9GApilXZu6UN-BkuA71VJDafYj8_WhFLZO2NWvXV2Q/edit" target="_blank">
         <img src="http://generativeintelligencelab.ai/images/projects/sensible-games.png">
       </a>
       <div class="project-card-content">
         <h2>Sensible Games</h2>
         <p>Experimental platform to build and test Hybrid AI models in an interactive, game-like environment. Partner: Gamepill.com</p>
+      </div>
+    </div>
+    <!-- Card -->
+    <div class="project-card blue-bg">
+      <a href="https://docs.google.com/document/d/1_G96UKkBTqwLWO59UUfK0x5t459DXemdfANJu1GS2do/edit" target="_blank">
+        <img src="http://generativeintelligencelab.ai/images/projects/sensible-forms.png">
+      </a>
+      <div class="project-card-content">
+        <h2>Sensible Forms</h2>
+        <p>Applies Generative AI and Hybrid AI to create the next-generation AI-powered Form Engine for online research forms</p>
+      </div>
+    </div>
+    <!-- Card -->
+    <div class="project-card blue-bg">
+      <a href="https://docs.google.com/document/d/1sizokJKUCZ5ZnkyXRqifDditB1SuRrwSYDo878yDxR0/edit" target="_blank">
+        <img src="http://generativeintelligencelab.ai/images/projects/smallgen-forge.png">
+      </a>
+      <div class="project-card-content">
+        <h2>SmallGen Forgery</h2>
+        <p>Automated Laboratory solution for generation of Small Generative Models for IoT Devices. Partner: aiKOLO</p>
       </div>
     </div>
   </div>
