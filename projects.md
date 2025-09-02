@@ -10,7 +10,7 @@
         <img src="https://github.com/genilab/owlmind/wiki/images/owlmind-banner.png">
       </a>
       <div class="project-card-content">
-        <h2>Owlmind Framework</h2>
+        <h3>Owlmind Framework</h3>
         <p>Experimental platform to support education and experimentation with Generative Intelligence Systems, AI-Driven Organizations and and Collective Intelligence.</p>
       </div>
     </div>
@@ -20,7 +20,7 @@
         <img src="http://generativeintelligencelab.ai/images/projects/unreal-data.png">
       </a>
       <div class="project-card-content">
-        <h2>Unreal Data</h2>
+        <h3>Unreal Data</h3>
         <p>Bot for synthetic data generation for clinical trial so that researchers can generate datasets simulating real-world clinical outcomes. Partner: FAU School of Medicine</p>
       </div>
     </div>
@@ -30,7 +30,7 @@
         <img src="http://generativeintelligencelab.ai/images/projects/sensible-games.png">
       </a>
       <div class="project-card-content">
-        <h2>Sensible Games</h2>
+        <h3>Sensible Games</h3>
         <p>Experimental platform to build and test Hybrid AI models in an interactive, game-like environment. Partner: Gamepill.com</p>
       </div>
     </div>
@@ -40,7 +40,7 @@
         <img src="http://generativeintelligencelab.ai/images/projects/sensible-forms.png">
       </a>
       <div class="project-card-content">
-        <h2>Sensible Forms</h2>
+        <h3>Sensible Forms</h3>
         <p>Applies Generative AI and Hybrid AI to create the next-generation AI-powered Form Engine for online research forms</p>
       </div>
     </div>
@@ -50,7 +50,7 @@
         <img src="http://generativeintelligencelab.ai/images/projects/smallgen-forge.png">
       </a>
       <div class="project-card-content">
-        <h2>SmallGen Forgery</h2>
+        <h3>SmallGen Forgery</h3>
         <p>Automated Laboratory solution for generation of Small Generative Models for IoT Devices. Partner: aiKOLO</p>
       </div>
     </div>
