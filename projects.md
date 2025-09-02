@@ -4,8 +4,6 @@
 
 <div class="project-container">
   <div class="project-grid">
-
-    <!--- Card  --->
     <div class="project-card blue-bg">
       <a href="https://docs.google.com/document/d/1Fa6YZ75rma7YRSFDcc5yKNp55sUEScQLK96JY2_uexY/edit?pli=1&tab=t.hiobhzuibax7#heading=h.4orukig2d4zl" target="_blank">
         <img src="/images/projects/unreal-data.png">
@@ -15,7 +13,6 @@
         <p>Bot for synthetic data generation for clinical trial so that researchers can generate datasets simulating real-world clinical outcomes. Partner: FAU School of Medicine</p>
       </div>
     </div>
-
   </div>
 </div>
 

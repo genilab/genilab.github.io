@@ -225,6 +225,7 @@ a:hover {
     }
 }
 
+
 /* === Grid Layout (Configurable Columns) === */
 /* Display grid layout with flexible columns and gap */
 .grid-container {
@@ -306,6 +307,133 @@ table td {
   padding: 10px 15px;
   border: 0px;
 }
+
+
+/* === Project Container & Cards (Refactored) === */
+
+/* Wrapper */
+.project-container {
+  max-width: 1000px;            /* aligns with your wrapper scale */
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+/* Optional heading/subtitle inside the project section */
+.project-container h1 {
+  text-align: center;
+  font-size: 2rem;
+  color: #004d80;                /* demo accent color */
+  margin-bottom: 0.5rem;
+}
+
+.project-container .subtitle {
+  text-align: center;
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+/* Grid */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); /* responsive */
+  gap: 20px;
+}
+
+/* Card */
+.project-card {
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;        /* default */
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.2);
+}
+
+/* Clickable image (wrap <img> in <a href="...">) */
+.project-card a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.project-card a img {
+  width: 100%;
+  height: auto;                  /* respects intrinsic ratio */
+  display: block;
+  transition: transform 0.2s ease;
+}
+
+.project-card a:hover img,
+.project-card a:focus img,
+.project-card a:focus-visible img {
+  transform: scale(1.02);
+}
+
+/* Card content */
+.project-card-content {
+  padding: 1rem;
+}
+
+.project-card-content h2 {
+  font-size: 1.1rem;
+  margin: 0.5rem 0;
+  color: #111;
+}
+
+.project-card-content p {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: #555;
+}
+
+/* Background variants (from demo) */
+.project-card.blue-bg  { background-color: #d4ecfa; }
+.project-card.white-bg { background-color: #ffffff; }
+.project-card.yellow-bg{ background-color: #fef3c7; }
+
+/* Accessibility: strong focus ring on interactive elements */
+.project-card a:focus-visible,
+.project-card-content a:focus-visible {
+  outline: 3px solid #59515E;    /* matches your link hover color palette */
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* Motion sensitivity */
+@media (prefers-reduced-motion: reduce) {
+  .project-card,
+  .project-card a img {
+    transition: none !important;
+  }
+}
+
+/* Responsive tweaks */
+@media (max-width: 600px) {
+  .project-container { padding: 30px 15px; }
+  .project-container h1 { font-size: 1.5rem; }
+  .project-card-content h2 { font-size: 1rem; }
+  .project-card-content p { font-size: 0.85rem; }
+}
+
+/* Optional dark mode to match your theme tokens */
+@media (prefers-color-scheme: dark) {
+  .project-card { background: #15181b; box-shadow: 0 4px 10px rgba(0,0,0,0.35); }
+  .project-card.blue-bg  { background-color: #133042; }
+  .project-card.white-bg { background-color: #1a1d21; }
+  .project-card.yellow-bg{ background-color: #3a2f10; }
+  .project-card-content h2 { color: #e6e6e6; }
+  .project-card-content p  { color: #b9bfc6; }
+}
+
+
+
 
 /* === Code & Blocks === */
 /* Blockquote formatting */
@@ -710,130 +838,6 @@ pre > code {
 .highlight .il {
   color: #099;
 }
-
-
-/* === Project Container & Cards (Refactored) === */
-/* Wrapper */
-.project-container {
-  max-width: 1000px;            /* aligns with your wrapper scale */
-  margin: 0 auto;
-  padding: 40px 20px;
-}
-
-/* Optional heading/subtitle inside the project section */
-.project-container h1 {
-  text-align: center;
-  font-size: 2rem;
-  color: #004d80;                /* demo accent color */
-  margin-bottom: 0.5rem;
-}
-
-.project-container .subtitle {
-  text-align: center;
-  font-size: 1rem;
-  color: #333;
-  margin-bottom: 2rem;
-}
-
-/* Grid */
-.project-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); /* responsive */
-  gap: 20px;
-}
-
-/* Card */
-.project-card {
-  border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  background-color: #fff;        /* default */
-  transition: transform 0.2s ease, box-shadow 0.3s ease;
-}
-
-.project-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 18px rgba(0,0,0,0.2);
-}
-
-/* Clickable image (wrap <img> in <a href="...">) */
-.project-card a {
-  display: block;
-  text-decoration: none;
-  color: inherit;
-}
-
-.project-card a img {
-  width: 100%;
-  height: auto;                  /* respects intrinsic ratio */
-  display: block;
-  transition: transform 0.2s ease;
-}
-
-.project-card a:hover img,
-.project-card a:focus img,
-.project-card a:focus-visible img {
-  transform: scale(1.02);
-}
-
-/* Card content */
-.project-card-content {
-  padding: 1rem;
-}
-
-.project-card-content h2 {
-  font-size: 1.1rem;
-  margin: 0.5rem 0;
-  color: #111;
-}
-
-.project-card-content p {
-  font-size: 0.9rem;
-  line-height: 1.4;
-  color: #555;
-}
-
-/* Background variants (from demo) */
-.project-card.blue-bg  { background-color: #d4ecfa; }
-.project-card.white-bg { background-color: #ffffff; }
-.project-card.yellow-bg{ background-color: #fef3c7; }
-
-/* Accessibility: strong focus ring on interactive elements */
-.project-card a:focus-visible,
-.project-card-content a:focus-visible {
-  outline: 3px solid #59515E;    /* matches your link hover color palette */
-  outline-offset: 2px;
-  border-radius: 6px;
-}
-
-/* Motion sensitivity */
-@media (prefers-reduced-motion: reduce) {
-  .project-card,
-  .project-card a img {
-    transition: none !important;
-  }
-}
-
-/* Responsive tweaks */
-@media (max-width: 600px) {
-  .project-container { padding: 30px 15px; }
-  .project-container h1 { font-size: 1.5rem; }
-  .project-card-content h2 { font-size: 1rem; }
-  .project-card-content p { font-size: 0.85rem; }
-}
-
-/* Optional dark mode to match your theme tokens */
-@media (prefers-color-scheme: dark) {
-  .project-card { background: #15181b; box-shadow: 0 4px 10px rgba(0,0,0,0.35); }
-  .project-card.blue-bg  { background-color: #133042; }
-  .project-card.white-bg { background-color: #1a1d21; }
-  .project-card.yellow-bg{ background-color: #3a2f10; }
-  .project-card-content h2 { color: #e6e6e6; }
-  .project-card-content p  { color: #b9bfc6; }
-}
-
 
 
 /* === Override Minima Theme: Remove line under h1 === */
