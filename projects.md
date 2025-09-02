@@ -1,28 +1,23 @@
 ![GenI-Lab Banner](http://generativeintelligencelab.ai/images/icons/genilab-banner.png)
 
+## Projects
 
+<div class="project-container">
+  <div class="project-grid">
 
-## Resources
-
-<div class="grid-container" data-columns="3">
-    <div class="grid-item">
-      <img src="./images/icons/owlmind-icon.png"  alt="Owlmind Icon" />
-      <a href="https://github.com/genilab/owlmind"><strong>Owlmind</strong></a>
-      <p>Framework for Generative Intelligent Systems.<br />
-      Bots + Prompts + Pipelines + Models = Fast Prototypes</p>
+    <!--- Card  --->
+    <div class="project-card blue-bg">
+      <a href="https://docs.google.com/document/d/1Fa6YZ75rma7YRSFDcc5yKNp55sUEScQLK96JY2_uexY/edit?pli=1&tab=t.hiobhzuibax7#heading=h.4orukig2d4zl" target="_blank">
+        <img src="/images/projects/unreal-data.png">
+      </a>
+      <div class="project-card-content">
+        <h2>Unreal Data</h2>
+        <p>Bot for synthetic data generation for clinical trial so that researchers can generate datasets simulating real-world clinical outcomes. Partner: FAU School of Medicine</p>
+      </div>
     </div>
-    <div class="grid-item">
-      <img src="./images/icons/chatfau-icon.png" alt="ChatFAU Icon" />
-      <a href="https://chat.hpc.fau.edu"><strong>ChatFAU</strong></a>
-      <p>
-        Intelligent chat Interface based on 
-        <a href="http://ollama.com">Ollama</a>.<br />
-        Our solution for zero-cost Model Provider!<br/>
-        (requires @fau account)
-      </p>
-    </div>
+
   </div>
-
+</div>
 
 
 ## Check Also
