@@ -35,7 +35,7 @@
       </div>
     </div>
     <!-- Card -->
-    <div class="project-card purple-bg">
+    <div class="project-card blue-bg">
       <a href="https://docs.google.com/document/d/1_G96UKkBTqwLWO59UUfK0x5t459DXemdfANJu1GS2do/edit" target="_blank">
         <img src="http://generativeintelligencelab.ai/images/projects/sensible-forms.png">
       </a>
@@ -45,7 +45,7 @@
       </div>
     </div>
     <!-- Card -->
-    <div class="project-card orange-bg">
+    <div class="project-card yellow-bg">
       <a href="https://docs.google.com/document/d/1sizokJKUCZ5ZnkyXRqifDditB1SuRrwSYDo878yDxR0/edit" target="_blank">
         <img src="http://generativeintelligencelab.ai/images/projects/smallgen-forge.png">
       </a>
