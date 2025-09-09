@@ -397,10 +397,10 @@ table td {
 .project-card.blue-bg  { background-color: #d4ecfa; }
 .project-card.white-bg { background-color: #ffffff; }
 .project-card.yellow-bg{ background-color: #fef3c7; }
-.project-card.green-bg  { background-color: #c8e6c9; }
-.project-card.purple-bg { background-color: #d1c4e9; }
-.project-card.orange-bg { background-color: #ffccbc; }
-.project-card.gray-bg   { background-color: #e0e0e0; }
+.project-card.green-bg  { background-color: #1b5e20; }
+.project-card.purple-bg { background-color: #6A0DAD; }
+.project-card.orange-bg { background-color: #FF7F32; }
+.project-card.gray-bg   { background-color: #333333; }
 
 /* Accessibility: strong focus ring on interactive elements */
 .project-card a:focus-visible,
