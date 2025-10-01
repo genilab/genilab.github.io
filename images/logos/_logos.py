@@ -3,7 +3,6 @@ LOGO Normalizer
 
 Scans the current folder for PNG files and resizes each to a width of 100 pixels
 (maintaining aspect ratio). Colors are preserved; no grayscale or contrast changes.
-Only .png files are processed; .jpg/.jpeg (and others) are ignored.
 
 Disclaimer:
 This script was 'vibe coded', a lightweight approach to quickly solving a specific need.

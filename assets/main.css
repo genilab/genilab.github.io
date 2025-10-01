@@ -150,9 +150,12 @@ a:hover {
 }
 
 .logo-tape-wrapper img {
-      filter: grayscale(100%);
-      transition: filter 0.3s ease, transform 0.3s ease;
-  }
+  /* Do NOT set width/height here — let PNGs stay at 100px width from the script */
+  filter: grayscale(100%);
+  transition: filter 0.3s ease, transform 0.3s ease;
+  display: block;       /* helps avoid inline spacing issues */
+}
+
 
 .logo-tape-wrapper img:hover {
       filter: grayscale(0%);
