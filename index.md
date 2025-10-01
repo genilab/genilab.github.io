@@ -1,6 +1,6 @@
 ![GenI-Lab Banner](http://generativeintelligencelab.ai/images/icons/genilab-banner.png)
 
-### [Projects](./projects.md) | [Education](./education) | [Propose](./projects.md#propose) | [Join](./collaborate.md) | [Team](./people.html)
+## [Projects](./projects.md) | [Education](./education) | [Propose](./projects.md#propose) | [Join](./collaborate.md) | [Team](./people.html)
 
 <br/>
 
