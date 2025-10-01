@@ -150,8 +150,6 @@ a:hover {
 }
 
 .logo-tape-wrapper img {
-      height: var(--logo-width,50px); /* fallback value */
-      width: auto;
       filter: grayscale(100%);
       transition: filter 0.3s ease, transform 0.3s ease;
   }
@@ -160,9 +158,6 @@ a:hover {
       filter: grayscale(0%);
       transform: scale(1.05);
 }
-
-/* === Per-container Logo Size using data attributes === */
-.logo-tape-wrapper[data-logo-size="50"] img { --logo-width: 50px; }
 
 @media screen and (max-width: 500px) {
       .logo-tape-wrapper {

@@ -27,7 +27,7 @@ Our Research Collaborators and Industry Partners help us design research project
 <br/>
 
 <main>
-<div class="logo-tape-wrapper" data-logo-size="50">
+<div class="logo-tape-wrapper">
   <a href="https://www.fau.edu/sw-cj/ssw/">
     <img src="http://generativeintelligencelab.ai/images/logos/fau-csw.png" />
   </a>
