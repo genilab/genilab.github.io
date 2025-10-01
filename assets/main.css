@@ -150,11 +150,17 @@ a:hover {
 }
 
 .logo-tape-wrapper img {
-  /* Do NOT set width/height here — let PNGs stay at 100px width from the script */
+  width: var(--logo-width,50px);  /* fallback value */
+  height: auto;                   /* scale proportionally */
   filter: grayscale(100%);
   transition: filter 0.3s ease, transform 0.3s ease;
-  display: block;       /* helps avoid inline spacing issues */
 }
+
+.logo-tape-wrapper[data-logo-size="60"] img { --logo-width: 60px; }
+.logo-tape-wrapper[data-logo-size="70"] img { --logo-width: 70px; }
+.logo-tape-wrapper[data-logo-size="80"] img { --logo-width: 80px; }
+.logo-tape-wrapper[data-logo-size="90"] img { --logo-width: 80px; }
+.logo-tape-wrapper[data-logo-size="100"] img { --logo-width: 100px; }
 
 
 .logo-tape-wrapper img:hover {
