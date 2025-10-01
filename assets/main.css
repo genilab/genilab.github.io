@@ -150,7 +150,7 @@ a:hover {
 }
 
 .logo-tape-wrapper img {
-      height: var(--logo-height,40px); /* fallback value */
+      height: var(--logo-width,50px); /* fallback value */
       width: auto;
       filter: grayscale(100%);
       transition: filter 0.3s ease, transform 0.3s ease;
@@ -162,11 +162,7 @@ a:hover {
 }
 
 /* === Per-container Logo Size using data attributes === */
-.logo-tape-wrapper[data-logo-size="40"] img { --logo-height: 40px; }
-.logo-tape-wrapper[data-logo-size="50"] img { --logo-height: 50px; }
-.logo-tape-wrapper[data-logo-size="60"] img { --logo-height: 60px; }
-.logo-tape-wrapper[data-logo-size="70"] img { --logo-height: 70px; }
-.logo-tape-wrapper[data-logo-size="80"] img { --logo-height: 80px; }
+.logo-tape-wrapper[data-logo-size="50"] img { --logo-width: 50px; }
 
 @media screen and (max-width: 500px) {
       .logo-tape-wrapper {
