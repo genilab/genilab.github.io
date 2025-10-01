@@ -35,39 +35,39 @@ Our Research Collaborators and Industry Partners help us design research project
 <main>
 <div class="logo-tape-wrapper" data-logo-size="60">
   <a href="https://www.fau.edu/sw-cj/ssw/">
-    <img src="http://generativeintelligencelab.ai/images/logos/fau-csw.png" alt="FAU Social Works and Criminal Justice" />
+    <img src="http://generativeintelligencelab.ai/images/logos/fau-csw.png" width="100" />
   </a>
   
   <a href="https://www.fau.edu/medicine/">
-    <img src="http://generativeintelligencelab.ai/images/logos/fau-som.png" alt="FAU School of Medicine" />
+    <img src="http://generativeintelligencelab.ai/images/logos/fau-som.png" width="100" />
   </a>
 
   <a href="https://www.fau.edu/education/">
-    <img src="http://generativeintelligencelab.ai/images/logos/fau-coe.png" alt="FAU College of Education" />
+    <img src="http://generativeintelligencelab.ai/images/logos/fau-coe.png" width="100" />
   </a>
   
   <a href="https://www.fau.edu/business">
-    <img src="http://generativeintelligencelab.ai/images/logos/fau-cob.png" alt="FAU College of Business" />
+    <img src="http://generativeintelligencelab.ai/images/logos/fau-cob.png" width="100"/>
   </a>
   
   <a href="https://www.aikolo.com">
-    <img src="http://generativeintelligencelab.ai/images/logos/aikolo.png" alt="aiKOLO" />
+    <img src="http://generativeintelligencelab.ai/images/logos/aikolo.png" width="100" />
   </a>
   
   <a href="https://www.langsmart.ai">
-    <img src="http://generativeintelligencelab.ai/images/logos/langsmart.png" alt="Langsmart" />
+    <img src="http://generativeintelligencelab.ai/images/logos/langsmart.png" width="100" />
   </a>
   
   <a href="https://lamatic.ai">
-    <img src="http://generativeintelligencelab.ai/images/logos/lamatic.png" alt="Gamepill" />
+    <img src="http://generativeintelligencelab.ai/images/logos/lamatic.png" width="100" />
   </a>
   
   <a href="https://www.kinnami.com">
-    <img src="http://generativeintelligencelab.ai/images/logos/kinammi.png" alt="Kinnami" />
+    <img src="http://generativeintelligencelab.ai/images/logos/kinammi.png" width="100" />
   </a>
   
   <a href="https://gamepill.com">
-    <img src="http://generativeintelligencelab.ai/images/logos/gamepill.png" alt="Gamepill" />
+    <img src="http://generativeintelligencelab.ai/images/logos/gamepill.png" width="100" />
   </a>
 </div>
 </main>
