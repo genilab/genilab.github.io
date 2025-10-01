@@ -1,7 +1,5 @@
 ![GenI-Lab Banner](http://generativeintelligencelab.ai/images/icons/genilab-banner.png)
 
-### [Projects](./projects.md) | [Education](./education) | [Propose](./projects.md#propose) | [Join](./collaborate.md) | [Team](./people.html)
-
 <br/>
 
 The Generative Intelligence Lab in the Department of Electrical Engineering and Computer Sciences at FAU supports the ideation, design, and deployment of research-driven Generative Intelligence Systems for our research community and industry partners.
@@ -10,24 +8,17 @@ The Generative Intelligence Lab in the Department of Electrical Engineering and 
 
 ## We are thinkers and builders of Generative Intelligence Systems!
 
-We operate as a Think Tank and Development Studio in multi-disciplinary research projects. 
-We can prototype solutions integrating User Experience, AI Pipelines, and Generative Models, in practical applications to support multidisciplinary research and experimentation. 
-Our Research Collaborators and Industry Partners help us design research projects for solutions that can be translated to real-world demands.
 
+We operate between a Think Tank and a Development Studio in multi-disciplinary research projects. We can quickly prototype solutions integrating User Experience, AI Pipelines, and Generative Models, in practical applications to support multidisciplinary research and experimentation. 
 
-<br/>
+We work together with Research Collaborators and Industry Partners to design research resources, prototypes, and experiments around a research agenda that reverts into solutions that can be translated to social and/or industry demands.
 
-* [VIP Enhancing Child Welfare Research and Translation through AI](https://www.fau.edu/vip/projects/enhancing-child-welfare/): partnership project with FAU Social Works and Criminal Justice, supported by [Vertically Integrated Projects (VIP) program](https://www.fau.edu/vip/); we are developing Generative Intelligence technology to make a real difference in child welfare system.
-
----
-
-* [Research Community Papers](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): this series aims to provide introductory overviews of specific concepts, explain related research opportunities, and outline potential ideas for research projects.
-
-* [Scientific Publications](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate): our publications in scientific journal, conferences, and workshops, presenting our visions, research developments, explorations, and results.
-
-* [OwlMind Framework](https://github.com/genilab/owlmind): research platform to support education and experimentation with Generative Intelligence Systems, AI-Driven Organizations and Collective Intelligence
-
----
+<!---
+<div class="cta-buttons">
+<a href="./projects.html" class="cta-button">Bring in Ideas</a>
+<a href="./collaborate.html" class="cta-button">Join Us</a>
+</div>
+--->
 
 <br/>
 <br/>
@@ -41,36 +32,46 @@ Our Research Collaborators and Industry Partners help us design research project
   <a href="https://www.fau.edu/medicine/">
     <img src="http://generativeintelligencelab.ai/images/logos/fau-som.png" alt="FAU School of Medicine" />
   </a>
-
   <a href="https://www.fau.edu/education/">
     <img src="http://generativeintelligencelab.ai/images/logos/fau-coe.png" alt="FAU College of Education" />
   </a>
-  
   <a href="https://www.fau.edu/business">
     <img src="http://generativeintelligencelab.ai/images/logos/fau-cob.png" alt="FAU College of Business" />
   </a>
-  
+</div>
+</main>
+
+<main>
+<div class="logo-tape-wrapper" data-logo-size="35">
   <a href="https://www.aikolo.com">
     <img src="http://generativeintelligencelab.ai/images/logos/aikolo.png" alt="aiKOLO" />
   </a>
-  
   <a href="https://www.langsmart.ai">
     <img src="http://generativeintelligencelab.ai/images/logos/langsmart.png" alt="Langsmart" />
   </a>
-  
   <a href="https://lamatic.ai">
     <img src="http://generativeintelligencelab.ai/images/logos/lamatic.png" alt="Gamepill" />
   </a>
-  
   <a href="https://www.kinnami.com">
     <img src="http://generativeintelligencelab.ai/images/logos/kinammi.png" alt="Kinnami" />
   </a>
-  
   <a href="https://gamepill.com">
     <img src="http://generativeintelligencelab.ai/images/logos/gamepill.png" alt="Gamepill" />
   </a>
 </div>
 </main>
+
+<br/>
+<br/>
+
+## Check Also
+
+* [Projects](./projects.md)
+* [Education](./knowledge.md#education)
+* [Tutorials](./knowledge.md#tutorials)
+* [Publications](./knowledge.md#publications)
+* [Join us](./collaborate.md)
+* [Team](./people.html)
 
 
 
