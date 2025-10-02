@@ -15,13 +15,6 @@ You can collaborate with the Lab in one of the following capacities:
 * [Ph.D. Students](#phd-students)
 * [Master Researcher](#master-researcher)
 * [Undergraduate Researcher](#undergradute-researcher)
-* [Contributor](./contribute.md)
-
-
-<br/>
-<br/>
-
----
 
 
 ### Project Ideas
@@ -30,13 +23,6 @@ You can collaborate with the Lab in one of the following capacities:
 
 * [Ideas for Scientific Research Projects](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. 
 
-<br/>
-<br/>
-
----
-
-<br/>
-<br/>
 
 ### Research Collaborators
 
@@ -50,42 +36,18 @@ We seek to engage with Research Collaborators from other Department in our Resea
 What should I do?
 * Reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message.
 
-<br/>
-<br/>
-
----
-
-<br/>
-<br/>
 
 ### Industry Partners
 
 We seek to collaborate with Industry Partners that can help with:
 
-* Bring in your technology as a Research Resource for experimentation.
-* Develop experiments to generate datasets of relevant research data. 
-* Create Industry-relevant Use Cases.
+* Ideas for Candidate Projects that we can develop together.
+* Your Technology as Research Resource for experimentation.
 * Joint Grant Applications.
 
 What should I do?
 1. Reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interest.
-1. If you already have a project in mind, compile a preliminary proposal (1-pager) including:
-    * Title 
-    * Challenge
-    * Strategy (*)
 
-Where for 'Strategy':
-* What do we have to put together? 
-* Are you bringing in your technology? 
-* Are we developing experiments?
-
-<br/>
-<br/>
-
----
-
-<br/>
-<br/>
 
 ### PhD Students
 
