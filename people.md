@@ -1,5 +1,7 @@
 ![GenI-Lab Banner](http://generativeintelligencelab.ai/images/icons/genilab-banner.png)
 
+## [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
+
 
 ## Lab Members
 
@@ -24,6 +26,18 @@
   </div>
 
   <div class="grid-item person-card">
+    <img src="http://generativeintelligencelab.ai/images/people/rdave2024.jpg">
+    <div class="person-name"><a href="https://www.linkedin.com/in/dave-rutvikkumar/">Rutvikkumar Dave</a></div>
+    <div class="person-title">M.Sc. DS<br/> Dept EECS, FAU</div>
+  </div>
+
+  <div class="grid-item person-card">
+    <img src="http://generativeintelligencelab.ai/images/people/svizarsuyesh2024.jpg">
+    <div class="person-name"><a href="https://www.linkedin.com/in/sumedh-vyk/">Sumedh Krishna</a></div>
+    <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
+  </div>
+
+  <div class="grid-item person-card">
     <img src="http://generativeintelligencelab.ai/images/people/samanthaport2022.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/samporter-cs/">Sam Porter</a></div>
     <div class="person-title">MBA, B.Sc. CS (student)<br/> Dept EECS, FAU</div>
@@ -32,12 +46,6 @@
   <div class="grid-item person-card">
     <img src="http://generativeintelligencelab.ai/images/people/vegan2023.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/nvegamarrero/">Nelson Vega</a></div>
-    <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
-  </div>
-
-  <div class="grid-item person-card">
-    <img src="http://generativeintelligencelab.ai/images/people/svizarsuyesh2024.jpg">
-    <div class="person-name"><a href="https://www.linkedin.com/in/sumedh-vyk/">Sumedh Krishna</a></div>
     <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
   </div>
 
@@ -63,12 +71,6 @@
     <img src="http://generativeintelligencelab.ai/images/people/devenpravink2024.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/devenpatel0">Deven Patel</a></div>
     <div class="person-title">M.Sc. CS<br/> Dept EECS, FAU</div>
-  </div>
-
-  <div class="grid-item person-card">
-    <img src="http://generativeintelligencelab.ai/images/people/rdave2024.jpg">
-    <div class="person-name"><a href="https://www.linkedin.com/in/dave-rutvikkumar/">Rutvikkumar Dave</a></div>
-    <div class="person-title">M.Sc. DS<br/> Dept EECS, FAU</div>
   </div>
 
 </div>

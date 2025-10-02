@@ -1,5 +1,6 @@
 ![GenI-Lab Banner](http://generativeintelligencelab.ai/images/icons/genilab-banner.png)
 
+## [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
 
 ## Courses
 
