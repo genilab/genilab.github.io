@@ -1,8 +1,8 @@
 ![GenI-Lab Banner](http://generativeintelligencelab.ai/images/icons/genilab-banner.png)
 
-<center>
+
 ### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
-</center>
+
 
 Thank you for your interest in collaborating with our lab!
 
