@@ -21,8 +21,6 @@ Our Research Collaborators and Industry Partners help us design research project
 
 * [Research Community Papers](https://medium.com/generative-intelligence-lab/community-papers-series-ebacc91b47ea): this series aims to provide introductory overviews of specific concepts, explain related research opportunities, and outline potential ideas for research projects.
 
-* [Scientific Publications](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate): our publications in scientific journal, conferences, and workshops, presenting our visions, research developments, explorations, and results.
-
 <br/>
 <br/>
 
