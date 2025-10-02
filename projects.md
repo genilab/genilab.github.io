@@ -3,15 +3,16 @@
 ### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
 
 
-
 * [**VIP Enhancing Child Welfare Research and Translation through AI**](https://www.fau.edu/vip/projects/enhancing-child-welfare/): partnership project with FAU Social Works and Criminal Justice, supported by [Vertically Integrated Projects (VIP) program](https://www.fau.edu/vip/); we are developing Generative Intelligence technology to make a real difference in child welfare system.
+
+* [**Perceptions About Understanding and Skills with GenAI**](https://forms.gle/w1sm2rqZM3s8Aq3H7): we are learning how our academic community perceives their skills and confidence in using Generative AI systems and their current level of maturity with this technology. 
 
 * [**OwlMind Framework**](https://github.com/genilab/owlmind): research platform to support education and experimentation with Generative Intelligence Systems, AI-Driven Organizations and Collective Intelligence
 
 
 ### Candidate Projects
 
-* [**SGM in Counter-Unmanned Aerial Systems**](https://docs.google.com/document/d/1sizokJKUCZ5ZnkyXRqifDditB1SuRrwSYDo878yDxR0/edit?usp=sharing): create a laboratory to build a prototype around Small Generative Models in Counter-Unmanned Aerial Systems (Drone Detection). Partner: aiKOLO.
+* [**Small Generative Models in Counter-Unmanned Aerial Systems**](https://docs.google.com/document/d/1sizokJKUCZ5ZnkyXRqifDditB1SuRrwSYDo878yDxR0/edit?usp=sharing): create a laboratory to build a prototype around Small Generative Models in Counter-Unmanned Aerial Systems (Drone Detection). Partner: aiKOLO.
 
 * [**AI-Native, Resilient Edge Data Mesh for Smart Energy Infrastructure**](): a new class of AI-native, resilient networking technologies to enable NextG-compatible secure mesh overlays for wireless verticals that require continuous, policy-compliant data flow across highly dynamic, intermittent, or infrastructure-limited environments. Partner: Kinnami.
 
