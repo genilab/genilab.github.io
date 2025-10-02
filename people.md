@@ -1,9 +1,9 @@
 ![GenI-Lab Banner](http://generativeintelligencelab.ai/images/icons/genilab-banner.png)
 
-## [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
+### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
 
 
-## Lab Members
+### Lab Members
 
 <div class="grid-container" data-columns="3">
 
@@ -76,7 +76,7 @@
 </div>
 
 
-## Research Advisory Board
+### Research Advisory Board
 
 <div class="grid-container" data-columns="3">
 
@@ -101,7 +101,7 @@
 </div>
 
 
-## Industry Advisory Board
+### Industry Advisory Board
 
 <div class="grid-container" data-columns="3">
 
@@ -132,7 +132,7 @@
 </div>
 
 
-## Academic Research Collaborators
+### Academic Research Collaborators
 
 <div class="grid-container" data-columns="3">
 
@@ -169,7 +169,7 @@
 </div>
 
 
-## Honorary Research Collaborators
+### Honorary Research Collaborators
 
 <div class="grid-container" data-columns="3">
 
@@ -179,14 +179,4 @@
     <div class="person-title">PhD candidate at Technical University Munich, Germany</div>
   </div>
 </div>
-
-
-## Check Also
-
-* [Projects](./projects.md)
-* [Education](./knowledge.md#education)
-* [Tutorials](./knowledge.md#tutorials)
-* [Publications](./knowledge.md#publications)
-* [Join us](./collaborate.md)
-* [Team](./people.html)
 

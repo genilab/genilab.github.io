@@ -1,6 +1,6 @@
 ![GenI-Lab Banner](http://generativeintelligencelab.ai/images/icons/genilab-banner.png)
 
-## [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
+### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
 
 Thank you for your interest in collaborating with our lab!
 
@@ -22,7 +22,7 @@ You can collaborate with the Lab in one of the following capacities:
 ---
 
 
-## Project Ideas
+### Project Ideas
 
 * [Ideas for Industry-related Use Cases](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): provides a practical catalog of real-world use cases aimed at guiding applied exercises and lightweight experiments.
 
@@ -36,7 +36,7 @@ You can collaborate with the Lab in one of the following capacities:
 <br/>
 <br/>
 
-## Research Collaborators
+### Research Collaborators
 
 We seek to engage with Research Collaborators from other Department in our Research Community that can contribute with one or more of the following:
 
@@ -56,7 +56,7 @@ What should I do?
 <br/>
 <br/>
 
-## Industry Partners
+### Industry Partners
 
 We seek to collaborate with Industry Partners that can help with:
 
@@ -85,7 +85,7 @@ Where for 'Strategy':
 <br/>
 <br/>
 
-## PhD Students
+### PhD Students
 
 > Note: We DO NOT have opportunities with financial support. 
 
@@ -105,7 +105,7 @@ What must I do?
     * (see [examples](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing))
 
 
-## Masters Researcher
+### Masters Researcher
 
 We welcome Master's students who wish to conduct their dissertation research within the lab. 
 
@@ -120,7 +120,7 @@ What should I do?
 1. Fill out the [Expression of Interest](https://forms.gle/eY8FQmdfyytD3Hjq9).
 
 
-## Undergraduate Researcher
+### Undergraduate Researcher
 
 If you are an undergraduate student at FAU and curious about Generative Artificial Intelligence, Intelligent Chat Bots, Synthetic Content Creation, and other related topics, we would love to hear from you! 
 
@@ -132,16 +132,6 @@ We are open to:
 What must I do?
 1. Read [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
 2. Reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interest.
-
-## Check Also
-
-* [Projects](./projects.md)
-* [Education](./knowledge.md#education)
-* [Tutorials](./knowledge.md#tutorials)
-* [Publications](./knowledge.md#publications)
-* [Join us](./collaborate.md)
-* [Team](./people.html)
-
 
 
 

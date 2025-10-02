@@ -1,8 +1,8 @@
 ![GenI-Lab Banner](http://generativeintelligencelab.ai/images/icons/genilab-banner.png)
 
-## [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
+### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
 
-## Courses
+### Courses
 
 These are courses taught by Dr. Koch applying  our Research Resources:
 
@@ -11,7 +11,7 @@ These are courses taught by Dr. Koch applying  our Research Resources:
 * [CAP4623](https://fau.simplesyllabus.com/en-US/doc/h6c9776hw/Fall-2024-1-Full-Term-CAP-4623-001-?mode=view): Trustworthy Artificial Intelligence
 
 
-## Talks & Tutorials
+### Talks & Tutorials
 
 We deliver Talks and provide Tutorials to our research community and partners, aiming to promote knowledge sharing and advancing education.
 

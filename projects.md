@@ -1,6 +1,6 @@
 ![GenI-Lab Banner](http://generativeintelligencelab.ai/images/icons/genilab-banner.png)
 
-## [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
+### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
 
 
 * [VIP Enhancing Child Welfare Research and Translation through AI](https://www.fau.edu/vip/projects/enhancing-child-welfare/): partnership project with FAU Social Works and Criminal Justice, supported by [Vertically Integrated Projects (VIP) program](https://www.fau.edu/vip/); we are developing Generative Intelligence technology to make a real difference in child welfare system.
