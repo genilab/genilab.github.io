@@ -9,7 +9,7 @@
 * [OwlMind Framework](https://github.com/genilab/owlmind): research platform to support education and experimentation with Generative Intelligence Systems, AI-Driven Organizations and Collective Intelligence
 
 
-## Candidate Projects
+### Candidate Projects
 
 * [SGM in Counter-Unmanned Aerial Systems](https://docs.google.com/document/d/1sizokJKUCZ5ZnkyXRqifDditB1SuRrwSYDo878yDxR0/edit?usp=sharing): create a laboratory to build a prototype around Small Generative Models in Counter-Unmanned Aerial Systems (Drone Detection). Partner: aiKOLO.
 
