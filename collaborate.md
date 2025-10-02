@@ -1,5 +1,4 @@
-![GenI-Lab Banner](http://generativeintelligencelab.ai/images/icons/genilab-banner.png)
-
+<img src="http://generativeintelligencelab.ai/images/icons/genilab-banner.png" width="100%">
 
 ### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
 
