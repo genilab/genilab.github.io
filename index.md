@@ -1,6 +1,8 @@
 <img src="http://generativeintelligencelab.ai/images/icons/genilab-banner.png" width="100%">
 
+<center>
 ### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
+</center>
 
 <br/>
 
