@@ -10,20 +10,23 @@ We strive to bring together like-minded innovators and Multi-Disciplinary resear
 You can collaborate with the Lab in one of the following capacities:
 
 * [Research Collaborators](#research-collaborators)
-* [Industry Partner](#industry-partner)
-* [Ph.D. Students](#phd-students)
+* [Industry Partners](#industry-partner)
+* [Ph.D. Candidates](#phd-students)
 * [Master Researcher](#master-researcher)
 * [Undergraduate Researcher](#undergradute-researcher)
 
 
-### Project Ideas
+### Some Ideas
 
-* [Ideas for Industry-related Use Cases](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): provides a practical catalog of real-world use cases aimed at guiding applied exercises and lightweight experiments.
+* [Ideas for Scientific Research Explorations](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): whre you can look for pointers to potentially interesting research question and their contribution to the state-of-the-art.
 
-* [Ideas for Scientific Research Projects](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): these projects are more complex and focus on pushing the boundaries of generative models, learning dynamics, or system safety. 
+* [Ideas for Industry-related Use Cases](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): open science catalog of real-world use cases developed along with our industry partners and through interviews with 
 
+* [Candidate Projects](./projects.md#candidate-projects): these are project ideas sourced from our Collaborators; it is always a good idea to engage in multidiscipliary projects to start strong.
+  
+---
 
-### Research Collaborators
+### For Research Collaborators
 
 We seek to engage with Research Collaborators from other Department in our Research Community that can contribute with one or more of the following:
 
@@ -36,9 +39,9 @@ What should I do?
 * Reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message.
 
 
-### Industry Partners
+### For Industry Partners
 
-We seek to collaborate with Industry Partners that can help with:
+We seek to collaborate with Industry Partners that work with us on:
 
 * Ideas for Candidate Projects that we can develop together.
 * Your Technology as Research Resource for experimentation.
@@ -48,7 +51,7 @@ What should I do?
 1. Reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interest.
 
 
-### PhD Students
+### For PhD Candidates
 
 > Note: We DO NOT have opportunities with financial support. 
 
@@ -68,7 +71,7 @@ What must I do?
     * (see [examples](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing))
 
 
-### Masters Researcher
+### For Candidates to Masters Researcher
 
 We welcome Master's students who wish to conduct their dissertation research within the lab. 
 
@@ -83,7 +86,7 @@ What should I do?
 1. Fill out the [Expression of Interest](https://forms.gle/eY8FQmdfyytD3Hjq9).
 
 
-### Undergraduate Researcher
+### For Undergraduate Researcher
 
 If you are an undergraduate student at FAU and curious about Generative Artificial Intelligence, Intelligent Chat Bots, Synthetic Content Creation, and other related topics, we would love to hear from you! 
 
