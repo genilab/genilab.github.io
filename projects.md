@@ -3,7 +3,9 @@
 ### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
 
 
-* [**VIP Enhancing Child Welfare Research and Translation through AI**](https://www.fau.edu/vip/projects/enhancing-child-welfare/): partnership project with FAU Social Works and Criminal Justice, supported by [Vertically Integrated Projects (VIP) program](https://www.fau.edu/vip/); we are developing Generative Intelligence technology to make a real difference in child welfare system.
+### Ongoing Initiatives
+
+* [**VIP Enhancing Child Welfare Research and Translation through AI**](https://www.fau.edu/vip/projects/enhancing-child-welfare/):  we are developing Generative Intelligence technology to make a real difference in child welfare system. Supported by [Vertically Integrated Projects (VIP) program](https://www.fau.edu/vip/). Partner: Colleage of Social Works and Criminal Justice, FAU.
 
 * [**Perceptions About Understanding and Skills with GenAI**](https://forms.gle/w1sm2rqZM3s8Aq3H7): we are learning how our academic community perceives their skills and confidence in using Generative AI systems and their current level of maturity with this technology. 
 
