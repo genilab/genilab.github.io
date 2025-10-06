@@ -97,6 +97,7 @@ What should I do?
 
 <br/>
 <br/>
+
 ### For Undergraduate Researchers
 
 If you are an undergraduate student at FAU and curious about Generative Artificial Intelligence, Intelligent Chat Bots, Synthetic Content Creation, and other related topics, we would love to hear from you! 
