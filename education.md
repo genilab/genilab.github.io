@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-### Courses
+## Courses
 
 These are courses taught by Dr. Koch applying  our Research Resources:
 
@@ -16,7 +16,7 @@ These are courses taught by Dr. Koch applying  our Research Resources:
 <br/>
 <br/>
 
-### Talks & Tutorials
+## Talks & Tutorials
 
 We deliver Talks and provide Tutorials to our research community and partners, aiming to promote knowledge sharing and advancing education.
 
