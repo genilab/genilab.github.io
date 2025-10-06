@@ -2,8 +2,6 @@
 
 ### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
 
-
-<br/>
 <br/>
 
 ### Ongoing Initiatives
@@ -15,7 +13,6 @@
 * [**OwlMind Framework**](https://github.com/genilab/owlmind): research platform to support education and experimentation with Generative Intelligence Systems, AI-Driven Organizations and Collective Intelligence
 
 
-<br/>
 <br/>
 
 ### Candidate Projects
