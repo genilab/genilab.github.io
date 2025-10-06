@@ -16,7 +16,6 @@ You can collaborate with the Lab in one of the following capacities:
 * [Undergraduate Researcher](#undergradute-researcher)
 
 <br/>
-<br/>
 
 ### Some Ideas
 
