@@ -3,6 +3,9 @@
 ### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
 
 
+<br/>
+<br/>
+
 ### Ongoing Initiatives
 
 * [**VIP Enhancing Child Welfare Research and Translation through AI**](https://www.fau.edu/vip/projects/enhancing-child-welfare/):  we are developing Generative Intelligence technology to make a real difference in child welfare system. Supported by [Vertically Integrated Projects (VIP) program](https://www.fau.edu/vip/). Partner: Colleage of Social Works and Criminal Justice, FAU.
@@ -11,6 +14,9 @@
 
 * [**OwlMind Framework**](https://github.com/genilab/owlmind): research platform to support education and experimentation with Generative Intelligence Systems, AI-Driven Organizations and Collective Intelligence
 
+
+<br/>
+<br/>
 
 ### Candidate Projects
 
