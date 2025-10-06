@@ -3,7 +3,6 @@
 ### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
 
 <br/>
-<br/>
 
 Thank you for your interest in collaborating with our lab!
 
