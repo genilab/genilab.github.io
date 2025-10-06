@@ -28,6 +28,9 @@ You can collaborate with the Lab in one of the following capacities:
 * [**Candidate Projects**](./projects.md#candidate-projects): these are project ideas sourced from our Collaborators; it is always a good idea to engage in multidiscipliary projects to start strong.
   
 <br/>
+
+---
+
 <br/>
 
 
