@@ -7,9 +7,9 @@
 
 Thank you for your interest in collaborating with our lab!
 
-We strive to bring together like-minded innovators and Multi-Disciplinary research groups.
+We strive to bring together like-minded innovators and Multi-Disciplinary researchers to create meaningful projects. 
 
-You can collaborate with the Lab in one of the following capacities:
+You can participate in the following capacities:
 
 * [Research Collaborators](#for-research-collaborators)
 * [Industry Partners](#for-industry-partner)
@@ -21,11 +21,12 @@ You can collaborate with the Lab in one of the following capacities:
 
 ### Some Ideas
 
-* [**Ideas for Scientific Research Explorations**](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): where you can look for pointers to potentially interesting research question and their contribution to the state-of-the-art.
+* [**Candidate Projects**](./projects.md#candidate-projects): ideas sourced from our collaborators, which we are seeking financial support and/or resources to execute.
 
-* [**Ideas for Industry-related Use Cases**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): open science catalog of real-world use cases developed along with our industry partners and through interviews with 
+* [**Ideas for Industry-related Use Cases**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): open-science list of Project Ideas for Industry-Related compiled from exchanges with experts, publications, and experiences.
 
-* [**Candidate Projects**](./projects.md#candidate-projects): these are project ideas sourced from our Collaborators; it is always a good idea to engage in multidiscipliary projects to start strong.
+* [**Ideas for Scientific Explorations**](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): pointers to potentially interesting research question and their contribution to the state-of-the-art.
+
   
 <br/>
 
