@@ -2,6 +2,9 @@
 
 ### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
 
+<br/>
+<br/>
+
 ### Lab Members
 
 <div class="grid-container" data-columns="3">
