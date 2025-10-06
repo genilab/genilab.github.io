@@ -3,7 +3,6 @@
 ### [Projects](./projects.md) | [Education](./education.md) | [Join](./collaborate.md) | [Team](./people.md)
 
 <br/>
-<br/>
 
 ## Courses
 
@@ -13,7 +12,6 @@ These are courses taught by Dr. Koch applying  our Research Resources:
 * [CEN 4010](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view): Principles of Software Engineering with Generative Intelligence
 * [CAP4623](https://fau.simplesyllabus.com/en-US/doc/h6c9776hw/Fall-2024-1-Full-Term-CAP-4623-001-?mode=view): Trustworthy Artificial Intelligence
 
-<br/>
 <br/>
 
 ## Talks & Tutorials
