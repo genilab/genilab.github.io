@@ -11,11 +11,11 @@ We strive to bring together like-minded innovators and Multi-Disciplinary resear
 
 You can collaborate with the Lab in one of the following capacities:
 
-* [Research Collaborators](#research-collaborators)
-* [Industry Partners](#industry-partner)
-* [Ph.D. Candidates](#phd-students)
-* [Master Researcher](#master-researcher)
-* [Undergraduate Researcher](#undergradute-researcher)
+* [Research Collaborators](#for-research-collaborators)
+* [Industry Partners](#for-industry-partner)
+* [Ph.D. Candidates](#for-phd-candidates)
+* [Master Researcher](#for-master-researchers)
+* [Undergraduate Researcher](#for-undergradute-researchers)
 
 <br/>
 
