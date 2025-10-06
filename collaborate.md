@@ -15,6 +15,8 @@ You can collaborate with the Lab in one of the following capacities:
 * [Master Researcher](#master-researcher)
 * [Undergraduate Researcher](#undergradute-researcher)
 
+<br/>
+<br/>
 
 ### Some Ideas
 
@@ -24,7 +26,9 @@ You can collaborate with the Lab in one of the following capacities:
 
 * [Candidate Projects](./projects.md#candidate-projects): these are project ideas sourced from our Collaborators; it is always a good idea to engage in multidiscipliary projects to start strong.
   
----
+<br/>
+<br/>
+
 
 ### For Research Collaborators
 
@@ -51,6 +55,9 @@ What should I do?
 1. Reach out to [Dr. Koch](https://www.fau.edu/engineering/directory/faculty/koch/) with a short message about your interest.
 
 
+<br/>
+<br/>
+
 ### For PhD Candidates
 
 > Note: We DO NOT have opportunities with financial support. 
@@ -71,7 +78,10 @@ What must I do?
     * (see [examples](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing))
 
 
-### For Candidates to Masters Researcher
+<br/>
+<br/>
+
+### For Masters Researchers
 
 We welcome Master's students who wish to conduct their dissertation research within the lab. 
 
@@ -85,8 +95,9 @@ What should I do?
 1. Check [Dr. Koch’s Philosophy on Academic Advisory](https://genilab.medium.com/my-philosophy-on-academic-advisory-3b3160e05104).
 1. Fill out the [Expression of Interest](https://forms.gle/eY8FQmdfyytD3Hjq9).
 
-
-### For Undergraduate Researcher
+<br/>
+<br/>
+### For Undergraduate Researchers
 
 If you are an undergraduate student at FAU and curious about Generative Artificial Intelligence, Intelligent Chat Bots, Synthetic Content Creation, and other related topics, we would love to hear from you! 
 
