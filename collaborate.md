@@ -19,7 +19,7 @@ You can participate in the following capacities:
 
 <br/>
 
-### Some Ideas
+## Some Ideas
 
 * [**Candidate Projects**](./projects.md#candidate-projects): ideas sourced from our collaborators, which we are seeking financial support and/or resources to execute.
 
@@ -35,7 +35,7 @@ You can participate in the following capacities:
 <br/>
 
 
-### For Research Collaborators
+## For Research Collaborators
 
 We seek to engage with Research Collaborators from other Department in our Research Community that can contribute with one or more of the following:
 
@@ -63,7 +63,7 @@ What should I do?
 <br/>
 <br/>
 
-### For PhD Candidates
+## For PhD Candidates
 
 > Note: We DO NOT have opportunities with financial support. 
 
@@ -86,7 +86,7 @@ What must I do?
 <br/>
 <br/>
 
-### For Masters Researchers
+## For Masters Researchers
 
 We welcome Master's students who wish to conduct their dissertation research within the lab. 
 
@@ -103,7 +103,7 @@ What should I do?
 <br/>
 <br/>
 
-### For Undergraduate Researchers
+## For Undergraduate Researchers
 
 If you are an undergraduate student at FAU and curious about Generative Artificial Intelligence, Intelligent Chat Bots, Synthetic Content Creation, and other related topics, we would love to hear from you! 
 
