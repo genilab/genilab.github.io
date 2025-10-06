@@ -167,13 +167,6 @@
     <div class="person-title">Associate Professor<br/>Department of Counselor Education and Supervision, FAU</div>
   </div>
 
-</div>
-
-
-## Honorary Research Collaborators
-
-<div class="grid-container" data-columns="3">
-
   <div class="grid-item person-card">
     <img src="http://generativeintelligencelab.ai/images/people/adjuhera.jpg">
     <div class="person-name"><a href="https://www.linkedin.com/in/aladindjuhera">Aladin Djuhera</a></div>
