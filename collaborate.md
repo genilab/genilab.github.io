@@ -21,11 +21,11 @@ You can collaborate with the Lab in one of the following capacities:
 
 ### Some Ideas
 
-* [Ideas for Scientific Research Explorations](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): where you can look for pointers to potentially interesting research question and their contribution to the state-of-the-art.
+* [**Ideas for Scientific Research Explorations**](https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing): where you can look for pointers to potentially interesting research question and their contribution to the state-of-the-art.
 
-* [Ideas for Industry-related Use Cases](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): open science catalog of real-world use cases developed along with our industry partners and through interviews with 
+* [**Ideas for Industry-related Use Cases**](https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing): open science catalog of real-world use cases developed along with our industry partners and through interviews with 
 
-* [Candidate Projects](./projects.md#candidate-projects): these are project ideas sourced from our Collaborators; it is always a good idea to engage in multidiscipliary projects to start strong.
+* [**Candidate Projects**](./projects.md#candidate-projects): these are project ideas sourced from our Collaborators; it is always a good idea to engage in multidiscipliary projects to start strong.
   
 <br/>
 <br/>
