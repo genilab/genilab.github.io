@@ -8,13 +8,13 @@
 
 These are courses taught by Dr. Koch applying  our Research Resources:
 
-* [**COT6930 - Generative Artificial Intelligence and Software Development Lifecycles**](https://fau.simplesyllabus.com/doc/em80vs56l/Fall-2025-1-Full-Term-COT-6930-004-Topics-in-Computer-Science?mode=view).
+* [**COT6930 - Generative Artificial Intelligence and Software Development Lifecycles**](https://fau.simplesyllabus.com/doc/em80vs56l/Fall-2025-1-Full-Term-COT-6930-004-Topics-in-Computer-Science?mode=view)
 
-* [**CAP 4773 - Introduction to Data Sciences and Analytics**](https://fau.simplesyllabus.com/doc/vu2oezhle/Fall-2025-1-Full-Term-CAP-4773-005-Intro-Data-Science-Analytics?mode=view).
+* [**CAP 4773 - Introduction to Data Sciences and Analytics**](https://fau.simplesyllabus.com/doc/vu2oezhle/Fall-2025-1-Full-Term-CAP-4773-005-Intro-Data-Science-Analytics?mode=view)
   
-* [**CEN 4010 - Principles of Software Engineering in the era of Generative Intelligence**](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view).
+* [**CEN 4010 - Principles of Software Engineering in the era of Generative Intelligence**](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view)
 
-* [**CAP4623 - Trustworthy Artificial Intelligence**](https://fau.simplesyllabus.com/en-US/doc/h6c9776hw/Fall-2024-1-Full-Term-CAP-4623-001-?mode=view). 
+* [**CAP4623 - Trustworthy Artificial Intelligence**](https://fau.simplesyllabus.com/en-US/doc/h6c9776hw/Fall-2024-1-Full-Term-CAP-4623-001-?mode=view)
 
 <br/>
 
