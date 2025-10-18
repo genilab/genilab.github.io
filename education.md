@@ -22,11 +22,13 @@ These are courses taught by Dr. Koch applying  our Research Resources:
 
 We deliver Talks and provide Tutorials to our research community and partners, aiming to promote knowledge sharing and advancing education.
 
-* [**TALK - Generative Intelligence and Business**](https://docs.google.com/document/d/1IzxV96FsFrPZrR1zahTKazpmeXNthmAmAjhgJMC9tS0/edit?usp=sharing): introduces the core concepts, capabilities, and practical applications of Generative Intelligence in scientific research, with a special focus on multi-disciplinary projects.
+* [**WORKSHOP - Generative Intelligence Systems**](https://docs.google.com/document/d/11bUoozv9JS7rEPTIPIvOianiEUYTlb9SbOGmHYKp3EM/edit?usp=sharing): revises the concepts and applications of Generative Artificial Intelligence Systems, Large Generative Models, Agentic Frameworks, and Multi-Agent System
 
-* [**TALK - Generative Intelligence in Academic Projects**](https://docs.google.com/document/d/1C6_n_FF4P_wgOZ6W87P4xZtr-dzveOyNz6mIBP0X3nc/edit?usp=sharing): introduces core concepts, capabilities, and practical applications of Generative Intelligence in scientific research.
+* [**TUTORIAL - Generative Intelligence and Large Language Models**](https://docs.google.com/document/d/1Mnq8rgR35Qz9NdP-aj0vlOCeAFaONwsKN0KN0BMdgEc/edit?usp=sharing): provides a deep technical exploration of Generative Intelligence and Large Language Models, examining their foundations, architectures, and evolution toward distributed, collaborative AI systems.
 
-* [**TALK - Generative Intelligence and AI-Driven Organizations**](https://docs.google.com/document/d/1V2sv-jmDU6A7RB-P1C-Wa29IQK0ZReWku9SAa6APz0I/edit?usp=sharing): introduces the concept of Generative Intelligence and its role in transforming traditional businesses into AI-Driven Organizations
+* [**TALK - Generative Intelligence and Business**](https://docs.google.com/document/d/1xb0yGzUdC6zkSB12U3Rhtwg8P2JV9zeQh7wWMuvEUOA/edit?usp=sharing): introduces the core concepts, capabilities, and practical applications of Generative Intelligence in scientific research, with a special focus on multi-disciplinary projects.
 
-* [**TUTORIAL - Generative Intelligence Systems**](https://docs.google.com/document/d/11bUoozv9JS7rEPTIPIvOianiEUYTlb9SbOGmHYKp3EM/edit?usp=sharing): revises the concepts and applications of Generative Artificial Intelligence Systems, Large Generative Models, Agentic Frameworks, and Multi-Agent System
+* [**TALK - Generative Intelligence in Academic Projects**](https://docs.google.com/document/d/1TPzmjNj-mr-YgoLPFU6yjiWvijnFN-nWvUo2drsrh-k/edit?usp=sharing): introduces core concepts, capabilities, and practical applications of Generative Intelligence in scientific research.
+-old
+
 
