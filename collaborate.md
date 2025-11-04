@@ -18,7 +18,7 @@ You can participate in the following capacities:
 
 <br/>
 
-## Some Ideas
+## Ideas For Projects
 
 * [**Candidate Projects**](./projects.md#candidate-projects): ideas sourced from our collaborators, which we are seeking financial support and/or resources to execute.
 
