@@ -8,7 +8,7 @@
 
 These are courses taught by Dr. Koch applying  our Research Resources:
 
-* [**COT6930 - Generative Artificial Intelligence and Software Development Lifecycles**](https://fau.simplesyllabus.com/doc/em80vs56l/Fall-2025-1-Full-Term-COT-6930-004-Topics-in-Computer-Science?mode=view)
+* [**COT6930 - Generative Artificial Intelligence and Software Development Lifecycles**](https://fau.simplesyllabus.com/doc/w803j6asg/Spring-2026-1-Full-Term-COT-6930-001-Topics-in-Computer-Science?mode=view)
 
 * [**CAP 4773 - Introduction to Data Sciences and Analytics**](https://fau.simplesyllabus.com/doc/vu2oezhle/Fall-2025-1-Full-Term-CAP-4773-005-Intro-Data-Science-Analytics?mode=view)
   
