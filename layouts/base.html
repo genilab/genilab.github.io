@@ -1,0 +1,218 @@
+<!--
+##
+## Sensible Website - A Generative AI base web-site template system 
+## for data-driven websites.
+## 
+# v0.2 'Bodymedia Support' release
+#
+# Copyright (c) 2025, Dr. Fernando Koch
+#     http://generativeintelligencelab.ai
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights 
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# Disclosure:
+# This code was developed using experimental "vibe coding" approaches.
+# Certain components required manual implementation, and human-in-the-loop 
+# review and refinement were applied throughout the project.
+#
+*/
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title></title>
+
+  <!-- Fonts & Styles -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="layouts/styles.css" />
+</head>
+<body>
+  <main class="container">
+    <!-- HEADER SECTION -->
+    <section class="header">
+      <h1 id="title"></h1>
+      <p class="subtext" id="tagline"></p>
+      <img id="lab-image" class="lab-image" alt="Main icon">
+    </section>
+
+    <!-- CONTENT SECTION -->
+    <section class="content">
+      <h2 id="oneliner"></h2>
+      <div id="body"></div>
+
+      <div class="buttons" id="buttons"></div>
+      <div class="partners" id="logos"></div>
+    </section>
+  </main>
+
+  <script>
+  (() => {
+    const parser = new DOMParser();
+    const srcDoc = parser.parseFromString(window.__PAGE_SOURCE__, 'text/html');
+    const clean = (str = '') => str.replace(/\s+/g, ' ').trim();
+
+    /* --- TITLE & TAGLINE --- */
+    const titleEl = srcDoc.querySelector('title');
+    const titleText = clean(titleEl?.textContent || '');
+    const titleLink = titleEl?.getAttribute('link');
+
+    // ✅ Preserve multiline tagline with <br> conversion
+    const taglineEl = srcDoc.querySelector('tagline');
+    let taglineHTML = '';
+    if (taglineEl) {
+      taglineHTML = taglineEl.innerHTML
+        .split(/\r?\n/)
+        .map(line => line.trim())
+        .filter(Boolean)
+        .join('<br>');
+    }
+
+    document.title = titleText;
+    const titleContainer = document.getElementById('title');
+    if (titleLink) {
+      titleContainer.innerHTML = `<a href="${titleLink}" class="title-link">${titleText}</a>`;
+    } else {
+      titleContainer.textContent = titleText;
+    }
+
+    const taglineContainer = document.getElementById('tagline');
+    taglineContainer.innerHTML = taglineHTML;
+
+    /* --- ICON --- */
+    const iconPath = clean(srcDoc.querySelector('icon')?.textContent || '');
+    const imgEl = document.getElementById('lab-image');
+    if (iconPath) {
+      imgEl.src = iconPath;
+      imgEl.style.display = 'block';
+    } else {
+      imgEl.remove();
+    }
+
+    /* --- ONELINER --- */
+    const oneliner = clean(srcDoc.querySelector('oneliner')?.textContent || '');
+    document.getElementById('oneliner').textContent = oneliner;
+
+    /* --- BODYCONTENT --- */
+    const bodyContainer = document.getElementById('body');
+    const bodyContent = srcDoc.querySelector('bodycontent');
+    if (bodyContent) {
+      let htmlOutput = '';
+
+      bodyContent.childNodes.forEach(node => {
+        const nodeName = node.nodeName.toLowerCase();
+
+        // --- BODYGRID ---
+        if (nodeName === 'bodygrid') {
+          const gridText = node.textContent.trim();
+          if (gridText) {
+            const cardsData = gridText.split('\n').map(l => clean(l)).filter(Boolean);
+            const cards = cardsData.map(line => {
+              const [title, desc, img, link] = line.split(';').map(s => clean(s)).filter(Boolean);
+              const imgHTML = img ? `<img class="bodygrid-image" src="${img}" alt="${title}">` : '';
+              const titleHTML = link
+                ? `<a href="${link}" target="_blank" class="bodygrid-title">${title}</a>`
+                : `<div class="bodygrid-title">${title}</div>`;
+              const descHTML = desc ? `<div class="bodygrid-desc">${desc}</div>` : '';
+              return `<div class="bodygrid-card">${imgHTML}${titleHTML}${descHTML}</div>`;
+            });
+            htmlOutput += `<div class="bodygrid">${cards.join('')}</div>`;
+          }
+        }
+
+        // --- BODYMEDIA ---
+        else if (nodeName === 'bodymedia') {
+          const mediaText = node.textContent.trim();
+          if (mediaText) {
+            const cardsData = mediaText.split('\n').map(l => clean(l)).filter(Boolean);
+            const cards = cardsData.map(line => {
+              const [title, desc, img, link] = line.split(';').map(s => clean(s)).filter(Boolean);
+              const imgHTML = img ? `<img class="bodymedia-image" src="${img}" alt="${title}">` : '';
+              const titleHTML = link
+                ? `<a href="${link}" target="_blank" class="bodymedia-title">${title}</a>`
+                : `<div class="bodymedia-title">${title}</div>`;
+              const descHTML = desc ? `<div class="bodymedia-desc">${desc}</div>` : '';
+              return `<div class="bodymedia-card">${imgHTML}<div class="bodymedia-text">${titleHTML}${descHTML}</div></div>`;
+            });
+            htmlOutput += `<div class="bodymedia">${cards.join('')}</div>`;
+          }
+        }
+
+        // --- HEADINGS ---
+        else if (['h2', 'h3', 'h4', 'h5'].includes(nodeName)) {
+          htmlOutput += `<${nodeName}>${clean(node.textContent)}</${nodeName}>`;
+        }
+
+        // --- TEXT & BULLETS ---
+        else if (node.nodeType === Node.TEXT_NODE && clean(node.textContent)) {
+          const textBlock = node.textContent.trim();
+          const lines = textBlock.split('\n').map(l => l.trim()).filter(Boolean);
+          let paragraphs = [];
+          let listItems = [];
+
+          lines.forEach(line => {
+            if (line.startsWith('*')) {
+              const content = line.replace(/^\*\s*/, '').trim();
+              const [text, link] = content.split(';').map(s => clean(s));
+              const listItem = link
+                ? `<li><a href="${link}" target="_blank">${text}</a></li>`
+                : `<li>${text}</li>`;
+              listItems.push(listItem);
+            } else {
+              if (listItems.length) {
+                paragraphs.push(`<ul>${listItems.join('')}</ul>`);
+                listItems = [];
+              }
+              // ✅ fixed missing parenthesis here
+              paragraphs.push(`<p>${clean(line)}</p>`);
+            }
+          });
+
+          if (listItems.length) paragraphs.push(`<ul>${listItems.join('')}</ul>`);
+          htmlOutput += paragraphs.join('');
+        }
+      });
+
+      bodyContainer.innerHTML = htmlOutput;
+    }
+
+    /* --- BUTTONS --- */
+    const btnText = srcDoc.querySelector('buttons')?.textContent?.trim() || '';
+    if (btnText) {
+      const buttons = btnText.split('\n').map(l => l.split(';').map(x => clean(x)).filter(Boolean)).filter(l => l[0]);
+      const btnHTML = buttons.map(([label, link]) => `<a href="${link}" class="btn">${label}</a>`).join('');
+      document.getElementById('buttons').innerHTML = btnHTML;
+    } else {
+      document.getElementById('buttons').remove();
+    }
+
+    /* --- LOGOS --- */
+    const logosText = srcDoc.querySelector('logos')?.textContent?.trim() || '';
+    if (logosText) {
+      const logos = logosText.split('\n').map(l => l.split(';').map(x => clean(x)).filter(Boolean)).filter(l => l[0]);
+      const logosHTML = logos.map(([src, alt, href]) =>
+        `<a href="${href}" target="_blank"><img src="${src}" alt="${alt}" title="${alt}"></a>`).join('');
+      document.getElementById('logos').innerHTML = logosHTML;
+    } else {
+      document.getElementById('logos').remove();
+    }
+
+    /* --- CONFIG --- */
+    const configText = srcDoc.querySelector('config')?.textContent?.trim() || '';
+    if (configText) {
+      configText.split('\n').forEach(line => {
+        const [key, value] = line.split(':').map(s => clean(s));
+        if (key && value) document.documentElement.style.setProperty(`--${key}`, value);
+      });
+    }
+  })();
+  </script>
+</body>
+</html>

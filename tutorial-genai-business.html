@@ -1,0 +1,90 @@
+<!--
+## tutorial-genai-business.html
+## Sensible Website Page 
+## Part of the Generative AI base website system for data-driven sites.
+#
+# http://generativeintelligencelab.ai
+#
+-->
+
+<!-- --------------------
+  TITLE & BASIC INFO
+-------------------- -->
+<title link="/index.html">
+  The Generative Intelligence Lab
+</title>
+
+<tagline>
+  Department of Electrical Engineering and Computer Sciences at FAU
+</tagline>
+
+<!-- --------------------
+  ICON
+-------------------- -->
+<icon>
+  images/icons/genilab-knowledge.png
+</icon>
+
+<!-- --------------------
+  ONE-LINER
+-------------------- -->
+<oneliner>
+  TUTORIAL - Generative Intelligence and Business
+</oneliner>
+
+<!-- --------------------
+  BODY CONTENT
+-------------------- -->
+<bodycontent>
+
+This tutorial (1-2 hours) introduces Generative Intelligence and how it is reshaping business processes.  
+
+* What is Generative Intelligence, and how does it differ from traditional AI used in business?  
+* How can startups and entrepreneurs use GenAI to ideate, prototype, and launch new products or services?  
+* How can non-technical founders leverage GenAI to build interactive tools like chatbots, customer assistants, or internal helpers that make sense in business contexts?  
+
+<h3>Target Audience</h3>
+This talk is intended for faculty, business leaders, and students from non-technical backgrounds who are interested in exploring the role of Generative Intelligence in business.  
+
+<h3>Proposed Structure</h3>
+* Topic 1 - Understanding Generative Intelligence: What Generative AI is and why it matters in business.
+* Topic 2 - GenAI in Business Applications: What Generative AI can and cannot do in business settings. 
+* Topic 3 - Interacting better with Generative Intelligence: Basic view of prompt engineering and how to write clear and simple instructions to get useful, relevant results. 
+* Topic 4 - Agentic AI: Introduction to agents and how they differ from simple tools. 
+* Topic 5 - AI-Driven Organizations: Understanding when AI systems act as the core operational in business operations.
+
+</bodycontent>
+
+<!-- --------------------
+  BUTTONS
+-------------------- -->
+<buttons>
+About the Speaker; http://www.fernandokoch.me/minibio.html
+Request this Tutorial; https://forms.gle/QCpxuQSP7nf8uzUc9
+</buttons>
+
+
+<!--
+##
+## LAUNCHER For Sensible Website 
+## Loads the base template and injects the current page’s source into it.
+# 
+# This script:
+# 1. Fetches the shared base layout (e.g., layouts/base.html)
+# 2. Copies the current page source into `window.__PAGE_SOURCE__`
+# 3. Rewrites the DOM to render the page through the base template
+#
+# Copyright (c) 2025, Dr. Fernando Koch
+#     http://generativeintelligencelab.ai
+#
+-->
+<script>
+(async () => {
+  const res = await fetch("/layouts/base.html");
+  const templateHTML = await res.text();
+  window.__PAGE_SOURCE__ = document.documentElement.outerHTML;
+  document.open();
+  document.write(templateHTML);
+  document.close();
+})();
+</script>

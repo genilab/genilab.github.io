@@ -1,0 +1,93 @@
+<!--
+## tutorial-genai-academia.html
+## Sensible Website Page 
+## Part of the Generative AI base website system for data-driven sites.
+#
+# http://generativeintelligencelab.ai
+#
+-->
+
+<!-- --------------------
+  TITLE & BASIC INFO
+-------------------- -->
+<title link="/index.html">
+  The Generative Intelligence Lab
+</title>
+
+<tagline>
+  Department of Electrical Engineering and Computer Sciences at FAU
+</tagline>
+
+<!-- --------------------
+  ICON
+-------------------- -->
+<icon>
+  images/icons/genilab-knowledge.png
+</icon>
+
+<!-- --------------------
+  ONE-LINER
+-------------------- -->
+<oneliner>
+  TALK - Generative Intelligence in Academic Projects.
+</oneliner>
+
+<!-- --------------------
+  BODY CONTENT
+-------------------- -->
+<bodycontent>
+
+This tutorial (1-2 hours) introduces the core concepts, capabilities, and practical applications of Generative Intelligence in scientific research, with a special focus on multi-disciplinary projects.  
+It is designed for a non-technical audience and aims to promote an understanding of Generative AI as an enabler for new forms of **interaction, collaboration, and creativity** in research.  
+
+* What is Generative Intelligence, and how does it differ from traditional AI approaches?  
+* How can GenAI support scientific research across disciplines, particularly for non-technical users?  
+* How can Generative AI assist in analyzing and interpreting unstructured data such as text, images, or video?  
+* How can scientists begin exploring and applying GenAI tools effectively in their own work?  
+
+<h3>Target Audience</h3>
+This talk is intended for faculty, researchers, and students from non-technical backgrounds who are interested in exploring the role of Generative Intelligence in scientific research.  
+
+<h3>Proposed Structure</h3>
+* Topic 1 - Understanding Generative Intelligence: What Generative AI is and why it matters in research.  
+* Topic 2 - GenAI in Research Applications: How Generative AI can support academic exploration, data analysis, and interdisciplinary collaboration.  
+* Topic 3 - Interacting Better with Generative Intelligence: Basic view of prompt engineering and how to write clear and simple instructions to get useful, relevant results.  
+* Topic 4 - AI-Driven Research: Understanding how AI systems can act as active collaborators in research and academic innovation.  
+
+</bodycontent>
+
+<!-- --------------------
+  BUTTONS
+-------------------- -->
+<buttons>
+About the Speaker; http://www.fernandokoch.me/minibio.html
+Request this Tutorial; https://forms.gle/QCpxuQSP7nf8uzUc9
+</buttons>
+
+
+<!--
+##
+## LAUNCHER For Sensible Website 
+## Loads the base template and injects the current page’s source into it.
+# 
+# This script:
+# 1. Fetches the shared base layout (e.g., layouts/base.html)
+# 2. Copies the current page source into `window.__PAGE_SOURCE__`
+# 3. Rewrites the DOM to render the page through the base template
+#
+# Copyright (c) 2025, Dr. Fernando Koch
+#     http://generativeintelligencelab.ai
+#
+*/
+#
+-->
+<script>
+(async () => {
+  const res = await fetch("/layouts/base.html");
+  const templateHTML = await res.text();
+  window.__PAGE_SOURCE__ = document.documentElement.outerHTML;
+  document.open();
+  document.write(templateHTML);
+  document.close();
+})();
+</script>

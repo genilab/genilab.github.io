@@ -1,0 +1,92 @@
+<!--
+## tutorial-gen-intel.html
+## Sensible Website Page 
+## Part of the Generative AI base website system for data-driven sites.
+#
+# http://generativeintelligencelab.ai
+#
+-->
+
+<!-- --------------------
+  TITLE & BASIC INFO
+-------------------- -->
+<title link="/index.html">
+  The Generative Intelligence Lab
+</title>
+
+<tagline>
+  Department of Electrical Engineering and Computer Sciences at FAU
+</tagline>
+
+<!-- --------------------
+  ICON
+-------------------- -->
+<icon>
+  images/icons/genilab-knowledge.png
+</icon>
+
+<!-- --------------------
+  ONE-LINER
+-------------------- -->
+<oneliner>
+  TUTORIAL - Generative Intelligence Systems
+</oneliner>
+
+<!-- --------------------
+  BODY CONTENT
+-------------------- -->
+<bodycontent>
+
+This tutorial (2-4 hours) revises the concepts and applications of Generative Artificial Intelligence (GenAI), Large Generative Models, Agentic Frameworks, and Multi-Agent Systems.
+
+* What is Generative AI, and how is it different from traditional AI?  
+* What are the real-world benefits and limitations of using GenAI in industry solutions?  
+* What does it mean for an AI to be agentic or autonomous?  
+* What are the broader implications around the rise of this technology for the industry, the workforce, and society as a whole?  
+
+<h3>Target Audience</h3>
+Researchers, students, and practitioners with some technical background and some understanding about AI, Machine Learning, Deep Learning, and programming. The tutorial includes practical demonstrations and exercises attendees can implement on their own.
+
+<h3>Proposed Structure</h3>
+* Topic 1 - Foundations of Generative AI: Introduces the concept of Generative Intelligence Systems (GenAI) and its transformative role in industry and society. 
+* Topic 2 - Large Generative Models: In-depth look at Transformer Architectures, Generative Model operation, configuration, and practical applications.
+* Topic 3 - Prompt Engineering: Covers prompt design and refinement to optimize results from Generative Models.
+* Topic 4 - Generative AI Pipelines: Explores how to design and integrate AI pipelines.
+* Topic 5 - Agentic AI Systems: Introduces concepts of agent-based systems.
+* Topic 6 - Multi-Agent Systems Architectures: Introduces MAS concepts and architectures.
+
+</bodycontent>
+
+<!-- --------------------
+  BUTTONS
+-------------------- -->
+<buttons>
+About the Speaker; http://www.fernandokoch.me/minibio.html
+Request this Tutorial; https://forms.gle/QCpxuQSP7nf8uzUc9
+</buttons>
+
+
+<!--
+##
+## LAUNCHER For Sensible Website 
+## Loads the base template and injects the current page’s source into it.
+# 
+# This script:
+# 1. Fetches the shared base layout (e.g., layouts/base.html)
+# 2. Copies the current page source into `window.__PAGE_SOURCE__`
+# 3. Rewrites the DOM to render the page through the base template
+#
+# Copyright (c) 2025, Dr. Fernando Koch
+#     http://generativeintelligencelab.ai
+#
+-->
+<script>
+(async () => {
+  const res = await fetch("/layouts/base.html");
+  const templateHTML = await res.text();
+  window.__PAGE_SOURCE__ = document.documentElement.outerHTML;
+  document.open();
+  document.write(templateHTML);
+  document.close();
+})();
+</script>

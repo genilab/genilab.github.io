@@ -1,0 +1,88 @@
+<!--
+## project-pulse.html
+## Sensible Website Page 
+## Part of the Generative AI base website system for data-driven sites.
+#
+# http://generativeintelligencelab.ai
+#
+-->
+
+<!-- --------------------
+  TITLE & BASIC INFO
+-------------------- -->
+<title link="./index.html">
+  The Pulse of GenAI in Local Businesses
+</title>
+
+<tagline>
+Dr. Fernando Koch &amp; Dr. Kevin Cox.
+Hosted by The Generative Intelligence Lab and Adams Center for Entrepreneurship.
+</tagline>
+
+<!-- --------------------
+  ICON
+-------------------- -->
+<icon>
+  images/icons/genilab-business.png
+</icon>
+
+<!-- --------------------
+  ONE-LINER
+-------------------- -->
+<oneliner>
+How Local Businesses are Thinking About or Using Generative AI to improve their business operations?
+</oneliner>
+
+<!-- --------------------
+  BODY CONTENT
+-------------------- -->
+<bodycontent>
+
+Our objective is to understand the current utilization of Generative intelligence Systems by local business ecosystems, exploring the following questions:
+* How they are preparing to assimilate AI?
+* What are the priority demands?
+* What are the main deficiencies?
+* How can we help?
+
+We are interview with small and midsize business applying a structured research process, curating a dataset of relevant research data, and releasing research reports.
+
+</bodycontent>
+
+<!-- --------------------
+  BUTTONS
+-------------------- -->
+<buttons>
+</buttons>
+
+<!-- --------------------
+  LOGOS
+-------------------- -->
+<logos>
+</logos>
+
+<!--
+##
+## LAUNCHER For Sensible Website 
+## Loads the base template and injects the current page’s source into it.
+# 
+# This script:
+# 1. Fetches the shared base layout (e.g., layouts/base.html)
+# 2. Copies the current page source into `window.__PAGE_SOURCE__`
+# 3. Rewrites the DOM to render the page through the base template
+#
+# Copyright (c) 2025, Dr. Fernando Koch
+#     http://generativeintelligencelab.ai
+#
+*/
+#
+-->
+<script>
+(async () => {
+  const res = await fetch("/layouts/base.html");
+  const templateHTML = await res.text();
+  window.__PAGE_SOURCE__ = document.documentElement.outerHTML;
+  document.open();
+  document.write(templateHTML);
+  document.close();
+})();
+</script>

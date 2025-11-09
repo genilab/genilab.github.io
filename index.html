@@ -1,0 +1,101 @@
+<!--
+## index.html
+## Sensible Website Page 
+## Part of the Generative AI base website system for data-driven sites.
+#
+# http://generativeintelligencelab.ai
+#
+-->
+
+<!-- --------------------
+  TITLE & BASIC INFO
+-------------------- -->
+<title link="./index.html">
+  The Generative Intelligence Lab
+</title>
+
+<tagline>
+  Department of Electrical Engineering and Computer Sciences at FAU
+</tagline>
+
+<!-- --------------------
+  ICON
+-------------------- -->
+<icon>
+  images/icons/genilab-logo.png
+</icon>
+
+<!-- --------------------
+  ONE-LINER
+-------------------- -->
+<oneliner>
+  We are thinkers and builders of Generative Intelligence Systems.
+</oneliner>
+
+<!-- --------------------
+  BODY CONTENT
+-------------------- -->
+<bodycontent>
+
+We operate as a Think Tank and Design Studio helping multidisciplinary teams understand, adapt, and responsibly integrate Generative Intelligence Systems.
+
+Our mission is to accelerate the assimilation of Generative Intelligence technologies in Social Good, Business, and Entrepreneurship.
+
+Initiatives:
+* Enhancing Child Welfare Research and Translation through AI; https://www.fau.edu/vip/projects/enhancing-child-welfare/
+* Perceptions About Understanding and Skills with GenAI; /project-perceptions.html
+* The Pulse of GenAI in Business; /project-pulse.html
+<!-- * Research Community Papers; /project/community-papers.html -->
+</bodycontent>
+
+<!-- --------------------
+  BUTTONS
+-------------------- -->
+<buttons>
+Projects; /projects.html
+Education; /education.html
+Join Us; /collaborate.html
+Team; /team.html
+</buttons>
+
+<!-- --------------------
+  LOGOS
+-------------------- -->
+<logos>
+images/logos/fau-coe.png; FAU College of Engineering; https://fau.edu
+images/logos/fau-cob.png; FAU College of Business; https://business.fau.edu
+images/logos/fau-csw.png; FAU College of Social Works; https://business.fau.edu
+images/logos/fau-som.png; FAU School of Medicine; https://business.fau.edu
+images/logos/aikolo.png; AIKOLO; https://aikolo.com
+images/logos/lamatic.png; Lamatic.ai; http://www.lamatic.ai
+images/logos/kinammi.png; KINAMMI; http://www.kinnami.com
+images/logos/langsmart.png; Langsmart; http://www.langsmart.ai
+images/logos/gamepill.png; GAME PILL; https://gamepill.com
+</logos>
+
+<!--
+##
+## LAUNCHER For Sensible Website 
+## Loads the base template and injects the current page’s source into it.
+# 
+# This script:
+# 1. Fetches the shared base layout (e.g., layouts/base.html)
+# 2. Copies the current page source into `window.__PAGE_SOURCE__`
+# 3. Rewrites the DOM to render the page through the base template
+#
+# Copyright (c) 2025, Dr. Fernando Koch
+#     http://generativeintelligencelab.ai
+#
+*/
+#
+-->
+<script>
+(async () => {
+  const res = await fetch("/layouts/base.html");
+  const templateHTML = await res.text();
+  window.__PAGE_SOURCE__ = document.documentElement.outerHTML;
+  document.open();
+  document.write(templateHTML);
+  document.close();
+})();
+</script>

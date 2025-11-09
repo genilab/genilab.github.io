@@ -1,0 +1,91 @@
+<!--
+## collaborate.html
+## Sensible Website Page 
+## Part of the Generative AI base website system for data-driven sites.
+#
+# http://generativeintelligencelab.ai
+#
+-->
+
+<!-- --------------------
+  TITLE & BASIC INFO
+-------------------- -->
+<title link="./index.html">
+  The Generative Intelligence Lab
+</title>
+
+<tagline>
+  Department of Electrical Engineering and Computer Sciences at FAU
+</tagline>
+
+<!-- --------------------
+  ICON
+-------------------- -->
+<icon>
+  images/icons/genilab-logo.png
+</icon>
+
+<!-- --------------------
+  ONE-LINER
+-------------------- -->
+<oneliner>
+  We bring together like-minded innovators and Multi-Disciplinary researchers to create meaningful projects.
+</oneliner>
+
+<!-- --------------------
+  BODY CONTENT
+-------------------- -->
+<bodycontent>
+
+We seek to engage with Research Collaborators and Multi-Disciplinary Colleagues to accelerate the assimilation of Generative Intelligence technologies in Social Good, Business, and Entrepreneurship.
+
+* Collaborative studies.
+* Joint Publications.
+* Joint Grant Applications.
+* Ideas for relevant Prototypes.
+
+We are always open to work with passionate and self-driven PhD candidates and Master Students, by supervising programs and providing mentorship.
+
+<h3>Ideas For Projects</h3>
+
+* Candidate Projects; ./projects.html#candidate-projects  
+* Ideas for Industry-related Use Cases; https://docs.google.com/spreadsheets/d/1Ge2chxRrBjILHkZthtzymqAbs3TkwrGiMMge23zC8jA/edit?usp=sharing  
+* Ideas for Scientific Explorations; https://docs.google.com/document/d/1kvDZFpP_bHImJSLeVpZmmEuLd-EIC-J9aWbqgIITpFI/edit?usp=sharing  
+
+
+</bodycontent>
+
+<!-- --------------------
+  BUTTONS
+-------------------- -->
+<buttons>
+Join as a Member; #
+PhD Expression of Interest; #
+</buttons>
+
+<!--
+##
+## LAUNCHER For Sensible Website 
+## Loads the base template and injects the current page’s source into it.
+# 
+# This script:
+# 1. Fetches the shared base layout (e.g., layouts/base.html)
+# 2. Copies the current page source into `window.__PAGE_SOURCE__`
+# 3. Rewrites the DOM to render the page through the base template
+#
+# Copyright (c) 2025, Dr. Fernando Koch
+#     http://generativeintelligencelab.ai
+#
+*/
+#
+-->
+<script>
+(async () => {
+  const res = await fetch("/layouts/base.html");
+  const templateHTML = await res.text();
+  window.__PAGE_SOURCE__ = document.documentElement.outerHTML;
+  document.open();
+  document.write(templateHTML);
+  document.close();
+})();
+</script>

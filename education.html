@@ -1,0 +1,100 @@
+<!--
+## education.html
+## Sensible Website Page 
+## Part of the Generative AI base website system for data-driven sites.
+#
+# http://generativeintelligencelab.ai
+#
+-->
+
+<!-- --------------------
+  TITLE & BASIC INFO
+-------------------- -->
+<title link="./index.html">
+  The Generative Intelligence Lab
+</title>
+
+<tagline>
+  Department of Electrical Engineering and Computer Sciences at FAU
+</tagline>
+
+<!-- --------------------
+  ICON
+-------------------- -->
+<icon>
+  images/icons/genilab-knowledge.png
+</icon>
+
+<!-- --------------------
+  ONE-LINER
+-------------------- -->
+<oneliner>
+  We promote Knowledge Exchange with our Research Community and Partners.
+</oneliner>
+
+<!-- --------------------
+  BODY CONTENT
+  - Uses markdown-style bullets (*)
+  - Each bullet line: Text; Link
+-------------------- -->
+<bodycontent>
+
+<h3>Courses</h3>
+* COT6930 - Generative Artificial Intelligence and Software Development Lifecycles; https://fau.simplesyllabus.com/doc/w803j6asg/Spring-2026-1-Full-Term-COT-6930-001-Topics-in-Computer-Science?mode=view  
+* CAP 4773 - Introduction to Data Sciences and Analytics; https://fau.simplesyllabus.com/doc/vu2oezhle/Fall-2025-1-Full-Term-CAP-4773-005-Intro-Data-Science-Analytics?mode=view  
+* CEN 4010 - Principles of Software Engineering in the Era of Generative Intelligence; https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view  
+* CAP4623 - Trustworthy Artificial Intelligence; https://fau.simplesyllabus.com/en-US/doc/h6c9776hw/Fall-2024-1-Full-Term-CAP-4623-001-?mode=view  
+
+<h3>Tutorials</h3>
+* Generative Intelligence Systems; /tutorial-genai-system.html  
+* Generative Intelligence and Large Language Models; /tutorial-genai-llm.html  
+* Generative Intelligence and Business; /tutorial-genai-business.html  
+* Generative Intelligence in Academic Projects; /tutorial-genai-academia.html  
+
+</bodycontent>
+
+<!-- --------------------
+  BUTTONS
+-------------------- -->
+<buttons>
+Request a Tutorial; https://forms.gle/QCpxuQSP7nf8uzUc9
+</buttons>
+
+<!-- --------------------
+  LOGOS (optional placeholder for future use)
+-------------------- -->
+<logos>
+</logos>
+
+<!-- --------------------
+  CONFIGURATION (optional)
+  - Defaults are fine here, but can override layout or spacing
+-------------------- -->
+<config>
+page-width: 1000px
+</config>
+
+<!--
+##
+## LAUNCHER For Sensible Website 
+## Loads the base template and injects the current page’s source into it.
+# 
+# This script:
+# 1. Fetches the shared base layout (e.g., layouts/base.html)
+# 2. Copies the current page source into `window.__PAGE_SOURCE__`
+# 3. Rewrites the DOM to render the page through the base template
+#
+# Copyright (c) 2025, Dr. Fernando Koch
+#     http://generativeintelligencelab.ai
+#
+-->
+<script>
+(async () => {
+  const res = await fetch("/layouts/base.html");
+  const templateHTML = await res.text();
+  window.__PAGE_SOURCE__ = document.documentElement.outerHTML;
+  document.open();
+  document.write(templateHTML);
+  document.close();
+})();
+</script>

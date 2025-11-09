@@ -1,0 +1,108 @@
+<!--
+## projects.html
+## Sensible Website Page
+## Part of the Generative AI base website system for data-driven sites.
+#
+# http://generativeintelligencelab.ai
+#
+-->
+
+<!-- --------------------
+  TITLE & BASIC INFO
+-------------------- -->
+<title link="./index.html">
+  The Generative Intelligence Lab
+</title>
+
+<tagline>
+  Department of Electrical Engineering and Computer Sciences at FAU
+</tagline>
+
+<!-- --------------------
+  ICON
+-------------------- -->
+<icon>
+  images/icons/genilab-projects.png
+</icon>
+
+<!-- --------------------
+  ONE-LINER
+-------------------- -->
+<oneliner>
+  We co-create projects around Generative Intelligence Systems with our partners to advance science and social impact.
+</oneliner>
+
+<!-- --------------------
+  BODY CONTENT
+-------------------- -->
+<bodycontent>
+
+
+<bodygrid>
+Enhancing Child Welfare Research and Translation through AI;  Generative Intelligence technology to make a real difference in the child welfare system. Partner: College of Social Works and Criminal Justice, FAU.; /images/projects/vip-childwelfare.png; https://www.fau.edu/vip/projects/enhancing-child-welfare/
+Perceptions About Understanding and Skills with GenAI; We are exploring how our academic community perceives their skills, confidence, and maturity with Generative AI systems.; images/projects/genai-perceptions.png; /project-perceptions.html
+The Pulse of GenAI; _ ; images/projects/pulse-genai.png; /project-pulse.html
+OwlMind Framework; _ ;images/owlmind-banner.png; https://github.com/genilab/owlmind
+</bodygrid>
+
+<h3>Candidate Projects</h3>
+* Small Generative Models in Counter-Unmanned Aerial Systems - create a laboratory to build a prototype around Small Generative Models in Counter-Unmanned Aerial Systems (Drone Detection). Partner: aiKOLO.; https://docs.google.com/document/d/1sizokJKUCZ5ZnkyXRqifDditB1SuRrwSYDo878yDxR0/edit?usp=sharing  
+* AI-Native, Resilient Edge Data Mesh for Smart Energy Infrastructure - a new class of AI-native, resilient networking technologies to enable NextG-compatible secure mesh overlays for wireless verticals that require continuous, policy-compliant data flow across highly dynamic, intermittent, or infrastructure-limited environments. Partner: Kinnami.  
+* Sensible Games - Experimental platform to build and test Hybrid AI models in an interactive, game-like environment. Partner: Gamepill.com.; https://docs.google.com/document/d/1r9GApilXZu6UN-BkuA71VJDafYj8_WhFLZO2NWvXV2Q/edit  
+* A Generative AI Framework for Human Behavior Prediction and Adaptive Multi-User Interaction in the Use Case of Proactive Engagement and Communication Optimization in Counselor Education Partner: Department of Counselor Education, FAU.  
+* Economic-Driven Multi-Agent Control for Smart Infrastructure - interdisciplinary research focused on designing decentralized, autonomous agents capable of real-time coordination and adaptive decision-making in dynamic environments. Partner: College of Business, FAU.  
+* GIS-Enhanced Multi-Agent Control for Smart-City Energy - create a GIS-enhanced multi-agent control system that integrates real-time spatial data, predictive modeling, and machine learning to optimize sustainability in Smart Cities. Partner: College of Science, FAU.  
+* Nourish to Flourish - Combatting Food Insecurity in Underserved College Students - a generative AI-powered culturally tailored nutrition and wellness companion, and campus-wide student-led campaigns. Partner: School of Medicine, FAU.  
+* Resilient Minds - Enhancing Mental Well-being for Transitional Youth Through Trauma-Informed Care and Generative AI. Partner: School of Medicine, FAU.  
+
+
+</bodycontent>
+
+<!-- --------------------
+  BUTTONS
+-------------------- -->
+<buttons>
+</buttons>
+
+<!-- --------------------
+  CONFIGURATION
+-------------------- -->
+<config>
+page-width: 1100px
+bodygrid-columns: 1
+bodygrid-card-radius: 16px
+bodygrid-card-border: #e0e0e0
+bodygrid-gap-x: 40px
+bodygrid-gap-y: 40px
+bodygrid-image-shape: rounded
+bodygrid-image-width: 450px
+bodygrid-image-height: 120px
+</config>
+
+
+<!--
+##
+## LAUNCHER For Sensible Website 
+## Loads the base template and injects the current page’s source into it.
+# 
+# This script:
+# 1. Fetches the shared base layout (e.g., layouts/base.html)
+# 2. Copies the current page source into `window.__PAGE_SOURCE__`
+# 3. Rewrites the DOM to render the page through the base template
+#
+# Copyright (c) 2025, Dr. Fernando Koch
+#     http://generativeintelligencelab.ai
+#
+*/
+#
+-->
+<script>
+(async () => {
+  const res = await fetch("/layouts/base.html");
+  const templateHTML = await res.text();
+  window.__PAGE_SOURCE__ = document.documentElement.outerHTML;
+  document.open();
+  document.write(templateHTML);
+  document.close();
+})();
+</script>
