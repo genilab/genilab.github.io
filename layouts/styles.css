@@ -62,7 +62,7 @@
   --bodygrid-image-shape: circle; /* circle | square | rounded */
   --bodygrid-title-color: #111;
   --bodygrid-desc-color: #666;
-  --bodygrid-grayscale: 1;
+  --bodygrid-grayscale: 1; /* 1 = on, 0 = off */
 }
 
 /* --------------------
@@ -271,6 +271,11 @@ a:hover {
   padding: 20px;
 }
 
+
+/* =====================================================
+   BODYGRID — Image
+   ===================================================== */
+
 .bodygrid-image {
   width: var(--bodygrid-image-width, 100px);
   height: var(--bodygrid-image-height, 100px);
@@ -281,37 +286,51 @@ a:hover {
   margin: 0 auto 15px;
 
   border-radius: 0;
-  filter: grayscale(calc(100% * var(--bodygrid-grayscale, 1)));
+
+  /* default: grayscale → color on hover */
+  filter: grayscale(100%);
   transition: filter 0.3s ease;
 }
 
-.bodygrid-title {
-  display: block;
-  margin-top: 10px;
-}
-
-:root[style*="--bodygrid-image-shape: rounded"] .bodygrid-image {
-  border-radius: 10%;
-}
-:root[style*="--bodygrid-image-shape: circle"] .bodygrid-image {
-  border-radius: 50%;
-}
+/* Hover reveal (feature enabled) */
 .bodygrid-card:hover .bodygrid-image {
   filter: grayscale(0%);
 }
 
-/* Text */
+/* Grayscale feature switch (disable hover + grayscale) */
+:root[style*="--bodygrid-grayscale: 0"] .bodygrid-image,
+:root[style*="--bodygrid-grayscale: 0"]
+.bodygrid-card:hover .bodygrid-image {
+  filter: none;
+}
+
+/* Image shape variants (via CSS variable) */
+:root[style*="--bodygrid-image-shape: rounded"] .bodygrid-image {
+  border-radius: 10%;
+}
+
+:root[style*="--bodygrid-image-shape: circle"] .bodygrid-image {
+  border-radius: 50%;
+}
+
+
+/* =====================================================
+   BODYGRID — Text
+   ===================================================== */
+
 .bodygrid-title {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 5px;
   font-weight: 600;
   color: var(--bodygrid-title-color);
-  margin-bottom: 5px;
 }
+
 .bodygrid-desc {
   color: var(--bodygrid-desc-color);
   font-size: 0.9rem;
   line-height: 1.4;
 }
-
 /* === BODYMEDIA === */
 .bodymedia {
   grid-template-columns: 1fr;
