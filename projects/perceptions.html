@@ -1,0 +1,88 @@
+<!--
+## project-perceptions.html
+## Sensible Website Page 
+## Part of the Generative AI base website system for data-driven sites.
+#
+# http://generativeintelligencelab.ai
+#
+-->
+
+<!-- --------------------
+  TITLE & BASIC INFO
+-------------------- -->
+<title>
+Perceptions About Understanding and Skills with GenAI
+</title>
+
+<tagline>
+Dr. Fernando Koch, Principal Investigator.
+Sam Portman, Research Collaborator.
+</tagline>
+
+<!-- --------------------
+  ICON
+-------------------- -->
+<icon>
+  /images/icons/genilab-perception.png
+</icon>
+
+<!-- --------------------
+  ONE-LINER
+-------------------- -->
+<oneliner>
+  Understanding how our academic community perceives their confidence, skills, and maturity with Generative AI.
+</oneliner>
+
+<!-- --------------------
+  BODY CONTENT
+-------------------- -->
+<bodycontent>
+Our objective is to understand how our community engages with Generative Intelligence Systems both in practice and perception.  
+We examine how these tools are used across disciplines, what influences adoption, and how educational programs can evolve to build GenAI literacy.
+
+* How confident are individuals in using Generative AI tools for learning, teaching, and research?  
+* What are the perceived barriers and motivations influencing the adoption of GenAI in academic contexts?  
+* How does perceived skill maturity vary across disciplines and experience levels?  
+* What opportunities exist to enhance awareness, training, and integration of Generative Intelligence Systems in academia?  
+
+</bodycontent>
+
+<!-- --------------------
+  BUTTONS
+-------------------- -->
+<buttons>
+Take the Survey; https://forms.gle/zcW1jFdB7CBRBnvj7
+</buttons>
+
+<!-- --------------------
+  LOGOS
+-------------------- -->
+<logos>
+</logos>
+
+<!--
+##
+## LAUNCHER For Sensible Website 
+## Loads the base template and injects the current page’s source into it.
+# 
+# This script:
+# 1. Fetches the shared base layout (e.g., layouts/base.html)
+# 2. Copies the current page source into `window.__PAGE_SOURCE__`
+# 3. Rewrites the DOM to render the page through the base template
+#
+# Copyright (c) 2025, Dr. Fernando Koch
+#     http://generativeintelligencelab.ai
+#
+*/
+#
+-->
+<script>
+(async () => {
+  const res = await fetch("/layouts/base.html");
+  const templateHTML = await res.text();
+  window.__PAGE_SOURCE__ = document.documentElement.outerHTML;
+  document.open();
+  document.write(templateHTML);
+  document.close();
+})();
+</script>

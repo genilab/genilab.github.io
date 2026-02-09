@@ -1,0 +1,90 @@
+<!--
+## tutorial-geni-llm.html
+## Sensible Website Page 
+## Part of the Generative AI base website system for data-driven sites.
+#
+# http://generativeintelligencelab.ai
+#
+-->
+
+<!-- --------------------
+  TITLE & BASIC INFO
+-------------------- -->
+<title link="/index.html">
+  The Generative Intelligence Lab
+</title>
+
+<tagline>
+  Department of Electrical Engineering and Computer Sciences at FAU
+</tagline>
+
+<!-- --------------------
+  ICON
+-------------------- -->
+<icon>
+  /images/icons/genilab-knowledge.png
+</icon>
+
+<!-- --------------------
+  ONE-LINER
+-------------------- -->
+<oneliner>
+  TUTORIAL - Generative Intelligence and Large Language Models
+</oneliner>
+
+<!-- --------------------
+  BODY CONTENT
+-------------------- -->
+<bodycontent>
+
+This tutorial (2-3 hours) revises the concepts and applications of Generative Intelligence and Large Language Models.
+
+* What defines Generative AI, and how does it differ from traditional AI paradigms?  
+* How do LLMs function, and what are their real-world benefits and limitations?  
+* How do distributed reasoning, autonomous agents, and multi-agent systems (MAS) enable collaborative AI ecosystems?  
+* Evolutions of Generative Intelligence and LLM.  
+
+<h3>Topics</h3>
+* Foundations of Generative AI
+* Large Generative Models
+* Generative AI Pipelines
+* Distributed Generative AI Architectures
+
+<h3>Target Audience</h3>
+Researchers, students, and practitioners with technical background and good understanding about AI, Machine Learning, Deep Learning, and programming.  
+
+</bodycontent>
+
+<!-- --------------------
+  BUTTONS
+-------------------- -->
+<buttons>
+About the Speaker; http://www.fernandokoch.me/minibio.html
+Request this Tutorial; https://forms.gle/QCpxuQSP7nf8uzUc9
+</buttons>
+
+
+<!--
+##
+## LAUNCHER For Sensible Website 
+## Loads the base template and injects the current page’s source into it.
+# 
+# This script:
+# 1. Fetches the shared base layout (e.g., layouts/base.html)
+# 2. Copies the current page source into `window.__PAGE_SOURCE__`
+# 3. Rewrites the DOM to render the page through the base template
+#
+# Copyright (c) 2025, Dr. Fernando Koch
+#     http://generativeintelligencelab.ai
+#
+-->
+<script>
+(async () => {
+  const res = await fetch("/layouts/base.html");
+  const templateHTML = await res.text();
+  window.__PAGE_SOURCE__ = document.documentElement.outerHTML;
+  document.open();
+  document.write(templateHTML);
+  document.close();
+})();
+</script>

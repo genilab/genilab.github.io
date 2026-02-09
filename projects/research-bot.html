@@ -1,0 +1,88 @@
+=<!--
+## project-pulse.html
+## Sensible Website Page 
+## Part of the Generative AI base website system for data-driven sites.
+#
+# http://generativeintelligencelab.ai
+#
+-->
+
+<!-- --------------------
+  TITLE & BASIC INFO
+-------------------- -->
+<title>
+  The Research Framing Companion
+</title>
+
+<tagline>
+
+<a href="https://www.fau.edu/engineering/directory/faculty/koch/">Dr. Fernando Koch<a>
+</tagline>
+
+<!-- --------------------
+  ICON
+-------------------- -->
+<icon>
+  /images/projects/research-bot.png
+</icon>
+
+<!-- --------------------
+  ONE-LINER -- THIS IS THE PROJECT TAGLINE
+-------------------- -->
+<oneliner>
+A companion intelligence for validating research ideas and shaping academically grounded proposal framing.
+</oneliner>
+
+<!-- --------------------
+  BODY CONTENT
+-------------------- -->
+<bodycontent>
+
+This project examines how companion intelligence can support early-career researchers in structuring and framing research proposals in an academically grounded manner.
+
+We provide a GPT-based companion that guides users through the required proposal sections while enforcing strict operational guidelines that preserve academic integrity and prevent automated authorship.
+
+We aim to analyze how users perceive and engage with such companion intelligence when developing and refining creative research ideas.
+
+</bodycontent>
+
+<!-- --------------------
+  BUTTONS
+-------------------- -->
+<buttons>
+Check the Bot ; https://chatgpt.com/g/g-6988d2aa801081919849b1ff921af1e0-genilab-research-framing-companion
+Guidelines Doc ; https://docs.google.com/document/d/1dAv5931Ak4u_ITbJgabsiNg42pZiSdbpHZQdPSBDo8Q/edit?usp=sharing
+</buttons>
+
+<!-- --------------------
+  LOGOS
+-------------------- -->
+<logos>
+</logos>
+
+<!--
+##
+## LAUNCHER For Sensible Website 
+## Loads the base template and injects the current page’s source into it.
+# 
+# This script:
+# 1. Fetches the shared base layout (e.g., layouts/base.html)
+# 2. Copies the current page source into `window.__PAGE_SOURCE__`
+# 3. Rewrites the DOM to render the page through the base template
+#
+# Copyright (c) 2025, Dr. Fernando Koch
+#     http://generativeintelligencelab.ai
+#
+*/
+#
+-->
+<script>
+(async () => {
+  const res = await fetch("/layouts/base.html");
+  const templateHTML = await res.text();
+  window.__PAGE_SOURCE__ = document.documentElement.outerHTML;
+  document.open();
+  document.write(templateHTML);
+  document.close();
+})();
+</script>
