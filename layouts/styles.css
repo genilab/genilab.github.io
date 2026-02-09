@@ -437,20 +437,25 @@ a:hover {
    RESPONSIVE
    ===================================================== */
 
+/* ---------- TABLET & DOWN ---------- */
 @media (max-width: 900px) {
 
+  /* Page layout */
   .container {
     grid-template-columns: 1fr;
   }
 
+  /* Grid collapses */
   .bodygrid {
     grid-template-columns: 1fr;
   }
 
+  /* Horizontal project cards */
   .bodygrid-card {
     grid-template-columns: 80px 1fr;
   }
 
+  /* Bodymedia stacks */
   .bodymedia-card {
     flex-direction: column;
   }
@@ -462,5 +467,38 @@ a:hover {
 
   .bodymedia-text {
     width: 100%;
+  }
+}
+
+
+/* ---------- PHONE ---------- */
+@media (max-width: 600px) {
+
+  /* Stack project cards vertically */
+  .bodygrid-card {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
+    text-align: center;
+  }
+
+  .bodygrid-image {
+    grid-column: 1;
+    grid-row: 1;
+    width: 100%;
+    height: auto;
+    max-width: 140px;
+    margin: 0 auto 10px auto;
+  }
+
+  .bodygrid-title {
+    grid-column: 1;
+    grid-row: 2;
+    padding-left: 0;
+  }
+
+  .bodygrid-desc {
+    grid-column: 1;
+    grid-row: 3;
+    padding-left: 0;
   }
 }
