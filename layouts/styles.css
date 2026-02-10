@@ -143,6 +143,66 @@ body {
 
 
 /* =====================================================
+   STACKED HEADER LAYOUT
+   ===================================================== */
+
+:root[style*="--page-layout: stacked"] .header {
+
+  display: grid;
+
+  /* Image + text */
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto auto;
+
+  column-gap: 24px;
+  align-items: center;
+}
+
+
+/* IMAGE — retain original scale */
+:root[style*="--page-layout: stacked"] .lab-image {
+
+  grid-column: 1;
+  grid-row: 1 / span 2;
+
+  width: auto;
+  max-width: 380px;
+}
+
+
+/* TITLE */
+:root[style*="--page-layout: stacked"] h1 {
+
+  grid-column: 2;
+  grid-row: 1;
+
+  margin: 0;
+  line-height: 1.05;
+}
+
+
+/* TAGLINE */
+:root[style*="--page-layout: stacked"] .subtext {
+
+  grid-column: 2;
+  grid-row: 2;
+
+  margin: 0;
+}
+
+
+/* Token spacing overrides */
+:root[style*="--page-layout: stacked"] {
+
+  --space-title-tagline: 4px;
+  --space-tagline-icon: 0px;
+}
+
+:root[style*="--page-layout: stacked"] h1 {
+  line-height: 1.02;
+}
+
+/* =====================================================
    CONTENT
    ===================================================== */
 
