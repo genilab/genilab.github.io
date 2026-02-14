@@ -23,7 +23,10 @@
 
   /* PAGE LAYOUT */
   --page-width: 960px;
-  --page-layout: columns; 
+  --page-layout: columns;
+  --col-left: 50%;
+  --col-right: 50%;
+   
   
   /* SPACING */
   --space-title-tagline: 8px;
@@ -105,7 +108,7 @@ body {
   margin: 0 auto;
   display: grid;
   gap: 40px;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: var(--col-left) var(--col-right);
 }
 
 :root[style*="--page-layout: stacked"] .container {
