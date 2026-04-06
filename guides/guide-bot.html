@@ -1,0 +1,237 @@
+<!--
+## create-bot.html
+## Sensible Website Page 
+## Part of the Generative AI base website system for data-driven sites.
+#
+# http://generativeintelligencelab.ai
+#
+-->
+
+<!-- --------------------
+  TITLE & BASIC INFO
+-------------------- -->
+<title link="./education.html">
+  How to Create a Bot
+</title>
+
+<tagline>
+  Building Generative Intelligence Assistants
+</tagline>
+
+<!-- --------------------
+  ICON
+-------------------- -->
+<icon>
+  /images/icons/genilab-logo.png
+</icon>
+
+<!-- --------------------
+  ONE-LINER
+-------------------- -->
+<oneliner>
+  Creating reusable research assistants.
+</oneliner>
+
+<!-- --------------------
+  BODY CONTENT
+-------------------- -->
+<bodycontent>
+
+Building a bot means designing a **structured prompting system**.  
+
+Bots are especially useful in academic research where many cognitive tasks are repetitive: analyzing papers, exploring datasets, identifying research opportunities, and extracting structured knowledge.
+
+
+## Step 1 — Define Activation Points
+
+Activation points are the user-facing questions that trigger a specific behavior.
+
+They determine what the bot should be able to do and make the system easier to test and reuse.
+
+Examples:
+
+* Summarize what this paper says about using AI in child welfare.
+* What is the main value of this paper for child welfare practice?
+* What AI approach is used in this work?
+* Does the paper discuss ethical risks of using AI in child welfare?
+
+Each activation question triggers a **specific analysis workflow**.
+
+  
+## Step 2 — Configure Identity and Mission
+
+This section defines the bot’s **role, scope, and boundaries**.
+
+It tells the system:
+
+* who it is
+* what its main task is
+* what domain it operates in
+* what is outside its scope
+
+Example identity:
+
+You are a research analysis assistant.  
+You perform structured analysis of one full-text academic paper at a time focused on the use of AI technologies in Child Welfare.
+
+This layer anchors the system’s behavior and prevents drift.
+
+
+## Step 3 — Define Guardrails
+
+Guardrails define **what the bot must and must not do**.
+
+They act as quality control rules and prevent hallucinations or scope expansion.
+
+Examples:
+
+* Process only ONE PDF per session.
+* Extract information strictly from the document.
+* Avoid interpretation beyond the text.
+* Ignore insights unrelated to AI in Child Welfare.
+
+If the paper is outside the intended scope, the bot must refuse the task.
+
+Guardrails constrain the model’s output space and maintain reliability.
+
+
+## Step 4 — Define Writing Guidelines
+
+Writing guidelines control **how the bot communicates its answers**.
+
+They help produce outputs that are consistent, minimal, and auditable.
+
+Typical constraints include:
+
+* avoid conversational language
+* avoid promotional or motivational tone
+* avoid speculative interpretation
+* minimize filler or unnecessary explanations
+
+This layer removes the default “LLM style” and aligns the output with academic expectations.
+
+
+## Step 5 — Define the Bootstrap Flow
+
+Bootstrap defines the bot’s **initial behavior at the start of a session**.
+
+The system must immediately request the required input and establish the working context.
+
+Example:
+
+The bot greets the user and asks for a single PDF to analyze.
+
+After receiving the document it extracts:
+
+* Title
+* One-line summary
+* Whether the paper relates to AI in Child Welfare
+* Strength of connection between AI and child welfare practice
+
+This ensures the analysis session starts with the correct context.
+
+
+## Step 6 — Define Misuse Prevention
+
+Users often try to push systems beyond their intended scope.
+
+Misuse prevention anticipates those situations and defines the correct responses.
+
+Examples:
+
+User: Compare this with another paper.  
+Response: ERROR — Single-paper analysis only.
+
+User: Write a literature review section.  
+Response: This system only performs analysis of the uploaded paper.
+
+These rules make the system more robust.
+
+
+## Step 7 — Define Self-Reference (Optional)
+
+Sometimes users ask how the bot is configured.
+
+Instead of exposing the entire instruction set, the system can provide a controlled reference.
+
+Example:
+
+If the user asks about the bot’s instructions, it responds with a link to documentation.
+
+This provides transparency without breaking scope.
+
+
+## Step 8 — Implement Activations
+
+Activations are modular behaviors triggered by specific user questions.
+
+Each activation defines:
+
+* the trigger condition
+* the method used to extract information
+* the output format
+
+Example activation:
+
+“What are the main strengths of this paper?”
+
+Method:
+
+* search the abstract, introduction, discussion, and results
+* identify contributions related to AI and child welfare
+* select the 3–5 strongest contributions
+* extract text-based evidence
+
+Output:
+
+3–5 concise bullet points describing the paper’s strengths.
+
+Activations transform the bot into a **structured reasoning workflow**.
+
+---
+
+## Deploying the Bot
+
+Bots can be deployed using platforms such as ChatGPT.
+
+Basic setup steps:
+
+1. Open ChatGPT  
+2. Go to Explore GPTs → My GPTs  
+3. Click Create GPT  
+4. Configure Name and Description  
+5. Paste the system instructions  
+6. Add Conversation Starters (activation questions)  
+7. Save and Share
+
+Once deployed, the bot becomes a reusable research assistant.
+
+</bodycontent>
+
+<!-- --------------------
+  BUTTONS
+-------------------- -->
+<buttons>
+</buttons>
+
+<!-- --------------------
+  LOGOS
+-------------------- -->
+<logos>
+  
+</logos>
+
+
+<config>
+</config>
+
+<script>
+(async () => {
+  const res = await fetch("/layouts/base.html");
+  const templateHTML = await res.text();
+  window.__PAGE_SOURCE__ = document.documentElement.outerHTML;
+  document.open();
+  document.write(templateHTML);
+  document.close();
+})();
+</script>
