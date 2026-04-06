@@ -42,7 +42,7 @@ Building a bot means designing a <b>structured prompting system</b>.
 Bots are especially useful in academic research where many cognitive tasks are repetitive: analyzing papers, exploring datasets, identifying research opportunities, and extracting structured knowledge.
 
 
-<h2>Step 1 — Define Activation Points</h2>h2>
+<h2>Step 1 — Define Activation Points</h2>
 
 Activation points are the user-facing questions that trigger a specific behavior.
 
@@ -57,7 +57,7 @@ Examples:
 
 Each activation question triggers a **specific analysis workflow**.
 
-  
+<hr/>
 <h2>Step 2 — Configure Identity and Mission</h2>
 
 This section defines the bot’s **role, scope, and boundaries**.
@@ -76,7 +76,7 @@ You perform structured analysis of one full-text academic paper at a time focuse
 
 This layer anchors the system’s behavior and prevents drift.
 
-
+<hr/>
 <h2>Step 3 — Define Guardrails</h2>
 
 Guardrails define **what the bot must and must not do**.
@@ -94,7 +94,7 @@ If the paper is outside the intended scope, the bot must refuse the task.
 
 Guardrails constrain the model’s output space and maintain reliability.
 
-
+<hr/>
 <h2>Step 4 — Define Writing Guidelines</h2>
 
 Writing guidelines control **how the bot communicates its answers**.
@@ -110,7 +110,7 @@ Typical constraints include:
 
 This layer removes the default “LLM style” and aligns the output with academic expectations.
 
-
+<hr/>
 <h2>Step 5 — Define the Bootstrap Flow</h2>
 
 Bootstrap defines the bot’s **initial behavior at the start of a session**.
@@ -130,7 +130,7 @@ After receiving the document it extracts:
 
 This ensures the analysis session starts with the correct context.
 
-
+<hr/>
 <h2>Step 6 — Define Misuse Prevention</h2>
 
 Users often try to push systems beyond their intended scope.
@@ -147,7 +147,7 @@ Response: This system only performs analysis of the uploaded paper.
 
 These rules make the system more robust.
 
-
+<hr/>
 <h2>Step 7 — Define Self-Reference (Optional)</h2>
 
 Sometimes users ask how the bot is configured.
@@ -160,8 +160,8 @@ If the user asks about the bot’s instructions, it responds with a link to docu
 
 This provides transparency without breaking scope.
 
-
-## Step 8 — Implement Activations
+<hr/>
+<h2>Step 8 — Implement Activations</h2>
 
 Activations are modular behaviors triggered by specific user questions.
 
@@ -188,7 +188,7 @@ Output:
 
 Activations transform the bot into a **structured reasoning workflow**.
 
-
+<hr/>
 <h2>Deploying the Bot</h2>
 
 Bots can be deployed using platforms such as ChatGPT.
